@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MILDATA — Global Military Intelligence Wire</title>
+<meta name="description" content="24/7 military intelligence wire. Real-time conflict tracking, OSINT, defense analysis. Facts first.">
+<meta property="og:title" content="MILDATA — Global Military Intelligence Wire">
+<meta property="og:description" content="24/7 military & geopolitical intelligence wire. Real-time conflict tracking. Facts first.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://mildata.app">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='28' font-size='28'>🛰</text></svg>">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { height: 100%; }
+  body {
+    background: #050505;
+    color: #00ff41;
+    font-family: 'JetBrains Mono', 'Courier New', monospace;
+    overflow-x: hidden;
+    min-height: 100vh;
+    min-height: 100dvh;
+    width: 100%;
+  }
+  #scanlines {
+    position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+    background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,255,65,0.012) 2px, rgba(0,255,65,0.012) 4px);
+    pointer-events: none; z-index: 100;
+  }
+  #vignette {
+    position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+    background: radial-gradient(ellipse at center, transparent 40%, rgba(0,0,0,0.8) 100%);
+    pointer-events: none; z-index: 99;
+  }
+  .container {
+    display: flex; flex-direction: column; align-items: center;
+    padding: 16px 16px 40px; position: relative; z-index: 10;
+    width: 100%;
+  }
+  .globe-wrap {
+    position: relative;
+    width: 92vw; max-width: 1200px;
+    aspect-ratio: 16 / 9;
+    display: flex; justify-content: center; align-items: center;
+    margin-bottom: 10px;
+  }
+  canvas#globe {
+    width: 100% !important; height: 100% !important;
+    image-rendering: auto;
+  }
+  #drone-canvas {
+    position: absolute; top: 0; left: 0;
+    width: 100% !important; height: 100% !important;
+    pointer-events: none;
+  }
+  .header { text-align: center; margin-bottom: 14px; }
+  .logo {
+    font-size: clamp(24px, 5vw, 52px); font-weight: 700;
+    letter-spacing: clamp(5px, 1.5vw, 14px); color: #00ff41;
+    text-shadow: 0 0 20px rgba(0,255,65,0.5), 0 0 60px rgba(0,255,65,0.15);
+  }
+  .tagline {
+    font-size: clamp(8px, 1.3vw, 13px);
+    letter-spacing: clamp(3px, 0.8vw, 6px);
+    color: #00aa2a; margin-top: 4px;
+  }
+  .status-bar {
+    font-size: clamp(8px, 1.2vw, 11px);
+    color: #005515; margin-top: 6px;
+    letter-spacing: clamp(1px, 0.4vw, 2px);
+  }
+  .status-bar .live { color: #ff3333; animation: blink 1s infinite; }
+  @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.2} }
+
+  #ticker {
+    width: 92vw; max-width: 1200px;
+    max-height: clamp(160px, 25vh, 300px); overflow-y: auto;
+    border: 1px solid #0a2a0a; background: rgba(0,12,0,0.4);
+    padding: 6px 0; font-size: clamp(10px, 1.2vw, 13px); line-height: 1.5;
+    color: #00cc33; margin-bottom: 18px; position: relative;
+    scrollbar-width: thin; scrollbar-color: #003300 #050505;
+  }
+  #ticker::-webkit-scrollbar { width: 4px; }
+  #ticker::-webkit-scrollbar-track { background: #050505; }
+  #ticker::-webkit-scrollbar-thumb { background: #003300; }
+  #ticker::before {
+    content: 'LIVE WIRE'; position: sticky; top: 0; display: block;
+    text-align: right; padding: 0 10px 4px; font-size: 8px;
+    color: #003a00; letter-spacing: 3px; background: rgba(0,12,0,0.9);
+    border-bottom: 1px solid #0a1a0a; z-index: 2;
+  }
+  .wire-item {
+    padding: 5px 12px; cursor: pointer; border-bottom: 1px solid #0a150a;
+    transition: background 0.15s; display: flex; gap: 8px; text-decoration: none; color: inherit;
+  }
+  .wire-item:hover { background: rgba(0,255,65,0.05); }
+  .wire-item .ts { color: #004a00; flex-shrink: 0; font-size: 10px; min-width: 42px; }
+  .wire-item .txt { flex: 1; }
+  .wire-item .src { color: #006a18; font-size: 10px; flex-shrink: 0; }
+  .wire-item.fresh { border-left: 2px solid #00ff41; }
+
+  .cta { display: flex; gap: 16px; align-items: center; flex-wrap: wrap; justify-content: center; }
+  .cta a {
+    display: inline-block; padding: 10px 28px; border: 1px solid #00ff41;
+    color: #00ff41; text-decoration: none; font-family: 'JetBrains Mono', monospace;
+    font-size: clamp(10px, 1.2vw, 13px); letter-spacing: 3px; transition: all 0.2s;
+  }
+  .cta a:hover { background: #00ff41; color: #050505; box-shadow: 0 0 20px rgba(0,255,65,0.4); }
+  .cta a.secondary { border-color: #003300; color: #005515; }
+  .cta a.secondary:hover { border-color: #00ff41; color: #00ff41; background: transparent; }
+
+  .footer {
+    position: fixed; bottom: 10px; width: 100%;
+    font-size: 8px; color: #002a00; letter-spacing: 2px; text-align: center; z-index: 10;
+  }
+
+  /* Mobile */
+  @media (max-width: 600px) {
+    .container { padding: 10px 8px 36px; }
+    .globe-wrap { width: 100vw; max-width: none; margin-left: -8px; margin-right: -8px; }
+    #ticker { width: 100%; max-height: 180px; }
+    .wire-item .src { display: none; }
+    .cta a { padding: 10px 18px; letter-spacing: 2px; }
+  }
+
+  /* Big desktop */
+  @media (min-width: 1400px) {
+    .globe-wrap { width: 80vw; }
+    #ticker { width: 80vw; }
+  }
+</style>
+</head>
+<body>
+<div id="scanlines"></div>
+<div id="vignette"></div>
+
+<div class="container">
+  <div class="globe-wrap">
+    <canvas id="globe" width="560" height="320"></canvas>
+    <canvas id="drone-canvas" width="560" height="320"></canvas>
+  </div>
+
+  <div class="header">
+    <div class="logo">MILDATA</div>
+    <div class="tagline">GLOBAL MILITARY INTELLIGENCE WIRE</div>
+    <div class="status-bar">
+      <span class="live">&#9679; LIVE</span> &mdash;
+      17 SOURCES &mdash; 60s SCAN &mdash; 24/7 COVERAGE
+    </div>
+  </div>
+
+  <div id="ticker"></div>
+
+  <div class="cta">
+    <a href="https://x.com/mildata" target="_blank">FOLLOW @MILDATA</a>
+    <a href="https://x.com/mildata" class="secondary" target="_blank">FULL WIRE ON X</a>
+  </div>
+</div>
+
+<div class="footer">CONFLICT TRACKING &bull; OSINT &bull; DEFENSE ANALYSIS &bull; FACTS FIRST</div>
+
+<script>
+// ═══════════════════════════════════════════════════════════
+// MILDATA GLOBE — Real Earth texture + tactical overlay
+// ═══════════════════════════════════════════════════════════
+
+const globeCanvas = document.getElementById('globe');
+const gCtx = globeCanvas.getContext('2d');
+const droneCanvas = document.getElementById('drone-canvas');
+const dCtx = droneCanvas.getContext('2d');
+
+// Internal render resolution capped for performance; CSS scales it up
+const MAX_RENDER_W = 800;
+
+function resize() {
+  // Get the display size from the CSS-driven globe-wrap container
+  const wrap = document.querySelector('.globe-wrap');
+  const displayW = wrap.clientWidth;
+  const displayH = wrap.clientHeight;
+
+  // Render resolution: cap at MAX_RENDER_W for performance
+  const scale = Math.min(1, MAX_RENDER_W / displayW);
+  const renderW = Math.round(displayW * scale);
+  const renderH = Math.round(displayH * scale);
+
+  globeCanvas.width = droneCanvas.width = renderW;
+  globeCanvas.height = droneCanvas.height = renderH;
+  // CSS handles actual display size via width/height: 100%
+}
+resize();
+window.addEventListener('resize', resize);
+
+// ─── Load real Earth texture (embedded base64, no CORS issues) ───
+const earthImg = new Image();
+let earthTexture = null;
+let texW = 0, texH = 0;
+
+// NASA Blue Marble 256x128 (public domain) — embedded
+earthImg.src = 'data:image/jpeg;base64,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';
+
+earthImg.onload = () => {
+  const offscreen = document.createElement('canvas');
+  offscreen.width = earthImg.width;
+  offscreen.height = earthImg.height;
+  const octx = offscreen.getContext('2d');
+  octx.drawImage(earthImg, 0, 0);
+  earthTexture = octx.getImageData(0, 0, earthImg.width, earthImg.height);
+  texW = earthImg.width;
+  texH = earthImg.height;
+};
+
+// Sample Earth texture at lon/lat, returns {r,g,b}
+function sampleEarth(lon, lat) {
+  if (!earthTexture) return null;
+  const u = ((lon + 180) / 360) * texW;
+  const v = ((90 - lat) / 180) * texH;
+  const px = Math.floor(u) % texW;
+  const py = Math.min(Math.floor(v), texH - 1);
+  const idx = (py * texW + px) * 4;
+  return {
+    r: earthTexture.data[idx],
+    g: earthTexture.data[idx + 1],
+    b: earthTexture.data[idx + 2]
+  };
+}
+
+// Live events — accurate coords, priority tiers, linkable groups
+// priority: 'critical' (hold solid), 'high' (pulse), 'medium' (flash), 'low' (dim fade)
+// group: events with same group get lattice lines drawn between them
+const EVENTS = [
+  { lat: 48.6, lon: 37.8, label: 'POKROVSK', priority: 'critical', group: 'ukraine',
+    text: 'UKRAINE counteroffensive reclaims ground near Pokrovsk — pushes back RUSSIAN advance in 2 sectors', src: 'Kyiv Post', url: 'https://x.com/mildata' },
+  { lat: 48.0, lon: 33.4, label: 'DNIPRO', priority: 'high', group: 'ukraine',
+    text: 'UKRAINE FPV drone operations destroying ~3 RUSSIAN battalion equivalents per day — General Staff data', src: 'Kyiv Post', url: 'https://x.com/mildata' },
+  { lat: 35.7, lon: 51.4, label: 'TEHRAN', priority: 'critical', group: 'iran',
+    text: 'IRAN warns war will cause global fallout — FM Araghchi signals doubt over US talks with Washington', src: 'TASS', url: 'https://x.com/mildata' },
+  { lat: 44.4, lon: 28.8, label: 'ROMANIA', priority: 'medium', group: 'blacksea',
+    text: 'ROMANIAN AUTHORITIES report drone fragments found on Black Sea beach; investigation launched', src: 'Reuters', url: 'https://x.com/mildata' },
+  { lat: 69.0, lon: 18.9, label: 'ARCTIC', priority: 'high', group: 'nato',
+    text: 'NATO deploys tens of thousands of troops for Arctic Sentry drills — largest exercise since Cold War', src: 'TASS', url: 'https://x.com/mildata' },
+  { lat: 25.3, lon: 51.5, label: 'QATAR', priority: 'high', group: 'iran',
+    text: 'US used mobile missile launchers at QATAR base as IRAN tensions escalated — satellite imagery confirms', src: 'Reuters', url: 'https://x.com/mildata' },
+  { lat: 24.5, lon: 118.1, label: 'TAIWAN', priority: 'critical', group: 'indopac',
+    text: 'CHINA conducts live-fire naval exercises near Taiwan Strait median line — 12 PLA vessels detected', src: 'Reuters', url: 'https://x.com/mildata' },
+  { lat: 39.0, lon: 125.7, label: 'DPRK', priority: 'high', group: 'indopac',
+    text: 'NORTH KOREA test-fires 2 short-range ballistic missiles into Sea of Japan — JCS confirms trajectory', src: 'Yonhap', url: 'https://x.com/mildata' },
+  { lat: 19.6, lon: 37.2, label: 'PORT SUDAN', priority: 'high', group: 'africa',
+    text: 'SUDAN RSF launches drone strikes on Port Sudan; 14 killed — deadliest attack on capital this year', src: 'Al Jazeera', url: 'https://x.com/mildata' },
+  { lat: 33.3, lon: 44.4, label: 'BAGHDAD', priority: 'medium', group: 'iran',
+    text: 'PENTAGON deploys additional THAAD battery to Middle East — 4th active battery in region', src: 'AP', url: 'https://x.com/mildata' },
+  { lat: 55.8, lon: 37.6, label: 'MOSCOW', priority: 'high', group: 'ukraine',
+    text: 'RUSSIA nearly triples Iskander missile production to 50 units/month — CSIS report confirms surge', src: 'Breaking Defense', url: 'https://x.com/mildata' },
+  { lat: -7.3, lon: 72.4, label: 'DIEGO GARCIA', priority: 'medium', group: 'iran',
+    text: 'US B-2 Spirit bombers deploy to Diego Garcia amid rising IRAN tensions — CENTCOM repositioning assets', src: 'Defense News', url: 'https://x.com/mildata' },
+  { lat: 31.8, lon: 35.2, label: 'JERUSALEM', priority: 'critical', group: 'iran',
+    text: 'VANCE warns IRAN military action possible if nuclear deal fails — strongest White House threat to date', src: 'Israel Hayom', url: 'https://x.com/mildata' },
+  { lat: 37.5, lon: 127.0, label: 'SEOUL', priority: 'high', group: 'indopac',
+    text: 'SOUTH KOREA, US begin Freedom Shield exercises — 48,000 troops in largest joint drill since 2017', src: 'Yonhap', url: 'https://x.com/mildata' },
+];
+
+// ─── Live feed + geocoding ───────────────────────────────
+// Keyword → coordinates map for placing pings from wire text
+const GEOCODE = {
+  'UKRAINE': [48.4, 35.0], 'KYIV': [50.45, 30.52], 'POKROVSK': [48.3, 37.2],
+  'DNIPRO': [48.5, 35.0], 'KHARKIV': [49.99, 36.23], 'ODESA': [46.48, 30.73],
+  'RUSSIA': [55.75, 37.62], 'MOSCOW': [55.75, 37.62], 'CRIMEA': [44.95, 34.1],
+  'IRAN': [35.7, 51.4], 'TEHRAN': [35.7, 51.4], 'IRAQ': [33.3, 44.4],
+  'BAGHDAD': [33.3, 44.4], 'ISRAEL': [31.8, 35.2], 'JERUSALEM': [31.8, 35.2],
+  'GAZA': [31.5, 34.47], 'HEZBOLLAH': [33.9, 35.5], 'LEBANON': [33.9, 35.5],
+  'SYRIA': [33.5, 36.3], 'DAMASCUS': [33.5, 36.3], 'YEMEN': [15.35, 44.2],
+  'HOUTHI': [15.35, 44.2], 'QATAR': [25.3, 51.5], 'SAUDI': [24.7, 46.7],
+  'TAIWAN': [24.5, 118.1], 'CHINA': [39.9, 116.4], 'BEIJING': [39.9, 116.4],
+  'DPRK': [39.0, 125.7], 'NORTH KOREA': [39.0, 125.7], 'PYONGYANG': [39.0, 125.7],
+  'SOUTH KOREA': [37.5, 127.0], 'SEOUL': [37.5, 127.0], 'JAPAN': [35.7, 139.7],
+  'SUDAN': [19.6, 37.2], 'PORT SUDAN': [19.6, 37.2], 'KHARTOUM': [15.6, 32.5],
+  'NATO': [50.88, 4.38], 'ARCTIC': [69.0, 18.9], 'ROMANIA': [44.4, 26.1],
+  'POLAND': [52.2, 21.0], 'PENTAGON': [38.87, -77.05], 'WASHINGTON': [38.9, -77.04],
+  'DIEGO GARCIA': [-7.3, 72.4], 'GUAM': [13.4, 144.8],
+  'AFGHAN': [34.5, 69.2], 'KABUL': [34.5, 69.2], 'PAKISTAN': [33.7, 73.0],
+  'ETHIOPIA': [9.0, 38.7], 'SOMALIA': [2.0, 45.3], 'LIBYA': [32.9, 13.2],
+  'NIGER': [13.5, 2.1], 'MALI': [12.6, -8.0], 'MYANMAR': [19.76, 96.07],
+  'PHILIPPINES': [14.6, 121.0], 'SOUTH CHINA SEA': [15.0, 114.0],
+  'RED SEA': [20.0, 38.5], 'BLACK SEA': [43.5, 34.0],
+};
+
+// Extract best geocode match from wire text
+function geocodeFromText(text) {
+  const upper = text.toUpperCase();
+  let bestMatch = null, bestLen = 0;
+  for (const [keyword, coords] of Object.entries(GEOCODE)) {
+    if (upper.includes(keyword) && keyword.length > bestLen) {
+      bestMatch = { lat: coords[0], lon: coords[1], label: keyword };
+      bestLen = keyword.length;
+    }
+  }
+  return bestMatch;
+}
+
+// Priority assignment based on content keywords
+function classifyPriority(text) {
+  const upper = text.toUpperCase();
+  const critical = ['NUCLEAR', 'INVASION', 'WAR', 'STRIKE', 'MISSILE LAUNCH', 'BOMB', 'AIRSTRIKE'];
+  const high = ['DEPLOY', 'DRONE', 'CONFLICT', 'TROOPS', 'SANCTION', 'EXERCISE', 'ASSAULT', 'ATTACK'];
+  if (critical.some(k => upper.includes(k))) return 'critical';
+  if (high.some(k => upper.includes(k))) return 'high';
+  return 'medium';
+}
+
+// Group assignment from region
+function classifyGroup(text) {
+  const upper = text.toUpperCase();
+  if (['UKRAINE', 'RUSSIA', 'CRIMEA', 'DNIPRO', 'KHARKIV'].some(k => upper.includes(k))) return 'ukraine';
+  if (['IRAN', 'IRAQ', 'ISRAEL', 'GAZA', 'HEZBOLLAH', 'QATAR', 'YEMEN', 'HOUTHI', 'SYRIA'].some(k => upper.includes(k))) return 'iran';
+  if (['TAIWAN', 'CHINA', 'DPRK', 'NORTH KOREA', 'SOUTH KOREA', 'JAPAN', 'GUAM', 'PHILIPPINES'].some(k => upper.includes(k))) return 'indopac';
+  if (['NATO', 'ARCTIC', 'ROMANIA', 'POLAND'].some(k => upper.includes(k))) return 'nato';
+  if (['SUDAN', 'ETHIOPIA', 'SOMALIA', 'LIBYA', 'NIGER', 'MALI'].some(k => upper.includes(k))) return 'africa';
+  return 'other';
+}
+
+// Active events on the globe (mutable — fed by live data or fallback demo)
+let liveEvents = [...EVENTS];
+
+// Try to fetch live wire from daemon API
+const FEED_URL = 'http://127.0.0.1:3004/api/feed';
+
+async function fetchLiveFeed() {
+  try {
+    const res = await fetch(FEED_URL + '?limit=20', { signal: AbortSignal.timeout(3000) });
+    if (!res.ok) return;
+    const data = await res.json();
+    const items = data.items || [];
+    if (items.length === 0) return;
+
+    const newEvents = [];
+    for (const item of items) {
+      if (!item.text) continue;
+      const geo = geocodeFromText(item.text);
+      if (!geo) continue;
+      newEvents.push({
+        lat: geo.lat, lon: geo.lon, label: geo.label,
+        priority: classifyPriority(item.text),
+        group: classifyGroup(item.text),
+        text: item.text.slice(0, 200),
+        src: item.source || 'Wire',
+        url: item.url || 'https://x.com/mildata'
+      });
+    }
+    if (newEvents.length > 0) {
+      liveEvents = newEvents;
+    }
+  } catch (e) {
+    // Feed not available — keep demo events
+  }
+}
+
+// Try fetching live feed on load and every 60s
+fetchLiveFeed();
+setInterval(fetchLiveFeed, 60000);
+
+// ─── Globe renderer ──────────────────────────────────────
+let rotation = 0;
+
+function lonLatTo3D(lon, lat, r) {
+  const phi = (90 - lat) * Math.PI / 180;
+  const theta = (lon + rotation) * Math.PI / 180;
+  const x = r * Math.sin(phi) * Math.cos(theta);
+  const y = r * Math.cos(phi);
+  const z = r * Math.sin(phi) * Math.sin(theta);
+  return { x, y, z };
+}
+
+function project(p3, cx, cy) {
+  // Simple orthographic projection
+  return { x: cx + p3.x, y: cy - p3.y, z: p3.z };
+}
+
+function drawGlobe(t) {
+  const W = globeCanvas.width;
+  const H = globeCanvas.height;
+  const cx = W / 2;
+  const cy = H / 2;
+  const R = Math.min(cx, cy) - 10;
+
+  // Get pixel buffer for direct manipulation (much faster)
+  const imageData = gCtx.createImageData(W, H);
+  const data = imageData.data;
+  const R2 = R * R;
+
+  // Render Earth texture onto sphere — step 2px for performance, fill 2x2 blocks
+  const STEP = 2;
+  for (let py = Math.floor(cy - R); py <= Math.ceil(cy + R); py += STEP) {
+    if (py < 0 || py >= H) continue;
+    for (let px = Math.floor(cx - R); px <= Math.ceil(cx + R); px += STEP) {
+      if (px < 0 || px >= W) continue;
+      const nx = (px - cx) / R;
+      const ny = (py - cy) / R;
+      const r2 = nx * nx + ny * ny;
+      if (r2 > 1) continue;
+
+      const nz = Math.sqrt(1 - r2);
+      const lat = Math.asin(-ny) * 180 / Math.PI;
+      const lon = Math.atan2(nx, nz) * 180 / Math.PI - rotation;
+
+      const shade = 0.3 + nz * 0.7;
+      let cr, cg, cb;
+
+      const tex = sampleEarth(lon, lat);
+      if (tex) {
+        const brightness = (tex.r * 0.2 + tex.g * 0.7 + tex.b * 0.1) / 255;
+        const isLand = brightness > 0.18;
+        if (isLand) {
+          const g = Math.floor((40 + brightness * 180) * shade);
+          cr = Math.floor(g * 0.05);
+          cg = Math.min(255, g);
+          cb = Math.floor(g * 0.15);
+        } else {
+          const g = Math.floor((8 + brightness * 30) * shade);
+          cr = Math.floor(g * 0.1);
+          cg = Math.floor(g * 0.6);
+          cb = Math.floor(g * 0.3);
+        }
+      } else {
+        const v = Math.floor(6 * shade);
+        cr = 0; cg = v; cb = 0;
+      }
+
+      // Fill 2x2 block
+      for (let dy = 0; dy < STEP; dy++) {
+        for (let dx = 0; dx < STEP; dx++) {
+          const fx = px + dx, fy = py + dy;
+          if (fx >= W || fy >= H) continue;
+          const idx = (fy * W + fx) * 4;
+          data[idx] = cr; data[idx+1] = cg; data[idx+2] = cb; data[idx+3] = 255;
+        }
+      }
+    }
+  }
+
+  gCtx.putImageData(imageData, 0, 0);
+
+  // Globe outline glow
+  gCtx.beginPath();
+  gCtx.arc(cx, cy, R + 1, 0, Math.PI * 2);
+  gCtx.strokeStyle = 'rgba(0,255,65,0.1)';
+  gCtx.lineWidth = 4;
+  gCtx.stroke();
+
+  // Atmosphere rim
+  gCtx.beginPath();
+  gCtx.arc(cx, cy, R, 0, Math.PI * 2);
+  gCtx.strokeStyle = 'rgba(0,180,60,0.15)';
+  gCtx.lineWidth = 1.5;
+  gCtx.stroke();
+
+  // Grid lines — draw per-segment with depth fade for smooth curves
+  gCtx.lineWidth = 0.6;
+
+  // Longitude lines
+  for (let lon = -180; lon < 180; lon += 30) {
+    for (let lat = -89; lat < 89; lat += 2) {
+      const p1 = lonLatTo3D(lon, lat, R);
+      const s1 = project(p1, cx, cy);
+      const p2 = lonLatTo3D(lon, lat + 2, R);
+      const s2 = project(p2, cx, cy);
+      const minZ = Math.min(s1.z, s2.z);
+      if (minZ < -R * 0.05) continue;
+      const alpha = Math.min(0.3, 0.05 + (minZ / R) * 0.25);
+      gCtx.strokeStyle = `rgba(0,120,30,${alpha})`;
+      gCtx.beginPath();
+      gCtx.moveTo(s1.x, s1.y);
+      gCtx.lineTo(s2.x, s2.y);
+      gCtx.stroke();
+    }
+  }
+
+  // Latitude lines
+  for (let lat = -75; lat <= 75; lat += 15) {
+    for (let lon = -180; lon < 180; lon += 2) {
+      const p1 = lonLatTo3D(lon, lat, R);
+      const s1 = project(p1, cx, cy);
+      const p2 = lonLatTo3D(lon + 2, lat, R);
+      const s2 = project(p2, cx, cy);
+      const minZ = Math.min(s1.z, s2.z);
+      if (minZ < -R * 0.05) continue;
+      const alpha = Math.min(0.3, 0.05 + (minZ / R) * 0.25);
+      gCtx.strokeStyle = `rgba(0,120,30,${alpha})`;
+      gCtx.beginPath();
+      gCtx.moveTo(s1.x, s1.y);
+      gCtx.lineTo(s2.x, s2.y);
+      gCtx.stroke();
+    }
+  }
+
+  // ── Projected events with screen coords ──
+  const projected = [];
+  for (let i = 0; i < liveEvents.length; i++) {
+    const ev = liveEvents[i];
+    const p = lonLatTo3D(ev.lon, ev.lat, R);
+    const s = project(p, cx, cy);
+    if (s.z < 0) continue;
+    const ddx = s.x - cx, ddy = s.y - cy;
+    if (Math.sqrt(ddx * ddx + ddy * ddy) > R - 2) continue;
+    projected.push({ ev, s, i });
+  }
+
+  // ── Lattice lines between same-group events ──
+  const groups = {};
+  for (const p of projected) {
+    const g = p.ev.group;
+    if (!groups[g]) groups[g] = [];
+    groups[g].push(p);
+  }
+  for (const g in groups) {
+    const members = groups[g];
+    if (members.length < 2) continue;
+    const latticeAlpha = 0.08 + Math.sin(t * 1.2) * 0.04;
+    gCtx.strokeStyle = `rgba(255,60,60,${latticeAlpha})`;
+    gCtx.lineWidth = Math.max(0.4, R * 0.003);
+    gCtx.setLineDash([Math.max(2, R * 0.015), Math.max(3, R * 0.02)]);
+    for (let a = 0; a < members.length; a++) {
+      for (let b = a + 1; b < members.length; b++) {
+        gCtx.beginPath();
+        gCtx.moveTo(members[a].s.x, members[a].s.y);
+        gCtx.lineTo(members[b].s.x, members[b].s.y);
+        gCtx.stroke();
+      }
+    }
+    gCtx.setLineDash([]);
+  }
+
+  // ── Draw event pings with priority tiers ──
+  const dotR = Math.max(1.5, R * 0.018);
+  const ringBase = Math.max(3, R * 0.03);
+  const ringGrow = Math.max(4, R * 0.04);
+  const labelSize = Math.max(8, Math.round(R * 0.055));
+  const labelOff = Math.max(6, R * 0.05);
+
+  for (const { ev, s, i } of projected) {
+    const pri = ev.priority;
+    const phase = (t * 0.8 + i * 2.3) % 6;
+
+    // Priority behavior:
+    // critical: always visible, constant glow + slow pulse ring
+    // high: visible, fast pulse rings
+    // medium: intermittent flash (on 3s, dim 3s)
+    // low: dim dot, no rings
+    let dotAlpha, showRings, showLabel, ringSpeed;
+
+    if (pri === 'critical') {
+      dotAlpha = 0.85 + Math.sin(t * 2) * 0.15; // gentle breathe
+      showRings = true;
+      showLabel = true;
+      ringSpeed = 0.6;
+    } else if (pri === 'high') {
+      dotAlpha = phase < 3 ? 0.9 : 0.3;
+      showRings = phase < 3;
+      showLabel = phase < 3;
+      ringSpeed = 1.0;
+    } else if (pri === 'medium') {
+      const flash = (t * 0.5 + i * 1.7) % 4;
+      dotAlpha = flash < 1.5 ? (0.7 + Math.sin(flash * 8) * 0.3) : 0.1;
+      showRings = flash < 1.0;
+      showLabel = flash < 1.5;
+      ringSpeed = 1.5;
+    } else {
+      dotAlpha = 0.15;
+      showRings = false;
+      showLabel = false;
+      ringSpeed = 0;
+    }
+
+    // Dot
+    const dr = pri === 'critical' ? dotR * 1.4 : dotR;
+    gCtx.beginPath();
+    gCtx.arc(s.x, s.y, dr, 0, Math.PI * 2);
+    gCtx.fillStyle = `rgba(255,34,34,${dotAlpha})`;
+    gCtx.fill();
+
+    // Critical: steady outer glow
+    if (pri === 'critical') {
+      gCtx.beginPath();
+      gCtx.arc(s.x, s.y, dr * 2.5, 0, Math.PI * 2);
+      gCtx.fillStyle = `rgba(255,30,30,${0.08 + Math.sin(t * 1.5) * 0.04})`;
+      gCtx.fill();
+    }
+
+    // Expanding radar rings
+    if (showRings) {
+      const rPhase = (t * ringSpeed + i * 2.3) % 3;
+      const ringR = ringBase + rPhase * ringGrow;
+      const alpha = Math.max(0, 1 - rPhase / 3);
+      gCtx.beginPath();
+      gCtx.arc(s.x, s.y, ringR, 0, Math.PI * 2);
+      gCtx.strokeStyle = `rgba(255,40,40,${alpha * 0.7})`;
+      gCtx.lineWidth = Math.max(0.8, R * 0.008);
+      gCtx.stroke();
+
+      if (rPhase > 0.5) {
+        const ringR2 = ringBase + (rPhase - 0.5) * ringGrow;
+        const alpha2 = Math.max(0, 1 - (rPhase - 0.5) / 3);
+        gCtx.beginPath();
+        gCtx.arc(s.x, s.y, ringR2, 0, Math.PI * 2);
+        gCtx.strokeStyle = `rgba(255,40,40,${alpha2 * 0.35})`;
+        gCtx.lineWidth = Math.max(0.6, R * 0.005);
+        gCtx.stroke();
+      }
+    }
+
+    // Label
+    if (showLabel && s.z > R * 0.2) {
+      gCtx.font = `${pri === 'critical' ? labelSize + 1 : labelSize}px JetBrains Mono, monospace`;
+      const labelAlpha = Math.min(1, s.z / R) * dotAlpha;
+      gCtx.fillStyle = pri === 'critical'
+        ? `rgba(255,60,60,${labelAlpha})`
+        : `rgba(255,80,80,${labelAlpha * 0.8})`;
+      gCtx.fillText(ev.label, s.x + labelOff, s.y - labelOff * 0.6);
+    }
+  }
+}
+
+// ─── MQ-9 Reaper Drone ──────────────────────────────────
+function drawReaper(t) {
+  const W = droneCanvas.width;
+  const H = droneCanvas.height;
+  const cx = W / 2;
+  const cy = H / 2;
+  const R = Math.min(cx, cy) - 10;
+
+  dCtx.clearRect(0, 0, W, H);
+
+  // Slow orbit
+  const angle = t * 0.3;
+  const orbitRx = R * 1.15;
+  const orbitRy = R * 0.35;
+  const dx = Math.cos(angle) * orbitRx;
+  const dy = Math.sin(angle) * orbitRy;
+
+  const px = cx + dx;
+  const py = cy + dy - 20;
+
+  // Behind globe check
+  const behind = Math.sin(angle) < -0.15;
+  if (behind) {
+    dCtx.globalAlpha = 0.08;
+  } else {
+    dCtx.globalAlpha = 0.9;
+  }
+
+  // Scale based on "distance" + globe size
+  const globeScale = R / 140; // normalize to original ~140px radius
+  const scale = (0.7 + Math.sin(angle) * 0.2) * globeScale;
+
+  dCtx.save();
+  dCtx.translate(px, py);
+  dCtx.scale(scale, scale);
+
+  // Bank into turn
+  const bank = Math.cos(angle) * 0.08;
+  dCtx.rotate(bank);
+
+  // Heading direction
+  const headingRight = Math.sin(angle + 0.1) > Math.sin(angle);
+  if (!headingRight) dCtx.scale(-1, 1);
+
+  // Draw MQ-9 Reaper
+  dCtx.strokeStyle = '#00ff41';
+  dCtx.fillStyle = '#00ff41';
+  dCtx.lineWidth = 1.2;
+  dCtx.font = '9px JetBrains Mono, monospace';
+  dCtx.textAlign = 'center';
+
+  // Fuselage
+  dCtx.beginPath();
+  dCtx.moveTo(-18, 0);      // nose sensor ball
+  dCtx.quadraticCurveTo(-14, -3, -8, -2);
+  dCtx.lineTo(20, -2);
+  dCtx.lineTo(24, -1);
+  dCtx.lineTo(24, 2);
+  dCtx.lineTo(20, 2);
+  dCtx.lineTo(-8, 2);
+  dCtx.quadraticCurveTo(-14, 3, -18, 0);
+  dCtx.stroke();
+
+  // Sensor ball (nose)
+  dCtx.beginPath();
+  dCtx.arc(-18, 1, 2.5, 0, Math.PI * 2);
+  dCtx.stroke();
+  dCtx.beginPath();
+  dCtx.arc(-18, 1, 1, 0, Math.PI * 2);
+  dCtx.fill();
+
+  // Main wings
+  dCtx.beginPath();
+  dCtx.moveTo(-2, -2);
+  dCtx.lineTo(-8, -18);
+  dCtx.lineTo(-5, -18);
+  dCtx.lineTo(4, -2);
+  dCtx.stroke();
+  dCtx.beginPath();
+  dCtx.moveTo(-2, 2);
+  dCtx.lineTo(-8, 18);
+  dCtx.lineTo(-5, 18);
+  dCtx.lineTo(4, 2);
+  dCtx.stroke();
+
+  // V-tail
+  dCtx.beginPath();
+  dCtx.moveTo(20, -2);
+  dCtx.lineTo(28, -10);
+  dCtx.lineTo(30, -9);
+  dCtx.lineTo(24, -1);
+  dCtx.stroke();
+  dCtx.beginPath();
+  dCtx.moveTo(20, 2);
+  dCtx.lineTo(28, 10);
+  dCtx.lineTo(30, 9);
+  dCtx.lineTo(24, 1);
+  dCtx.stroke();
+
+  // Propeller (rear)
+  const propAngle = t * 25;
+  dCtx.beginPath();
+  dCtx.moveTo(24, 0);
+  dCtx.lineTo(24 + Math.cos(propAngle) * 4, Math.sin(propAngle) * 4);
+  dCtx.moveTo(24, 0);
+  dCtx.lineTo(24 - Math.cos(propAngle) * 4, -Math.sin(propAngle) * 4);
+  dCtx.strokeStyle = 'rgba(0,255,65,0.5)';
+  dCtx.stroke();
+
+  // Hardpoints (missiles under wings)
+  dCtx.fillStyle = '#00aa30';
+  dCtx.fillRect(-6, -12, 3, 1.5);
+  dCtx.fillRect(-6, 11, 3, 1.5);
+  dCtx.fillRect(0, -8, 2.5, 1.2);
+  dCtx.fillRect(0, 7, 2.5, 1.2);
+
+  dCtx.restore();
+  dCtx.globalAlpha = 1;
+}
+
+// ─── Wire Ticker ─────────────────────────────────────────
+const tickerEl = document.getElementById('ticker');
+let eventIdx = 0;
+
+function addWireLine() {
+  const ev = liveEvents[eventIdx % liveEvents.length];
+  const now = new Date();
+  const ts = now.toTimeString().slice(0, 5);
+
+  const a = document.createElement('a');
+  a.className = 'wire-item fresh';
+  a.href = ev.url;
+  a.target = '_blank';
+  a.rel = 'noopener';
+  a.innerHTML = `<span class="ts">${ts}</span><span class="txt">${ev.text}</span><span class="src">(${ev.src})</span>`;
+  a.style.opacity = '0';
+  tickerEl.appendChild(a);
+
+  // Fade in
+  requestAnimationFrame(() => {
+    a.style.transition = 'opacity 0.4s';
+    a.style.opacity = '1';
+  });
+
+  // Remove fresh highlight after 5s
+  setTimeout(() => a.classList.remove('fresh'), 5000);
+
+  tickerEl.scrollTop = tickerEl.scrollHeight;
+
+  // Keep last 20 items
+  while (tickerEl.querySelectorAll('.wire-item').length > 20) {
+    const first = tickerEl.querySelector('.wire-item');
+    if (first) first.remove();
+  }
+
+  eventIdx++;
+}
+
+// ─── Animation Loop ──────────────────────────────────────
+let frame = 0;
+function animate() {
+  const t = frame * 0.016;
+  rotation = t * 5; // degrees, slow tactical rotation
+  drawGlobe(t);
+  drawReaper(t);
+  frame++;
+  requestAnimationFrame(animate);
+}
+
+animate();
+
+// Ticker: new line every 4 seconds
+addWireLine();
+setInterval(addWireLine, 4000);
+</script>
+</body>
+</html>
