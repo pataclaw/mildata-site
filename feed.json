@@ -1,217 +1,217 @@
 {
   "feed": "mildata",
-  "updated": "2026-02-12T10:39:54.428Z",
+  "updated": "2026-02-12T10:44:54.440Z",
   "count": 30,
   "items": [
     {
       "id": 29,
+      "text": "SUDAN conflict: New peace proposal emerges amid ongoing fighting between ARMY and RAPID SUPPORT FORCES - potential diplomatic breakthrough uncertain (AllAfrica)",
+      "source": "Google Africa Security",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VSm43dlBKUTBESGE2UXhSdENzSmhaRlFxWnVuNFJkTEdPejNubFdWOXhGUGFMTk9qNUh4cFB5T3hqYnpjY1cwUDFTRnlSN0tpSmN1bHQ3OFlzSDg?oc=5",
+      "timestamp": "2026-02-12T10:42:07.735Z"
+    },
+    {
+      "id": 28,
+      "text": "BANGLADESH holds national election amid opposition boycott - AWAMI LEAGUE seeks 4th consecutive term, low voter turnout reported in early hours (Al Jazeera)",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/2/12/voters-flock-to-polling-stations-as-bangladesh-holds-landmark-election?traffic_source=rss",
+      "timestamp": "2026-02-12T10:41:58.955Z"
+    },
+    {
+      "id": 27,
+      "text": "UKRAINE athlete HERASKEVYCH banned from OLYMPICS after wearing memorial helmet highlighting war casualties - IOC rules against athlete's protest of RUSSIA invasion (Al Jazeera)",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/2/12/ukraines-heraskevych-disqualified-from-olympics-skeleton-over-helmet?traffic_source=rss",
+      "timestamp": "2026-02-12T10:41:48.874Z"
+    },
+    {
+      "id": 26,
+      "text": "BANGLADESH polls close after contentious election - opposition claims voter suppression, ruling AWAMI LEAGUE seeks 4th consecutive term amid protests, low turnout (Al Jazeera)",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/2/12/bangladesh-election-results-live-polls-formally-close-counting-under-way?traffic_source=rss",
+      "timestamp": "2026-02-12T10:41:39.420Z"
+    },
+    {
+      "id": 25,
       "text": "RUSSIA economy faces critical strain: Defense production vs. agricultural output creating major resource allocation tensions in ongoing UKRAINE war effort (RFE/RL)",
       "source": "Google Ukraine",
       "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU1I3alU1SndUMmREQkRJV3dEUzlQNmdZRXBrZ2h0N1pwYUhTQVQzX1pwZmstbUR4VjFoeFVwcUZsa0tfbU1aX2VzWkkwVHotMU14dnpKSnd2eUJtMFNUUFhxdmZRMFQ5RXlndDZZVzhrXzZDYW85OUFWMHpTamlGRklrT21MQzU1dHZRNGZmd3pxT242UF91YtIBmwFBVV95cUxPUFpacjJ1S05rTk1yU19sUFVDcElrYlBFNGE5TV85TzRNRExMQ2otNzZ3MFJhYUpRczFMVEFoRElJMWZ2djMyUk9ySnJfVFFMT2NDMDVJcnc2bERvRDRfRTZlVnc5NVpqYWpNeENISmFGMzYzbU0ySEZndE5CcWEtQTJIT3V3cGhYQ0RrOTR5RjdJRXpMMy1QemJvZw?oc=5",
       "timestamp": "2026-02-12T10:38:55.111Z"
     },
     {
-      "id": 28,
+      "id": 24,
       "text": "RUSSIA hopes for OLYMPIC reinstatement after 70+ international sports federations clear Russian athletes for competition — Foreign Ministry spokesperson (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/politics/2085797",
       "timestamp": "2026-02-12T10:37:02.893Z"
     },
     {
-      "id": 27,
+      "id": 23,
       "text": "LEGAL FILING: Attorneys seek CIA, NSA documents on JEFFREY EPSTEIN's potential intelligence connections - court motion demands full disclosure of classified files (Anadolu Agency)",
       "source": "Google Intelligence",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWNjVU9QcTFBZjd3aDNCYnF4N0lzZjljcmNFQ1FuZVd4Nnl6U2xlTFctV2plMmQzS3BHQkFmWDlDTGtSd1d1ejJrOWh2WGpwSTNFNUdzVjJXV21PUjlXUDFwWVdUTjA3X1I2ZGgzOUhxQlBKS3BQdFJmX0JRcXFsQkxiekE1bU5sc3llcnRRNk9WMUw1WlB3Qk40VzRSeTRCdDNuNDQ1WkFKZ0t2RENPYldB?oc=5",
       "timestamp": "2026-02-12T10:36:55.268Z"
     },
     {
-      "id": 26,
+      "id": 22,
       "text": "RUSSIA claims UKRAINE attempted assassination of Russian official, alleges deliberate effort to block peace negotiations - ZELENSKY linked to \"coordinated\" operation on RUSSIAN territory (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/politics/2085793",
       "timestamp": "2026-02-12T10:35:02.182Z"
     },
     {
-      "id": 25,
+      "id": 21,
       "text": "RUSSIA's PUTIN thanks UAE president for assistance in capturing suspect linked to alleged assassination attempt against military leadership (Anadolu Agency)",
       "source": "Anadolu Agency",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPejFOUXdWbkVkZnRzNUlYN2t5akhpY2NKRnZEd0Fia1drSWxYZjNlUGYzTG5WT2tCZnZSWWo2Z2owRmoxeEZzMTZNcmEyVnFPUnVsdndhazdXZWlTRUVZVFFLaXM0RmFoLWhfczBVcFNNdkxRelZHbjUtTnJzUnpGZXp3QldMUlZza3VPUzBtaWllNWlMX2lqbkdqcFVERzI5NXkyTlcwYWZEc3R3MktmSVdnRmY1MWhyLWhjTHhCRGs0LW5HZmxFOWFKZGtqY2d2YnhwbnhR?oc=5",
       "timestamp": "2026-02-12T10:27:17.469Z"
     },
     {
-      "id": 24,
+      "id": 20,
       "text": "AUSTRALIA: Terrorist attack at BONDI BEACH targets Jewish event - multiple casualties reported, suspect neutralized by police. Active investigation underway in SYDNEY (Time)",
       "source": "Google Terrorism",
       "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHTUc4Zkt0djZWRlNDTDBybWZyRm11aUhkMW1nN2VqdEFxOWhHUzBYS21JX3dzMjV6THJwS2s0aDhtNG91ZHZyeG5lT3g2d1ZRUWhTV0lRelhhWTFkMGw5dHlWMHUzMHd2UnhDaw?oc=5",
       "timestamp": "2026-02-12T10:27:09.985Z"
     },
     {
-      "id": 23,
+      "id": 19,
       "text": "U.S. CENTCOM conducts airstrikes against ISIS targets in SYRIA - precision strikes targeting militant infrastructure, ongoing counter-terrorism operation (CENTCOM)",
       "source": "CENTCOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10Z1hvclo0X0ZPMl96a3hTNHNxLUlUZEdzYjFTeVJMb2psSm43dHlRY2pKclJ4MlA4R1pncm02aUNEdzh5dDlGR05FdnJLcVlOdTZSZ0UtWVJTcUp6c2hsSjdpUXJIam9B?oc=5",
       "timestamp": "2026-02-12T10:27:00.048Z"
     },
     {
-      "id": 22,
+      "id": 18,
       "text": "TRUMP proposes GREENLAND sovereignty framework for U.S. military bases - NATO discussions underway on potential strategic Arctic expansion (NYT)",
       "source": "Google Force Protection",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa3c3ZlY0cFpOcUtqYzl2ZFFSMGVBZ1FMZWtFcmVYY2FrYkhxRWJYRUdqeGdGTzNUMmxJWk00VDhRSmhFeUNfR1F2aFc3WUVQaDZ0YUNady1ScV9JUGx0SFV0T0xuc2FfM09NUnUwWWtBMnVodFF6WWRYdE5JWWFSZ1hCM1pnRU5UT3h5RkY3Njh4UnB0REE?oc=5",
       "timestamp": "2026-02-12T10:26:51.238Z"
     },
     {
-      "id": 21,
+      "id": 17,
       "text": "CYBER ALERT: US ENERGY INFRASTRUCTURE potentially vulnerable to large-scale attack - PENTAGON cybersecurity sources warn of increasing grid vulnerability (WIRED)",
       "source": "Google Critical Infrastructure",
       "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJNHdFenE0MEE0MmRwNzQ4VGRGZEJELWZYMGJ0eHhBM1NtV2hrdzAzOVFQS1U4Z1RFWVJwOTNjZlRWak5rY2lQc1BGREhXZkIxbFRxRDg0d2VxOUpHRGlkeF9kTnZrX0IwYXU5bmktWQ?oc=5",
       "timestamp": "2026-02-12T10:26:43.438Z"
     },
     {
-      "id": 20,
+      "id": 16,
       "text": "BENIN denies NIGER military govt accusations of involvement in recent Niamey attack - diplomatic tensions escalate in West African region (Anadolu Agency)",
       "source": "Anadolu Agency",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3BsdjJOdTlKRDBkRjc2ekMzNlg1cXVyMGN2alFLR2FVdHJtQUNjQVM3YkpaXzdvYkI3NDJ0a1lVU2JIZ0lZTGZnajRtMTl4QmphX1psaGhnU1g1N2JSSEs1eXl3V1hCMjBtUmVhNmR2LTdGS09BLXJ6MGZkTFQxMFI1N19aSERuU1d2ZnVtWFVOTUZ6T0pib1Q1OFRLWG1walJpal9xa09GaXdpdl92UzB3?oc=5",
       "timestamp": "2026-02-12T10:25:40.093Z"
     },
     {
-      "id": 19,
+      "id": 15,
       "text": "ISRAEL provides military advisers to CONGO military - assists in tactical training for urban combat operations in eastern region (Times of Israel)",
       "source": "Times of Israel",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa1JpeUpIemItUXNwYUo2cXlFbVBJQ3Y1aHBwaHZFbU5QTVVCUGM3b1pYX3VtcmZGc2pBZlR4aS1OYjF4N0ZSbmJ2c25IVl9VT3E3ZmF6Q3FNZTZvRnk5Sm5WOXhta1VqWWVEd0V2VllJRVdEdVJfYnJZVkxVb1NvaHVfSThEcUlRczhHcVp1WjFLd0duQkpyX1oyajNYNmF5TS1v0gGoAUFVX3lxTE13VjE2bDNUYWgxdU1hZm9WVlJRMlRGNGRxbUNCTEZ4eUQ0X0JJaUhkMWVTTmJmSXJSYXlpM1JkOXc2RUc1d3N5MVEzREpFNFYyRUFkaU1tcHBtRDZnNTVma0dWbGd0T1NsbVVKS0JTaFd6OHVoZzY4VHRSeVpvSG1jaDhUR0lkUXJWMW5heFhfTGpBV2xlcnQyS25Td2pkc0VHNDdlckNISw?oc=5",
       "timestamp": "2026-02-12T10:25:32.117Z"
     },
     {
-      "id": 18,
+      "id": 14,
       "text": "USAF F-16s intercept 2 RUSSIAN spy planes near ALASKA airspace on consecutive days - 2nd consecutive incident raises regional tensions (Defense News)",
       "source": "Google Airspace Violation",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTmlOcXk4VEpVNlFtN2x0OVpPeHlYT3ZUcGN0d3lpUWNjOGJVNER1dWx5ZUFwWVgxbnJwQlcxYThOaE1ScEJlUERaajQtQ0Z5eTNrWUdnWDNGSVRURFV1Z244bUU0LWZEV3FFVEhqQldPQ1N2OFQwUWtyZTVxX2toVUhTOTFOWUhRN01URk9GMVJqQ3RpMUR3M1dYMFg2bTZYblNKZzNMd2pveDdq?oc=5",
       "timestamp": "2026-02-12T10:22:48.869Z"
     },
     {
-      "id": 17,
+      "id": 13,
       "text": "RUSSIA: Supercam UAV manufacturer reports growing export interest from MIDDLE EAST, SOUTHEAST ASIA markets for tactical reconnaissance drone systems (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/defense/2085781",
       "timestamp": "2026-02-12T10:22:41.868Z"
     },
     {
-      "id": 16,
+      "id": 12,
       "text": "INDOPACOM deploys humanitarian assistance team to INDONESIA after major earthquake - US military providing medical, logistics, and rescue support to affected regions (PACOM)",
       "source": "INDOPACOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQmtENVFQSWFNSEhfWVV0WlpScWlLR3lNMzVZYzA3MU05VkpwZzU1OUl2OElGUm0wc3lzYVB6TThta2xDQXRjdy0tODN1RTktZ3NNQkdfT0hJeXFtY25WUmpRZjZ6ZERzekV2SWI3VWgyRHZTanpDY0k5b1V2YTNIekFpT01fSGlQbENwVEhQZ0lVY0xWYUgxcVRGcDZmem1JY2RZQ252bFBuY2dUdG1sclB2UkFkZW9pSFNHMWxNVGtJOXp0SE01aG9iVHB3dk5q?oc=5",
       "timestamp": "2026-02-12T10:18:22.486Z"
     },
     {
-      "id": 15,
+      "id": 11,
       "text": "NORTH KOREA: KIM Jong Un appears to designate teen daughter KI Ju Ae as potential successor, signals dynastic transition in first public heir selection (BBC)",
       "source": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/articles/cn0e1g7kwglo?at_medium=RSS&at_campaign=rss",
       "timestamp": "2026-02-12T10:10:42.508Z"
     },
     {
-      "id": 14,
+      "id": 10,
       "text": "NORTH KOREA leader KIM JONG UN signals daughter KIM JU AE as potential successor in unprecedented public move - SOUTH KOREAN intelligence assesses dynastic transition underway (BBC)",
       "source": "Google Intelligence",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JanBQd1U0RndzVkNvZnNUSXAzWGtidm5OdndFWlNkT3ByNk1uNk1Kd3gyRGd6amVmdzRnbURaNHFjUzBIRHVSWmJDLW90S1BxMDFkNzdCdXZIZw?oc=5",
       "timestamp": "2026-02-12T10:10:35.085Z"
     },
     {
-      "id": 13,
+      "id": 9,
       "text": "UKRAINE launches massive drone assault on RUSSIA's BELGOROD border region - 160 UAVs deployed, 1 child wounded in strikes (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/politics/2085757",
       "timestamp": "2026-02-12T10:05:26.516Z"
     },
     {
-      "id": 12,
+      "id": 8,
       "text": "CANADA police name JESSE VAN ROOTSELAAR, 18, as shooting suspect - previously detained for mental health assessments (Al Jazeera)",
       "source": "Al Jazeera",
       "sourceUrl": "https://www.aljazeera.com/news/2026/2/12/canada-police-identify-shooting-suspect-as-18-year-old-jesse-van-rootselaar?traffic_source=rss",
       "timestamp": "2026-02-12T10:04:23.181Z"
     },
     {
-      "id": 11,
+      "id": 7,
       "text": "INDOPACOM deploys Littoral Combat Ships for maritime security mission in PACIFIC - joint exercise with Oceania partners strengthens regional maritime cooperation (PACOM)",
       "source": "INDOPACOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOXphcTBNRHA3OGZsTkgzZ0JpQ3BjWXQtQW5ndkRoR0F0SEd3VlduVmZSc1lpeDBhUmZRV1ZZYTVBczlXMms1T3BxMUhTc2l4bFhMajZ4bE1DOXhqSzItaU4xQ0huUURWN09XWlpoaE9UaTJhVVB6ZEw5VElLQ3pFVU9maUs1X0hpUjlJT3BoOS1Gb25RRWpHdk9qT2NqdTl6Tkx1R3NuMEMzcEpSRDVnQTFOdnY5dEQ3M1lteGY5WmVBSWQya0pqa08xaktIUU82aUVpY2hR?oc=5",
       "timestamp": "2026-02-12T10:03:26.767Z"
     },
     {
-      "id": 10,
+      "id": 6,
       "text": "US 2-2 ATTACK HELICOPTER BATTALION conducts night air assault training with regional allies in INDO-PACIFIC - enhanced joint readiness against potential regional threats (INDOPACOM)",
       "source": "INDOPACOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IUm0wc29iMXRacmtSM0JPM0Q1cjdRZzJlY1V2dk5rQUNqMUc5MmlMSlNTWmREbzhQZW54S3RTUXh6d25nc2JPdzlfcTZ6QmIyYU90dG9lT3Azb2FDcE81empiRmMyOXQ2OEdUVDJhQkNWZk90cExQT2F2OHl6dw?oc=5",
       "timestamp": "2026-02-12T10:03:18.675Z"
     },
     {
-      "id": 9,
+      "id": 5,
       "text": "INDOPACOM hosts virtual summit of regional military chiefs - discusses CHINA tensions, TAIWAN defense, maritime security in SOUTH CHINA SEA (PACOM)",
       "source": "INDOPACOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObklGdEpqWGZsUEZCd3FoSURLNzliSWZBZWtBa2RGSU9iNlB1WlJod05Ua0JTZU53VEltbFVXWk9udVJ0WGFzbHpobFVDMjh4SmozT2h6RThoWmhmLVFlYUNmbWFlRlVfSFY5MHBUeHNQX1ZEODVtc0x1SEFsU0Jsd1JLT3VCNXJJMzk3M0dsTjdNak1ySkFraDBqaElHQlhONTFKVGdvYkN3MWNfOXpaS2NzUmtSNjN1X18zeWJESlYtM2hKelRkcFQ1NGxtOVRlYlljRWFVU01WU05xTXNQNg?oc=5",
       "timestamp": "2026-02-12T10:03:11.020Z"
     },
     {
-      "id": 8,
+      "id": 4,
       "text": "INDOPACOM: REGIONAL HEALTH COMMAND-PACIFIC restructures medical operations to enhance U.S. ARMY combat readiness in PACIFIC theater (PACOM)",
       "source": "INDOPACOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ3AxbFhzN2kyOUFHcjg1b0I0cU5FMml0QlN2NWdudnVrb1NVUHFkbTVkVjRFX01FUnM0RjZYR1pteHVKZjBKbjl5SGlJRXZpQ3RiOVlyTGxWVEpJaFBhM2RjRWVkTkxLTWo3cU0tMm1LeGFfQ1lvRzdpbFdHZzFGcGlkdmczWjlpWU44MGUyNFFoZnl3ZW82SWxDdzRsbTItVFk4VWFCbk5VNktiTTZ3b01BRHV5Nk1HNjlCRklva2hTLXktUkNV?oc=5",
       "timestamp": "2026-02-12T10:03:03.121Z"
     },
     {
-      "id": 7,
+      "id": 3,
       "text": "CHINA propaganda efforts target global narrative: INDOPACOM report reveals PRC's strategic information warfare campaign to reshape international perception (PACOM)",
       "source": "INDOPACOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQWxlU3pId0hnWTNVX3dUR1RLRTBFeDZycW1QOEZ0cUVHbHYtaXprZTdwRGUzWHg3bWR1SjNxWUVPbDdKVjktUlN6VXJYZm1TOGk4MDNua09FdkZEdW44OWd6RnJjUFhtemdFS0FHZjB4V2VxR1Y2U2J6VjBKVlJKYlFVMFFmQmRkRnc5c0ZBVXhraEE2TlAwUEZieTBwOXBlcXF3ckNFSUk2WXI5ZVZXS2NqNmV1UVVpQ19PcjU0WE1tdjAzUGZWa19va21vcExqcW15dlpJbU96NnhlRDdSTQ?oc=5",
       "timestamp": "2026-02-12T10:02:52.675Z"
     },
     {
-      "id": 6,
+      "id": 2,
       "text": "RUSSIA warns US of tough negotiations amid escalating tensions: Deputy Foreign Minister RYABKOV signals hardline stance, cites EUROPE as \"systemic opponent\" supporting UKRAINE (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/politics/2085755",
       "timestamp": "2026-02-12T10:01:49.719Z"
     },
     {
-      "id": 5,
+      "id": 1,
       "text": "UKRAINE WAR UPDATE: RUSSIA suffers cumulative losses after 1,450 days of conflict - estimated 424,380 russian personnel killed/wounded since invasion began (Defense Express)",
       "source": "Google Ukraine",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXF3b3NOMGpoeVdpamZzRzVFLUU0SG9nSFRLblFTQzY4dktkY0QtakJieW5KRVZFT01mVnpWZHc1REVyOXh5RWVTTkVpODBNNktZeFhQQ0p0cFVZUDZHZC04UEp3UmRxdE51b2czbGxHajhFSGVZX1dOS202OTBwajQ5a09vUGROd3lDdHN6anRwTk1UVE1VSGhsWGVHcjlST3IxLTVB?oc=5",
       "timestamp": "2026-02-12T09:51:31.405Z"
     },
     {
-      "id": 4,
+      "id": 0,
       "text": "TELEDYNE FLIR launches drone-mounted biological detection system at EUROSATORY defense expo - new UAS capability for chemical/bio threat monitoring (Janes)",
       "source": "Janes",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSE9xZXVoV2tlNHIwYk5GMFF1cTJ2RkF1b3VBN1g5NlI2UHNwdWJOWnZPaXdNbk52cnRTQjZOa0hGUHc5bGhUaTJ2bnYtODY4bXFXVEVjakxPTDZjQWtYb1BWSTJ2M0NwRDVVQjdlLVdvd0xYWE9xeDlTQmJkX2FjN09PUzVtMW5QQXVRVU9XdkNkMDVrbzhmOVFWSzlZOG9RLWNrRGdJX2hQRUI3dV8yZ2pJMDRvUjh2MVliUjNvWEpWekxYbDl3UQ?oc=5",
       "timestamp": "2026-02-12T09:51:23.819Z"
-    },
-    {
-      "id": 3,
-      "text": "EUROPE imports 50+ bcm LNG since heating season start - gas storage withdrawals hit 588 mcm on Feb 10, signaling high energy demand (TASS)",
-      "source": "TASS",
-      "sourceUrl": "https://tass.com/economy/2085747",
-      "timestamp": "2026-02-12T09:49:32.161Z"
-    },
-    {
-      "id": 2,
-      "text": "RUSSIA, BURKINA FASO to sign bilateral diplomatic relations agreement in MOSCOW - expected military/security cooperation expansion in Sahel region (TASS)",
-      "source": "TASS",
-      "sourceUrl": "https://tass.com/politics/2085749",
-      "timestamp": "2026-02-12T09:49:22.338Z"
-    },
-    {
-      "id": 1,
-      "text": "RUSSIA launches PROTON-M rocket carrying ELEKTRO-L weather satellite from BAIKONUR spaceport - satellite to reach 35,406km orbit in 6h38m (TASS)",
-      "source": "TASS",
-      "sourceUrl": "https://tass.com/science/2085751",
-      "timestamp": "2026-02-12T09:49:12.679Z"
-    },
-    {
-      "id": 0,
-      "text": "PENTAGON signals potential drawdown of direct military deterrence posture against NORTH KOREA - strategic shift in regional defense commitment signals emerging diplomatic recalibration (Guardian)",
-      "source": "Google Korea DPRK",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTVpyQVppdGhsVUJ1UC1kczJnemJvMHQ4YnVMaGtQZURhQ0E4VllIb3VVWlRtRmtFSWdKOVZzRk5nVGY4bnUySlJHVFNTd09vSmk3UEV5cGdaczVqMHFLRGpsZ0xOSWtJaENYanlfNm0zTWdfUW5PalIyTl9sWXZCOUZoMDFaUjFvRVV1bnAxMjVsVVlHcWVz?oc=5",
-      "timestamp": "2026-02-12T09:48:15.832Z"
     }
   ]
 }
