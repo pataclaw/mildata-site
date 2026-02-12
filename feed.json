@@ -1,217 +1,217 @@
 {
   "feed": "mildata",
-  "updated": "2026-02-12T09:19:54.289Z",
+  "updated": "2026-02-12T09:24:54.333Z",
   "count": 30,
   "items": [
     {
       "id": 29,
+      "text": "ISRAEL mobilizes 60,000 military reservists for expanded GAZA ground operation - imminent major offensive signaled by IDF troop call-up (NPR)",
+      "source": "Google Urgent Military",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVEQ4ZFlfaER6Y0hmWTNNNUNvbTZDZ053Y042b010ZWxxVkJNbVc4UEJSRWotZmwyRlZNR253WDZKcnE1bW1MRzdVemhzajdYcl9XdWxyLUJJcmY3eGRzZzA0V3VqVVhHeENMMS1tOXJGYW9JUFJncE5Pd1lIRlNvUmVxbmhUS1huZGR1Wg?oc=5",
+      "timestamp": "2026-02-12T09:21:29.691Z"
+    },
+    {
+      "id": 28,
       "text": "PENTAGON: Top military leadership convenes urgent, rare all-flag officer conference — potential strategic review or operational planning signaled by mass general/admiral assembly (Detroit News)",
       "source": "Google Urgent Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN0xpc2wxM2dtMXAzT1lhZTA4VkdoYVBUalQ4Y2w3bE02S3lwQUZRSGpLZXNUV2hiaW5sVXhWdFozTEtuRFhMYjNJVlBSTlFNSlFxZ0d6ZzlJczg3a2U2dlZJSTh3TmxiN05WUUdKeFpJbzBDMXBMWnhXTFB3bHBielBrcDg0eE5EcV9oQlA4LUFRYTh2emlZUHhzN05ZYWo1YXcyLW14WXhwR0t6bEZ6N1dsZnJqWVJ2MV9IVGYtZXQ3Y1NDQmV0aElqTGJ0akdZeHpNNTJR?oc=5",
       "timestamp": "2026-02-12T09:19:37.652Z"
     },
     {
-      "id": 28,
+      "id": 27,
       "text": "US ARMY deploys AeroVironment LOCUST counter-drone laser system near EL PASO airport in first known operational deployment of directed-energy anti-drone technology (Reuters)",
       "source": "Reuters",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbkc2SUhCRmVreXhXUDhMU01pVXdSR3pGUmNkRGJqQjJ2UEExcWh3V3JnRW5nZ1RIOTgtcWtBTXgxcHBJOFdRRUg2S0JLbTY2QlNoX09QQkhPdUhKbmE3bEx6cC10VVRneTBudmRTdTliaEZtY3BBSWxNS2N0WGJaQ2RWcVRFOG5XUEVKVDZrUzlUdkhBQkVVN0Q1bDFMYUZ0UjlfZS12bFBHbVRmSV9CN2RPQ0pCLVotMlNCdTdYYktwX2JVb1BMMWZuMW43b0R2UWVDOWNmZG0?oc=5",
       "timestamp": "2026-02-12T09:19:27.248Z"
     },
     {
-      "id": 27,
+      "id": 26,
       "text": "GAZA: Families cross RAFAH border crossing, returning to devastated PALESTINIAN territories after weeks of conflict with ISRAEL; humanitarian crisis continues (Al Jazeera)",
       "source": "Al Jazeera",
       "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/2/12/families-mourn-loved-ones-as-they-make-emotional-return-to-gaza?traffic_source=rss",
       "timestamp": "2026-02-12T09:18:22.648Z"
     },
     {
-      "id": 26,
+      "id": 25,
       "text": "ARGENTINA: Security forces clash with protesters in BUENOS AIRES - water cannon, tear gas deployed against labour reform demonstration (Al Jazeera)",
       "source": "Al Jazeera",
       "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/2/12/argentinian-security-forces-fire-water-cannon-and-tear-gas-at-protesters?traffic_source=rss",
       "timestamp": "2026-02-12T09:18:13.715Z"
     },
     {
-      "id": 25,
+      "id": 24,
       "text": "RUSSIA accuses UKRAINE of targeting civilians in BELGOROD region during ongoing settlement talks - multiple drone/missile strikes reported, civilian casualties confirmed (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/politics/2085723",
       "timestamp": "2026-02-12T09:13:03.470Z"
     },
     {
-      "id": 24,
+      "id": 23,
       "text": "PENTAGON warns of potential foreign election interference: Enhanced cybersecurity protocols activated for 2024 national elections — intelligence agencies on high alert (DHS)",
       "source": "White House National Security",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTnkyLXYwblJrWmdpbU9LZkZMYWhvSUlKVEsxZnZ0WkVmSG1IaGRTNmlZcGl0dUo1TkVmblVNc0FPUXpuMXpYX2R2Wkh5cG1pcWNaOWZYV3NwOENGYzAzWXhmMFRHdGc3dnI4aW5Gbi1oaXd1ZGN3VmEtQ053QXZBMXdjZm8wMUhwelJCRElmNWxNMGZHWm9CenNOcXFzRWtoQnVUU2JqSW1ndklSVnVXaXNJT0xTNWlwcmc?oc=5",
       "timestamp": "2026-02-12T09:12:07.261Z"
     },
     {
-      "id": 23,
+      "id": 22,
       "text": "RUSSIA: Foreign Ministry slams EU leadership, claims UKRAINE terrorism accusations unaddressed by EU officials - diplomatic tensions escalate (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/politics/2085719",
       "timestamp": "2026-02-12T09:07:39.334Z"
     },
     {
-      "id": 22,
+      "id": 21,
       "text": "UK CARRIER STRIKE GROUP returns after 8-month global deployment: HMS QUEEN ELIZABETH leads maritime mission through Indo-Pacific, demonstrating ROYAL NAVY power projection capabilities (USNI)",
       "source": "Google Naval",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWQtdzhIbW5iM0hjc3JvYlBsMlF2MjV0ay1sNXQxc3V2bFh2dHU2emlkZm1RMzRCdzl1ZXpmdlM5OUZ1Q1ZxenpJUF81ZGxmcG5DZDRDS3NMMU9TYXZpa3dJWlJ2SThqY09lTlRmTnhZQmkxcjVTcllIeWV5Y1dGb3FlaW41bDVVVXJiUDVhNkN5OHN2dDNyZ2twRjcwb3lFelE?oc=5",
       "timestamp": "2026-02-12T09:07:31.479Z"
     },
     {
-      "id": 21,
+      "id": 20,
       "text": "RUSSIA deploys new GIATSINT-K self-propelled howitzers to UKRAINE frontline — artillery reinforcement in KHARKOV region (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/defense/2085709",
       "timestamp": "2026-02-12T09:03:11.210Z"
     },
     {
-      "id": 20,
+      "id": 19,
       "text": "NORTH KOREA preparing to designate KIM Jong Un's daughter KIM Ju-ae as successor, SOUTH KOREAN intelligence agency NIS reports - potential first female leader in regime history (Yonhap)",
       "source": "Yonhap Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94a2QtM1BlQkZSQ0NJN2lGck5VRGdvUnh5ZjdRVkZHRWh5dHFQTXl5alZSQXhvU3daalpHNkpJbHlxQ195MDkwakVmVGxZTGFWSFVsazdsWHA0QQ?oc=5",
       "timestamp": "2026-02-12T09:03:05.343Z"
     },
     {
-      "id": 19,
+      "id": 18,
       "text": "BREAKING: UN SECURITY COUNCIL convenes emergency session following U.S. military strikes against IRAN-backed targets - diplomatic tensions escalate in Middle East (PBS)",
       "source": "Google Urgent Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWHZ6NEd4MGhjQjZ6OHJXM2RHTG1QTU14N1p3Wkp4ZjBVVlV1NDE5dFFQZWYzNTNZcEtZUjZZc1lsUmxVMzAyNlNQam9kN21TeU9XQWZ3Z0tCZHZJV2pudDEzZXhvczBWUTJQTjhkMDdtNW5seEJnblNSMVBRMGxKTTY0UjROdmZTWUV3d1lyczB3b190SkRJc1FvY3V0U0MxbldNMmI5QVl4d0loNlFWUTlXOEdMUdIBuwFBVV95cUxQX3EwNjlhSkdvTjgtY2VUTEVlcUthb1JNbmtVVGtZWVJaRFE2M2ZaempLZmhBVU9qeFhWYm5vdmhfNkxWTzdheVJlZ2JvNGJLUDdmZmdCcC12dzdGSzl1bUQ1dTVPYkNwV1NtQjFQOXAxcWg0LVNyRkZ5WDBNY1dxTGI0c3o0dG5Kc3FXSlREcnFvMncyNkY1OU5xU25TcUZ3ZVdfdVBEcDFNWkVyMjdvNmRFZjZNU3FhTGdR?oc=5",
       "timestamp": "2026-02-12T08:59:17.142Z"
     },
     {
-      "id": 18,
+      "id": 17,
       "text": "SOUTH KOREA military chief warns troops to maintain \"firm readiness\" near NORTH KOREA border - heightened tensions signal potential escalation (Yonhap)",
       "source": "Yonhap Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Bc0V5c2hSSzVPbmt4WnNpU0tjTmxPT3kwUEhCeXFROHVLbzlQVnJoYWJlQzNzZWoyaWUxd0dEVHg1SzdINUZYNllfX2NPUHc5eWhtYUg1bm5iZw?oc=5",
       "timestamp": "2026-02-12T08:54:52.948Z"
     },
     {
-      "id": 17,
+      "id": 16,
       "text": "CSTO plans 60 joint military drills across KAZAKHSTAN, RUSSIA, TAJIKISTAN, BELARUS in 2024 - 8 command & staff exercises confirmed by Joint Staff chief (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/defense/2085703",
       "timestamp": "2026-02-12T08:54:44.105Z"
     },
     {
-      "id": 16,
+      "id": 15,
       "text": "CSTO warns WEST seeking expanded influence in SOUTH CAUCASUS - region remains \"volatile\" with unresolved conflicts, geopolitical pressures building (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/defense/2085701",
       "timestamp": "2026-02-12T08:54:37.157Z"
     },
     {
-      "id": 15,
+      "id": 14,
       "text": "UKRAINE: KYIV reports 2,600 residential buildings without heating after RUSSIA missile strikes targeting energy infrastructure — mayor confirms critical civilian infrastructure damage (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/emergencies/2085699",
       "timestamp": "2026-02-12T08:50:07.520Z"
     },
     {
-      "id": 14,
+      "id": 13,
       "text": "RUSSIA suffers 770 military casualties in UKRAINE over past 24hrs - total losses continue to mount amid ongoing conflict (Ukrinform)",
       "source": "Ukrinform",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelpuV1dnNlUwN2pIVGhMRl9sUVdSbGswd0o3SURvWWoxNENLT2xjX0RVU2pWUXdmWGJGeS00TlptcmpNV2ZudWRqTzcxV2N6TjQ1T29xYk9HMWtSX2VzMTBhWjNKTVpuckdjUTI4U2JweEFGckpZbXFhMzl5ZjItSHRNU3VKc2VBV2hOdUJFWDVNMnRIMDJ2Tzk4ZjJMckdiQUh1Q09jYVlHVTZlWVE00gG0AUFVX3lxTFBiazNQNW1ieHAwRmt2eDFJNkxmM2VMbHhwSjV4OXRIQVJic3lhNGttcnhuVXBab0FfRlR3Si1KSWFkNVpQLWFTaktvVGIzUlVyc1V5cU5FaE11NHFwUExtTFZMcmdhVEh5U0Z1el9mMWU2VVQ3QlpSeTBsemxwMEp5bmx2SUtaQnZKclZpcDlJVEJ0MVdCdHRId192aHNKMkN0NUlzVjVtNDhrLTBBb05mT3F2eQ?oc=5",
       "timestamp": "2026-02-12T08:49:24.059Z"
     },
     {
-      "id": 13,
+      "id": 12,
       "text": "NORTH KOREA launches multiple ballistic missiles into waters between KOREA and JAPAN - first test since joint US-SOUTH KOREA military drills concluded (Yonhap)",
       "source": "Google Korea DPRK",
       "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNekJmbXA0ZUdCUHloM09tTmsxMHFiWGdsSWotWFIwVERfd01OWmFOM3ZJZS1mVk1BMTU1NFFTSFJyMTM5MFktSDdac0s2VkNfLS1OZXJPWXVXbXN4dEs1SXU3cVNYbll5MExibDVhTWtfcDM4aGZEdGo2OV8zU0xGNTdDNE1LUQ?oc=5",
       "timestamp": "2026-02-12T08:44:04.607Z"
     },
     {
-      "id": 12,
+      "id": 11,
       "text": "PENTAGON defense strategy highlights NORTH KOREA missile/nuclear threat - first strategic document to drop explicit denuclearization language since 2018 (NK News)",
       "source": "Google Korea DPRK",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9rYkNUSUNTbmlqc1U2R3BtYTdJVzZzTFREdTJvVExWd1BxYVduS2hxZ1VmenRmMF9vNnlnRVB6S2oya09TWEhJ?oc=5",
       "timestamp": "2026-02-12T08:43:57.099Z"
     },
     {
-      "id": 11,
+      "id": 10,
       "text": "KREMLIN: PESKOV suggests potential TRUMP invite to MOSCOW Victory Day Parade - diplomatic signal amid U.S. election tensions (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/politics/2085693",
       "timestamp": "2026-02-12T08:40:24.065Z"
     },
     {
-      "id": 10,
+      "id": 9,
       "text": "RUSSIA: FSB prevents terror plot in UDMURTIA - suspect with prior extremist convictions detained in MOZHGA, targeting local police (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/society/2085695",
       "timestamp": "2026-02-12T08:40:17.218Z"
     },
     {
-      "id": 9,
+      "id": 8,
       "text": "RUSSIA: Major arms depot near KHARKIV detonates - massive explosions force evacuation of 3 surrounding villages; extent of military losses unclear (Newsweek)",
       "source": "Google Military Assets",
       "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVXZkeG9KSEJOUlAxTFNNZjFqRmF4VEFITVl1OVpNWWhpanZ3TmhONmp6UmxoNS01SUJKeUVsU25Dbkc3TnNDRVlFeVJPTWh1V3ZsZjRIdnJjUU0zLWVYZ1RJVkF5OTF6alNWcGduczNReWpWQjYyMHFzQkFwd2ZoRnYwa3dEUWhqUEUwY2NKd2NzVUZDQ1hEVmRn?oc=5",
       "timestamp": "2026-02-12T08:36:44.275Z"
     },
     {
-      "id": 8,
+      "id": 7,
       "text": "UN SECURITY COUNCIL warns GLOBAL MILITARIES require immediate AI technology regulation - potential autonomous weapons systems pose significant international security risk (ABC News)",
       "source": "Google Urgent Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa3J2U3FYOTlIWU5iSDZDcklfSm9KaXJoOFBqV1FhYUhDM3N3QXhoRFQzWEZ6VUUycm5lZ2pJOWtjdHBDVHJSUVZBYWk0aENEQjNDc2hCLUdTdjVxbll3cHFVbWI3b1BZWjJkYjkwRlJUMDlMQnlrRWNBb1lMS01aOV9rUkF4dGdSZTg3eGxDeHA1dGE2OHfSAZsBQVVfeXFMUGYyOFhoWTJiZ1JwcTNxRnduSEV2RE9CWmdvQ19WN01xZC1oUTZDSERDalhyc2p4aXJEUE5NSGFIc1plbFdyUS14NFBNRHBERE5kTEh1VGFuU3IxOW14cjV4THhqcGFtNWI0S0F5VFdhVGNzYmZSNmZ3ekhaVEhUaXdjOEZFN1RSbFBXeFdhUTROdnJCYzF3czdaY2s?oc=5",
       "timestamp": "2026-02-12T08:33:10.891Z"
     },
     {
-      "id": 7,
+      "id": 6,
       "text": "LIBYA military aircraft crashes near ANKARA after generator failure - 1 plane lost, circumstances under investigation (Anadolu Agency)",
       "source": "Anadolu Agency",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMmh5X1dQcEIwXzJReEtnYzN5OXlELV8weDI5bkw5eWVFTXVvSWV6MHhTXzZobUlud3laR0NYQmtLNTdHeXhXT1RWeUd2OVB2cGNucGtKUEpFWGZBbXhrdWxONFJqXzJHZ1puV1ZHRldiS2w5OFVXNF9iZmJuRnoyT1lFVXFlQnltelpIcmZKTEs0TXZQUWZlN0pPSF9zTW42RjZ1aVZyN0NGOEdSUmRYQ0l4cHQwa0FqbWNxb0RyNGZfcWF2YTJwT2JFenNhbWw4aXJOemx3RlBtSU1RTmplZw?oc=5",
       "timestamp": "2026-02-12T08:32:10.412Z"
     },
     {
-      "id": 6,
+      "id": 5,
       "text": "PENTAGON Chief LLOYD AUSTIN warns U.S. prepared to \"fight and win\" against CHINA - calls on ASIAN allies to dramatically increase military spending amid rising regional tensions (CNBC)",
       "source": "Google Urgent Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRFNQdlBobUd6blRsTTI2dkdYbm9DQjRXR0dheEl5ZUFuMmNpOVZYMmxjWDJBNkhTUjNNcnNYVTVscXItaHJjTWFLNmVtVk9JVWNOOERDSVVrSFBlOU52ZG5yMmZGVGd1T08wdTFNQ1JaMm9qd1JpYkpBb3hrS0tJanlwdTBGVG42cW9wNFMwZGxybWxoR1NZQmFjTmdWYjI2bEJUc0VDa9IBrAFBVV95cUxNZXpQb2hUNTlXZHo4cDBpZ1U4T2VseGtnQ2ljaTRpSmZldTJzcVUwb0VKMnpjenBVRGZKUVBCaUF0a1Z3OVNkUGk4dG5SbnRBeXdJSzh1dmJTdGJWSVkxNlA5N3h3RkM1NElZSmpWR1dlWE9sZkZoZXZtcFk3MUczOUxGVEdQa19WT0hPMnJsTlBQbzNtWVFvekQ4aTNCMk5uUThFdmR2d3hQVmxJ?oc=5",
       "timestamp": "2026-02-12T08:31:11.309Z"
     },
     {
-      "id": 5,
+      "id": 4,
       "text": "PENTAGON signals heightened IRAN tensions: Senior officials discuss potential military options amid escalating regional provocations, nuclear program concerns (Foreign Policy)",
       "source": "Foreign Policy",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR3VUQlI4bmQtY1FoSEFnV2hydU4yc0tBNzljS2RkOVJxbmM1OWh3aTlBZU0tb2ljaEwtbk5yX2E2RWtwa2JuS04zdjUzR3dFTENCMURfLXVsWnJGNENySWlDcmJmeUtpTzlEazdsN1hjWDBKX05md25vc2JvMUpVLThjeENvSlJiNk5Z?oc=5",
       "timestamp": "2026-02-12T08:29:31.043Z"
     },
     {
-      "id": 4,
+      "id": 3,
       "text": "ISRAEL and SAUDI officials in US for high-level IRAN talks - potential military coordination signals growing regional tensions amid escalating Middle East security concerns (Anadolu Agency)",
       "source": "Anadolu Agency",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd2FraC1wUFZIaEdGWER2enRiSUhPRVlXbXdrMEVLanUwWG9mMDd0ckg3MFV2MHlGZ3VFazl4VG5FdXcxZzA5VWxJcmlwYzdqY2RzT0VfT3pmdV9HeG8wT0hhZXhBcVFodl82aklrVkwyTG02cmVvOUUtN2I4bk1EVXNDZmM0T3lHN29OdWlGTkxRNXFaTXJ0U1lsVnlFNC1xWnRDc0xKdGRXRnRicmRpWHcxdGw3MkVqQmduSXp3?oc=5",
       "timestamp": "2026-02-12T08:27:22.484Z"
     },
     {
-      "id": 3,
+      "id": 2,
       "text": "FORMER NATO deputy chief warns against additional US troop deployment to GREENLAND - calls move \"impractical\" amid alliance strategic debates (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/world/2085687",
       "timestamp": "2026-02-12T08:16:04.850Z"
     },
     {
-      "id": 2,
+      "id": 1,
       "text": "NORTH KOREA launches multiple ballistic missiles into waters between KOREAN PENINSULA and JAPAN - second missile test in 48 hours, provocative regional action continues (ABC News)",
       "source": "Google Korea DPRK",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYmdILWVIVkJ4TVp3by0xNUpxd3k0cmpGQW9oeGVSZVhVUHNIdWZxUkNYNHhYWHZCbDhGZkhjLUZpX3FZLXotR1R0R0IwWG50TkF0UkxmYnlIZFUxalZPSktXdk80TmN3NzNTOElmVXVQX25ma2lFRnE0TDNsaUdjTUlXT0t2amxOY3JiTHJkQzladFJuVkZpS1NHZXlTcGc5OU9vakxlX1JtNlFUWFFOM1VjanZOa2kzbzcyb9IBwgFBVV95cUxOZE9uYlNVX2tJVndUMTZTLUNoSnd3c2FMQ0pYc04tS0tfVjlQRkxLZXhidXM5NUx4bThtQ2ZqeHU3YUkwUEhXcTJhUHFLblBfLS1qeU43Wlc0cmlycTg4M3pHSDRtY2NOSlBqbE5iakJsNnlYOXdlVmJZcUlpREQybHhSU3U5MS0tWVZrdnk1Q0duZERCbmpGTE9Bc1YwdlZ4Y1ctbnV4X2hGT203QmttME5nM3JaeTlBMmNOY3haZ3VPUQ?oc=5",
       "timestamp": "2026-02-12T08:12:27.088Z"
     },
     {
-      "id": 1,
+      "id": 0,
       "text": "SERBIA holds military parade marking WWII Victory Day in BELGRADE - national police, armed forces display equipment, troops march through city center (Xinhua)",
       "source": "Xinhua Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fV0RKb3NuSDdoVnZZaDc0WmpfSTdyaWJtSmdJOEI4TGhBQ2xzckFsaXlTbTRYZDZkZk9BNUVyY281d19oZmMxblFNUTB1bk5iRjJ6NExIYjVYZGRCN0NuOTlTZFdwbnBpM3Iw?oc=5",
       "timestamp": "2026-02-12T08:12:18.687Z"
-    },
-    {
-      "id": 0,
-      "text": "CAMBODIA hosts military equipment expo and sports competition in Phnom Penh - regional defense engagement signals regional cooperation (Xinhua)",
-      "source": "Xinhua Military",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vb01ZX2JNV2ZSWVlJV0djd1RvWkl1QmRxNUkyRFd6aVZkcklMYlMxMWxzQWVrYmllUUY2MnN3Y3JkVDdNaWlpanFMWnAzUTJOdF9vMi04VXpyY2NDaDdrUVpCYVRzcV9tSk0w?oc=5",
-      "timestamp": "2026-02-12T08:12:11.114Z"
     }
   ]
 }
