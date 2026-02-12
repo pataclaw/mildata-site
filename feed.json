@@ -1,217 +1,217 @@
 {
   "feed": "mildata",
-  "updated": "2026-02-12T05:44:53.824Z",
+  "updated": "2026-02-12T05:49:53.893Z",
   "count": 30,
   "items": [
     {
       "id": 29,
+      "text": "NORAD intercepts 2 RUSSIAN military aircraft near ALASKA airspace - 2nd such incident in 30 days, jets escorted out of US Air Defense Identification Zone (Reuters)",
+      "source": "Google Airspace Violation",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS2wtRVJWR2V4VFRQcVlvT3RjaEswZlQyTzVMSnZJZWxBcTZqcFIzY0RPZ1hBQlQtZ0xsM09tOVo5Z3RsMTZCSUVydjMycnBNODVkU05makNiUlh0Z2tjSXZncmpTNV9wdVNBMjNoZzhuYWpJSnhGMnRYakJoR0tUbHpsd1ZBRFNCemxvRkJkbGZMZ1BfOHBibmZhYzB0c0ljYk5BRG9fbXUtREo4czZNOEhEaDBUWUhxREVteERBaU1peHp2WUE?oc=5",
+      "timestamp": "2026-02-12T05:45:59.090Z"
+    },
+    {
+      "id": 28,
+      "text": "SPACE FORCE plans rolling contracts for RG-XX satellite network: new \"neighborhood watch\" system to monitor orbital activity, enhance space domain awareness (Breaking Defense)",
+      "source": "Google Space Military",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObFRjekVleGN6VWFrSFBnVlBUemtTb3dxUFU4WWFQVklmV0FXb2RNcEV5LWtpUDJyX3k0bV81OEtZZEdqdGhsTFNWQU44c2hQcHIzRFI1ZFdYS09xU1RVamg3YVlINXJ1SUpLMUhUZXBKX2VlRnNBcHB0SG9RbzJzYU9hallXYUZZM0t2ODJvNjdPeE9uU2pEU2FQS3dJRFlFS08xb0k3clg1bW40Zkxubmhsbzdickx4?oc=5",
+      "timestamp": "2026-02-12T05:45:51.627Z"
+    },
+    {
+      "id": 27,
+      "text": "PENTAGON warns of RUSSIA, CHINA space warfare capabilities - active satellite jamming, anti--development signals potential conflict beyond Earth Force's (AP)",
+      "source": "Google Space Military",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVWE2ekZSeEhOYUxLZWxJa081aTU2aF9xZlI1d1c3R2UtMVVUWWZJbHVCUy1pdVFtdFJGV3AxcmEzMWd4TG8wb3JXc0tFV3JmUDJrc3YyR1R3Yl9JSVZGdW5rckR6bG43X0RPV3BmOFVobXM5TGp5bG5VRjR2YlNPWllVcDlocjdGT1hMN1pUWDJseC15WG1MMlplRjhmNmc0WV85TkhVeExicU95cVF0MEZyZEVveENnQllraGJON0luSlVlZmc?oc=5",
+      "timestamp": "2026-02-12T05:45:44.086Z"
+    },
+    {
+      "id": 26,
       "text": "SOUTH KOREA: 180 military personnel under investigation for alleged involvement in potential martial law planning during recent political crisis (Yonhap)",
       "source": "Yonhap Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zRHlkZHJYZktzdGNTRDFkTmhaTXh0WU52VXZWclpyTWd1VG5FcFNnU0J6UVN4dVdyLUdPcEZuNkpQQ21SaVNzT3VJUTdsMVdEMFRrd00zNGpSdw?oc=5",
       "timestamp": "2026-02-12T05:43:51.799Z"
     },
     {
-      "id": 28,
+      "id": 25,
       "text": "US ARMY establishes new military base in SOUTHEAST ASIA - strategic positioning near CHINA border signals potential regional deterrence strategy (SCMP)",
       "source": "SCMP Defense",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSEVzckdLZWpESWZFWlFScXcta0lxZDNwSVhVZHZiQjIwcXY3aHltQVJVNHp1LUFzM0h4UXhQWFQ3cjhGcllycU9wVkhtRUsyY1d0WllzNUtEZE9QTXlBNEx4VGZiZ1BLd3ByQkVta21OV0FDUTVySlFRSFNzcm9FaHd6bG9IdEZfY2Zud1V1RXlkamozbjcxM1Q0ZldNNjBtVUJJMENDbC1CWVdyUUg3bTJoc9IBswFBVV95cUxQRUFxel9RdWtweHlGNUVaYnAwZFVlQkFSMGNxZmY2REV2VUxac0tTbWdNRFIwQ2dTdHkza3hRVklfY3BtR1oxMWsxanZheld0MEl3WUVTQ2o4ZnNnM3JOYzJmRkV6U0V3ZVhZVDRxdlBIb1JIUU5FX0NZdHUyRy1Pd0xBM0VjMTE1OGVhaVZMMzU3V0dHTmtVdDJGM2FDeTV0V1lvV1hSWklubHJKTjlIT3FIWQ?oc=5",
       "timestamp": "2026-02-12T05:43:44.330Z"
     },
     {
-      "id": 27,
+      "id": 24,
       "text": "SOUTH KOREA proposes military talks with NORTH KOREA over demarcation line amid rising tensions along DMZ - first such proposal in years (Al Jazeera)",
       "source": "Google Korea DPRK",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcmY2NmtBNGJuNzVmMUF2dFd5Z1Y0N0x2TFVROFpMNEQwVXNlZ21DX3FqV2FINUl3NDVhZ09fWXJmYXdTLXVkUUVzdm85bFZPd2JqVHgzOWdBTk80QUF1R1NNU1ZBU1NsbUtWLW51SEd0bnJHUEN6ZnMxRWdjS2V6SjFxa1J2V0ZDQlhhWlM5NWZQVWJfSjh1eWFLWldVbmh6U3RTOEFDeWNPaWF1cTRwLUdyRznSAboBQVVfeXFMT1QwZzY2YTVIRXdKbVBSa2hHRTdGZkdEdDRzU0VDSGhWWlYwUWoxNHQxLWhMRC1KNHh5dE9YekRtdHFqSmNmMkRuTEFZYXVZb3Q3VE8xaDBweGQ4aDVtTlo4UXc1TzEwVWplSjRCWTZicEgyUm9TUkdILXRxNGFBTDl0MXJ1c3RadDhUUy15aXljRlZKQ1Q4alVBU2JZdVBCNDVCUndzc2lXOG1YeUI3SV9NcWJ3U3B1VWxn?oc=5",
       "timestamp": "2026-02-12T05:39:16.321Z"
     },
     {
-      "id": 26,
+      "id": 23,
       "text": "UKRAINE President ZELENSKY declares no national elections possible until military ceasefire achieved with RUSSIA - suspends democratic process amid ongoing conflict (The Independent)",
       "source": "Google Ukraine",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZU1hLXFwcXI0bUZaWTI1eU16SXU3amVhX3NsakFNZm0tblRfVUhDV0ttNFZidWMxTmYyQ1l6R3hzNWh2Smh2ZDV0TFVKb0wwdjkxb01mQmRkNnl3RWxRZ1lMV1BSQnpmd0doS3E4SllRMEVfZGNNSHFJV0hmMlY0aU5NbDRMbGVGLUtVM0pkTkZRVTQ1MXkwTnpzTVRfeHVsWmRVcU5VWFVyT0N0VmJlaUxnQ0lBWTdxTnplbQ?oc=5",
       "timestamp": "2026-02-12T05:39:08.250Z"
     },
     {
-      "id": 25,
+      "id": 22,
       "text": "PENTAGON hosts counter-drone strategy summit: Senior defense, law enforcement leaders discuss UAS threat detection protocols at Joint Base Myer-Henderson Hall (DoD)",
       "source": "DoD Press Releases",
       "sourceUrl": "https://www.war.gov/News/News-Stories/Article/Article/4363670/interagency-senior-leaders-discuss-tactics-on-advancing-counter-uas-efforts/",
       "timestamp": "2026-02-12T05:38:13.576Z"
     },
     {
-      "id": 24,
+      "id": 21,
       "text": "PENTAGON launches multi-agency counter counter-drone defense strategy initiative Integrated WHOLE-govt effort to protect military, law enforcement/law enforcement ment from aerial UAS threat (DoD)D: 2: Foreign Policy\nheadline's to Semiconductor Restrictions\nadvance Domestic ...",
       "source": "DoD Press Releases",
       "sourceUrl": "https://www.war.gov/News/News-Stories/Article/Article/4364049/joint-interagency-task-force-integrates-skills-creates-layered-counter-drone-de/",
       "timestamp": "2026-02-12T05:38:07.393Z"
     },
     {
-      "id": 23,
+      "id": 20,
       "text": "PENTAGON plans new large surface combatant: 30,000-40,000 ton battleship design to modernize naval warfare capabilities, first major surface vessel class in decades (DoD)",
       "source": "DoD Press Releases",
       "sourceUrl": "https://www.war.gov/News/News-Stories/Article/Article/4366952/trump-announces-new-class-of-battleship/",
       "timestamp": "2026-02-12T05:37:59.622Z"
     },
     {
-      "id": 22,
+      "id": 19,
       "text": "USMC launches new drone operator training program - aims to rapidly expand small UAS combat capabilities for commercial attack drones (DoD)",
       "source": "DoD Press Releases",
       "sourceUrl": "https://www.war.gov/News/News-Stories/Article/Article/4369456/marine-corps-launches-new-drone-training-program/",
       "timestamp": "2026-02-12T05:37:48.056Z"
     },
     {
-      "id": 21,
+      "id": 18,
       "text": "PENTAGON's STARBASE program marks 20 years in ARIZONA - educational initiative at DAVIS-MONTHAN AFB connects students to STEM learning (DoD)",
       "source": "DoD Press Releases",
       "sourceUrl": "https://www.war.gov/News/News-Stories/Article/Article/4373162/war-department-celebrates-20-years-of-starbase-arizona/",
       "timestamp": "2026-02-12T05:37:42.540Z"
     },
     {
-      "id": 20,
+      "id": 17,
       "text": "PENTAGON awards first REPLICATOR 2 contract: 2 DroneHunter F700 anti-drone systems purchased to enhance homeland security defense grid (DoD Press Release)",
       "source": "DoD Press Releases",
       "sourceUrl": "https://www.war.gov/News/News-Stories/Article/Article/4377021/joint-interagency-task-force-announces-first-replicator-2-purchase-to-counter-h/",
       "timestamp": "2026-02-12T05:37:30.052Z"
     },
     {
-      "id": 19,
+      "id": 16,
       "text": "NAVY research team advances AI-powered hyperspectral imaging tech for enhanced maritime domain awareness — new sensing capabilities for military intelligence (DoD Press Release)",
       "source": "DoD Press Releases",
       "sourceUrl": "https://www.war.gov/News/News-Stories/Article/Article/4377198/naval-research-lab-sharpens-navys-sights-with-domain-centric-path-for-smarter-s/",
       "timestamp": "2026-02-12T05:37:24.377Z"
     },
     {
-      "id": 18,
+      "id": 15,
       "text": "U.S. ARMY and POLAND conduct joint armored live-fire exercise WINTER FALCON 26 - 3rd Battalion, 66th Armored Regiment demonstrates combat capabilities at DRAWSKO training center (DoD)",
       "source": "DoD Press Releases",
       "sourceUrl": "https://www.war.gov/News/News-Stories/Article/Article/4382749/us-army-polish-land-forces-conduct-operation-winter-falcon-2026/",
       "timestamp": "2026-02-12T05:37:18.354Z"
     },
     {
-      "id": 17,
+      "id": 14,
       "text": "PENTAGON: Naval Research Lab achieves breakthrough in solid-fuel ramjet technology, advancing hypersonic missile propulsion research (DoD)",
       "source": "DoD Press Releases",
       "sourceUrl": "https://www.war.gov/News/News-Stories/Article/Article/4392767/breakthroughs-in-testing-solid-fuel-ramjets-advance-research/",
       "timestamp": "2026-02-12T05:37:12.688Z"
     },
     {
-      "id": 16,
+      "id": 13,
       "text": "USMC launches first AI Fellowship at Naval Postgraduate School - aims to integrate artificial intelligence capabilities across military workforce, strategic planning (DoD Press Release)",
       "source": "DoD Press Releases",
       "sourceUrl": "https://www.war.gov/News/News-Stories/Article/Article/4394411/inaugural-marine-corps-ai-fellowship-advances-workforce-applications/",
       "timestamp": "2026-02-12T05:37:07.143Z"
     },
     {
-      "id": 15,
+      "id": 12,
       "text": "PENTAGON selects 25 vendors for massive drone program - targeting 300,000 unmanned systems by 2027, signaling major shift in military autonomous capabilities (DoD)",
       "source": "DoD Press Releases",
       "sourceUrl": "https://www.war.gov/News/News-Stories/Article/Article/4399192/as-promised-war-department-moving-out-fast-on-drone-dominance/",
       "timestamp": "2026-02-12T05:37:01.355Z"
     },
     {
-      "id": 14,
+      "id": 11,
       "text": "VIETNAM set to purchase US F-16 fighter jets in landmark defense deal - first major US weapons sale since Vietnam War normalization (FDD)",
       "source": "Google Arms Trade",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWDR3ZVZOMXA0T3lRaHprUWRySGRMRDhQWFN4d0ducEN1TWtRcVItN2dCdERtVGkzOTNlWUFob29xVkdVT1Y4eGRWYWJUa2ZCdXdiVGc1NmFZLXcyZW9URVhWdTNISWVrMUc5bUEwRG1SVXgtRTNENkg1dEpMMHd4Ukc3RXdLeE40VWgyaUw1QnFXZHJCcTdBN0FjdEVMcGVDRUdYUzc3TG02TlpTM01ubGlOYUlvZ0ktSXJ3MlVpSDN2S0c3ZGhEX2RQNA?oc=5",
       "timestamp": "2026-02-12T05:36:53.451Z"
     },
     {
-      "id": 13,
+      "id": 10,
       "text": "GERMANY signs €350M arms deal with ISRAEL amid potential embargo discussions - major defense procurement continues despite diplomatic tensions (Reuters)",
       "source": "Google Arms Trade",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sZm9tdVl1Q1FBVUVnNHdVWVZ1MC1XcEZYS0Nob1dsRFJ6V1NtQWtUbExTSUN5TENkZVFpM2VFRVloeE51UzJVMEF2am5sOUJFYV95OXdabWVXM3pjMktkc1htTmY0SWNu?oc=5",
       "timestamp": "2026-02-12T05:36:45.870Z"
     },
     {
-      "id": 12,
+      "id": 9,
       "text": "UN SECURITY COUNCIL passes resolution demanding immediate Gaza ceasefire; US abstains, breaking with prior vetoes — humanitarian pause urged amid ISRAEL-HAMAS conflict (Reuters)",
       "source": "UN Security Council",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa1NwcWZCTUVpOEVoT3NMS01SdnBXSFZGUFVYZkdJS210eG1WNzI1aVdtc3VwVUF6eHlYQ3pkSTBWZ2FONTAzMzFTUXdnbXFlNUloejRSbFpXcldJaTNSWFpOREJzR1AtQU95bGZQelR0Rk1vNWF1dzFoY0FZQnJTYUI0eFhsNlNWNWxLcVk3MWVYbi1LVU14TUJxN3lidmdLZnNB?oc=5",
       "timestamp": "2026-02-12T05:29:00.715Z"
     },
     {
-      "id": 11,
+      "id": 8,
       "text": "BREAKING: US DENIES direct involvement in ISRAEL strike against IRAN - No US military participation confirmed in reported overnight operation (BBC)",
       "source": "Google Urgent Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13NG5xZUh4YUR6N1pWSVM4QlVxb1dHZ2FPVlkxalVnMW4wOXdNS2lveGQwUlYxeVIyNjBabUlFS1JFX1VmSWI1ZnVqamtYY1d6bzBINFNMcGU4UdIBX0FVX3lxTFBtNHR2SEJMa25UWUlZOFo4MFhFMlVxMGRsSTRMYnliT25kRXNxdUttSkhydHlOQVBsRm5GZFBaQU02NHV6S0dHSUt0TDZHZVJQQS1EdHp3U1k0Qk9uaEpB?oc=5",
       "timestamp": "2026-02-12T05:27:09.429Z"
     },
     {
-      "id": 10,
+      "id": 7,
       "text": "IRAN launches large-scale missile attack against ISRAEL - Multiple ballistic missiles reported; US forces in region activated for defense support (Fox News)",
       "source": "Google Urgent Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb1pzcElSQS10d0tCTkRsQjFzaS1Vc3RZVGlnd1dwbGY1MFlOTmU1QVhFb3NyOTBNRDlkQVdxZ1VxM3pPMXJMdTIzYWNESWxCQTZad1RfeFdaN2NyRGhHNlFlWVNqX3V0eTFQZEVYZHNOSnNmX1FZcGY1Tnh5a0Q2VTFsUmRxR2lrUGFCTHVZVjFjQWFpSnUw?oc=5",
       "timestamp": "2026-02-12T05:27:01.780Z"
     },
     {
-      "id": 9,
+      "id": 6,
       "text": "SOUTH SUDAN: Renewed tensions reported between government factions - potential risk of localized conflict escalation in Upper Nile region (Amani Africa)",
       "source": "Google Africa Security",
       "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeVowSmhBMjZEYzI0aW5icy1pTlRITEhnUnpfRm95b0FCZjl1U3ZoQjZmX3hPNUlUR2d5T2xJa1JOYWNNaGpiM2RxN2w1cGxDcjl0ZjE0WnlVc1c5S2RjM2pwT1VjMlRKc05HRkpaOF9ZdmRCRnBMUXUzOW1ibU1NWm9IU0paRms?oc=5",
       "timestamp": "2026-02-12T05:26:54.292Z"
     },
     {
-      "id": 8,
+      "id": 5,
       "text": "MEXICO military investigates alleged cartel drone incursion near US border - conflicting reports of pursuit, engagement emerging (El Paso Times)",
       "source": "Google Latin America",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa3lZMnVpbzJHTk9qeHB0T205dnBWZkNNYmkxUk02aVNFbk8xcV9CZE9IT1hIM3gtZDVaeXhCRGNNLVdUbGdYb0hDeDNGcEYwcmpUZGUwaFg1bDlmY1ZXS0hRUWJfRUg0Vm55dy12YXNoSC04c1A5SFJscWhCdmRhNjJ6WGtyMlhqZHpwNlVLbmVFVEgxUHVVSmVzRVVwQy1DQzc0cEc3d2hSc3NXN0E?oc=5",
       "timestamp": "2026-02-12T05:24:08.979Z"
     },
     {
-      "id": 7,
+      "id": 4,
       "text": "JAPAN to develop first-ever comprehensive national intelligence strategy - signals major defense restructuring amid CHINA, NORTH KOREA regional tensions (Asahi Shimbun)",
       "source": "Google Intelligence",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fLTVnYzhfZmtUaUFkY3FsUWVMaDZKZVBmaEI5SWVlakIwaFEzZ2pGVG04Y2o4M0hhUHFkRC1wZlVYdnJaay10a1lwc1dzWmRxclVwQnp3?oc=5",
       "timestamp": "2026-02-12T05:24:05.739Z"
     },
     {
-      "id": 6,
+      "id": 3,
       "text": "JAPAN plans comprehensive national intelligence strategy - first standalone doctrine to enhance intel capabilities amid CHINA, NORTH KOREA regional tensions (Asahi Shimbun)",
       "source": "Google Intelligence",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fLTVnYzhfZmtUaUFkY3FsUWVMaDZKZVBmaEI5SWVlakIwaFEzZ2pGVG04Y2o4M0hhUHFkRC1wZlVYdnJaay10a1lwc1dzWmRxclVwQnp3?oc=5",
       "timestamp": "2026-02-12T05:24:01.603Z"
     },
     {
-      "id": 5,
+      "id": 2,
       "text": "INDIA-PAKISTAN: US brokers ceasefire along disputed KASHMIR border after escalating tensions - troop movements de-escalated (Reuters)",
       "source": "Google Urgent Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGZGRk1aV08wZlVhSzRZdWZiMUtOOU1uMmxXUmpqZm4zTkN2NGJidDdmSGRXd1RqNGhuVXJXcmxldm5JQkxmWk8xd0QyTENBa3k5UkFNSncxbElPdVJBVUk3OEJNaHI0VDhZS19IX0FTRW8tVnp5Y1BsaXJRVkN1ZVBpd3dPM0Q4ZG41N0gtcXU2ZVRJX2FTR0hwaUpCOGs4djV3QlFzU0ExSVhZa21hc1l6akhfMkdUUVE?oc=5",
       "timestamp": "2026-02-12T05:20:25.838Z"
     },
     {
-      "id": 4,
+      "id": 1,
       "text": "MYANMAR military announces end of state of emergency, signals potential elections in 2024 after 3 years of junta rule following 2021 coup (The Diplomat)",
       "source": "Google Urgent Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWNwYVRLeUxXWlZLZ0NCQ094dk1ueGFua3JOTXlOOU5DbFR0clRESHpJQ1I4dlBuUklSVGczLWJPNy1jZVoxZXpNUDlqeFFEN2hacGg5UDdEY20zSUZfWlBzVExZS1NYWjVYcWdHYXh4emNJRi1xWU5paU9hekRJR3FlQk1kajhyaGpEZ09jaHhIQTNvdkZ6WVRrUkhEWnhpZnJlajZ2cURKNFU?oc=5",
       "timestamp": "2026-02-12T05:20:17.827Z"
     },
     {
-      "id": 3,
+      "id": 0,
       "text": "ISRAEL-IRAN CYBER WAR ESCALATES: Multiple bank systems targeted, crypto platforms disrupted in ongoing digital conflict - suspected state-sponsored attacks (Politico)",
       "source": "Google Cyber Warfare",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT2xKSVB0UnV0M201bzlSY1R3T29lZGcwTXMxamphUXZJYkxRSEdKZEJkb29PLUQ5MUR6OVVENWtYSUh6T0dNMU9GMjl5MHVoOWV3QTNUOU1HX25keUFmVUxHaHdZNUkwQ29hZi01cnJPYmh4UGUxS20xTTFFRDJFZ2hmZERvWDN4NGc?oc=5",
       "timestamp": "2026-02-12T05:20:08.815Z"
-    },
-    {
-      "id": 2,
-      "text": "IRAN-ISRAEL cyber conflict escalates: Multiple Israeli bank networks targeted, crypto exchanges report significant digital intrusion attempts — potential state-sponsored cyber warfare campaign underway (Politico)",
-      "source": "Google Cyber Warfare",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT2xKSVB0UnV0M201bzlSY1R3T29lZGcwTXMxamphUXZJYkxRSEdKZEJkb29PLUQ5MUR6OVVENWtYSUh6T0dNMU9GMjl5MHVoOWV3QTNUOU1HX25keUFmVUxHaHdZNUkwQ29hZi01cnJPYmh4UGUxS20xTTFFRDJFZ2hmZERvWDN4NGc?oc=5",
-      "timestamp": "2026-02-12T05:20:07.978Z"
-    },
-    {
-      "id": 1,
-      "text": "PENTAGON closes airspace after CHINA balloon/drone incidents - heightened military surveillance tensions reported across NORTH AMERICAN airspace (CBS News)",
-      "source": "Google Drone Threats",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNREx4cGNBOS11Y29Nbkx3SGhzdEJsN2R5dEpEbkFqWDFZeldvWGd4N0g3Q2R0WUE5QUZQdzdCNE9kVzUtYU1fc2l1QnVHbDFVNWFIc2ptNG84eDljZGtITWlqbzZwTjY3QUZBejVDNTdGdm1LUE1UZlUtWU5lUUNRWXlGVnZ4OFpCX0pUdGZsZXB0V2QxZF9ydkZLQVozQ1loazFHZGhVc2pULUkzV3lvWXJtcFBTbjhaS2lTd2RCN3Q4RmJR0gHKAUFVX3lxTE1pWVU5a3duZUo4dllJd0k0OVkyNlNlMXMwSzdCMDJwb2tGLW11OGEzZTRpR2V6VWsyUnBSaFdrczVJTklJZVliclVXVFFMYk9VLU9ZTU5HczY2YVYyZGl6SDhSTV8yd1VfWGlwU0FyYUpUelg5dWtSdXRXZ1doc1gySjhrRnZFRjRkM0VHYUlRQ3g0VXZRNXE3TXM5R3FtM3psY0hLMzhtcHRORE56eXc3ZHR2MUNDQnZoOHBWOWExQ2taZ2JHR3pGbEE?oc=5",
-      "timestamp": "2026-02-12T05:15:54.118Z"
-    },
-    {
-      "id": 0,
-      "text": "IRAN officials allegedly smuggled multiple millions USD to HEZBOLLAH via diplomatic channels - cash transfers intended to support military operations in LEBANON and against ISRAEL (Jerusalem Post)",
-      "source": "Google Middle East",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9odEJOdXUtYjVOT044Zzhrd3o5aVIxc0pCZDlkSkRsZk5uWm1TR3JTS1BMMDl6a1d6UFN5d09DbFdocHhLTWZzdW5MTjRKS0Rva1FYbG1TVnUxcVVMM1M3WWJtQU9zNXFrd2c?oc=5",
-      "timestamp": "2026-02-12T05:14:05.168Z"
     }
   ]
 }
