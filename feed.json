@@ -1,217 +1,217 @@
 {
   "feed": "mildata",
-  "updated": "2026-02-12T11:14:54.524Z",
+  "updated": "2026-02-12T11:19:54.533Z",
   "count": 30,
   "items": [
     {
       "id": 29,
+      "text": "PENTAGON warns AI-powered cyber threats pose significant risk to U.S. critical infrastructure - potential for large-scale digital attacks on power, communications, financial networks (American Security Project)",
+      "source": "Google Cyber Warfare",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWlliNUlLc2lTUF9LTHVCbVp1R2NxQ3U1a2d5ek9vSDNPdTR4RGljdVAzNzlfbllUWDdwRmduV09EZXROWFcyMnctNjZEbHhRZnQ2a2pTWXNiV09UcDVjbXJEWFhOWGd3V0t1Y2FGbmkxb1NYWENnTTREWHJBbWk3Tlp2V1BmMlllMWMwclNPZ1BjUVpPVW01cFJtSnNfblZSUVdyN0ZPNA?oc=5",
+      "timestamp": "2026-02-12T11:18:10.891Z"
+    },
+    {
+      "id": 28,
+      "text": "IRAN cyber ops targeting US entities escalate: FDD report details systematic digital attacks against American targets from 2011-present, spanning government, private sector infrastructure (Foundation for Defense of Democracies)",
+      "source": "Google Cyber Warfare",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaTBlVnBqeHlfR2FTN1dibkw0Q0I3YmlFeUN0ZnVrQTN0VGh0ZDNvTXVwS0pXYjRqSENnTWNmY19FWXZ1cTVESmV2WGZrbloxT0ZEUkxEOTlSUWVSYU90eUFPc1JmRTN3d2ZUMmFvWkh0VHRBWHJ1ZklUNkR2TWlWelcxemhRRDVRYUZ1M2ZhYXhzZ1R0djhxY3Y1Mm1rbTZKWklCU3d2SkVvNVE?oc=5",
+      "timestamp": "2026-02-12T11:18:03.120Z"
+    },
+    {
+      "id": 27,
+      "text": "RUSSIA dismisses external pressure, affirms consistent foreign policy stance: MFA Deputy Ryabkov says diplomatic approach remains \"long-term, predictable\" despite international tensions (TASS)",
+      "source": "TASS",
+      "sourceUrl": "https://tass.com/politics/2085825",
+      "timestamp": "2026-02-12T11:16:07.336Z"
+    },
+    {
+      "id": 26,
+      "text": "INDIA conducts major military exercise OPERATION SINDOOR, reveals strategic insights into modern warfare capabilities — detailed analysis from CARNEGIE ENDOWMENT highlights key military learnings (Carnegie)",
+      "source": "Google Urgent Military",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcWNzakw2TzAzczQ1Qk4yQzNOTFhVLU9CTW1uU1hlWGZmMFhpdjNZYnB2ZWF3c0pJS1J4ZVNnbUs0QktPbGpMOUpQd3VHSUlZSjdGbmlFWTJQN2NZSnVFRmV4cVFjYXJHa2VmLWREeXhtNVRmQzEwLVhTcnJaNWxsZy1xdVFZajRpWk52VWg2Yw?oc=5",
+      "timestamp": "2026-02-12T11:15:10.483Z"
+    },
+    {
+      "id": 25,
       "text": "CHINA reportedly leveraging CLAUDE AI for advanced cyber intrusion techniques - potential escalation in AI-powered cyber warfare capabilities (Breaking Defense)\n\nKey rationale for 8/10 rating:\n- First confirmed report of state-level AI weaponization\n- Significant implication...",
       "source": "Google Cyber Warfare",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdHowWUFKSFV1Sk5jUGNGY1lrOU51RkRuQUxBWGZWemFiWW96QkpyQzRwQ3A0WmVSTWdzYmo2R2FPeDJIc2MwbVM1ZVEyNmp5ZC1nU3hCbkVzdDloMlRKNXV5S2JwRnZmZVdRQjZtNG13RW5NZTVHd000aUJQY1RTNEV0dlpZVzdwMVlOUk4xTWdfZThvaWpqREFDdmdEZmUxc1ZYR3dNZkpMTWNXSjhvUXhPcXNkcEEyVjYxanZpbFVidw?oc=5",
       "timestamp": "2026-02-12T11:11:14.558Z"
     },
     {
-      "id": 28,
+      "id": 24,
       "text": "CHINA unveils new main battle tank model - potential technological advancement in PLA ground forces' armored capabilities (China Daily)",
       "source": "Google Military Assets",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZExySzZSekN3NlRaOE5mdGZFd1pqZjJROG5TSFJSMXl1Ql96ZGhLRy1YOXhjWS1HRDkyOHFIQm15RE51cXdzV2FCTGVubU43MFZFLTc4ZG12MnRZQVlQV2ZMSTBjYWlYbDFyV0tYeWkwZTFYRXlsN3pJanAyN0tJSTRB?oc=5",
       "timestamp": "2026-02-12T11:08:24.828Z"
     },
     {
-      "id": 27,
+      "id": 23,
       "text": "KREMLIN signals openness to CUBA dialogue amid US sanctions - seeks diplomatic engagement on Caribbean tensions (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/politics/2085821",
       "timestamp": "2026-02-12T11:07:21.428Z"
     },
     {
-      "id": 26,
+      "id": 22,
       "text": "BANGLADESH holds national election amid political tensions - opposition claims voter suppression, low turnout reported after years of HASINA government crackdowns (BBC)",
       "source": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/articles/cy7jdmvn3l0o?at_medium=RSS&at_campaign=rss",
       "timestamp": "2026-02-12T11:07:14.826Z"
     },
     {
-      "id": 25,
+      "id": 21,
       "text": "AFGHANISTAN: TALIBAN claims downing U.S. military jet in combat zone - PENTAGON immediately denies report as false; no confirmation of aircraft loss (Xinhua)",
       "source": "Xinhua Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00N2pPSTFENVY5X1psLTIxMkhJR191bTdTR0FWUVItVmhmS3hNSjlHakg4a2tEc2N2R3gxeGhfQ2hqeFlMU05UOE10VVZpSDdSam1tQ0RZTER6SU5xWUpoZm9Fbk01RW4wZnhJ?oc=5",
       "timestamp": "2026-02-12T11:06:18.281Z"
     },
     {
-      "id": 24,
+      "id": 20,
       "text": "RUSSIA warns against WESTERN destabilization attempts in BELARUS: Diplomat signals close security cooperation between MOSCOW and MINSK amid rising geopolitical tensions (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/politics/2085819",
       "timestamp": "2026-02-12T11:03:32.327Z"
     },
     {
-      "id": 23,
+      "id": 19,
       "text": "GLOBAL POWERS: EU, AFRICAN UNION, UN condemn child soldier recruitment - joint statement marks International Day against use of minors in armed conflict (UN)",
       "source": "Google Conflict",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWVdUZ3RCTXI4SFcwWXdxVVFzSTRBUVZNLUxBTFFEMHdxZEtNUVEzY0ZrSFA5ekFSdmd3NHVDY0FjM2FDUEhwNnhqRWprdFZHcmRQZDVrQWRnN1dwYXoyT1pER1Y3dGlobFVVd3ZtMmZSVnhnZUJNNkYzQnhBbE1oYkJB?oc=5",
       "timestamp": "2026-02-12T11:02:35.189Z"
     },
     {
-      "id": 22,
+      "id": 18,
       "text": "SWEDEN begins first NATO air policing mission over ICELAND, marking expanded alliance commitment after recent membership - defense signals shift in Nordic security posture (Janes)",
       "source": "Janes",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVnhDdmRzdnJsaG5jM0I0RFBaSTg3VEN0Qnp5RVVfSGtucTJ3ZEFudmhEb0dTLUlVWjJTV3Z0VE9rMXBYUC03bHdqaXpvN1FoSldSX2NaNnZTQUUxS3lmU0E3TjRJWGZKSzUwZWc1akFBdmZkR1MyNUViSHJjUnR5Mk1kVXhrTFlWNWVpQ1pCVkphZFlPOExkRU9wLXFacnhvdWwyN2hmenptQTNPVWYxd1FNOVE4Z2c?oc=5",
       "timestamp": "2026-02-12T11:02:26.965Z"
     },
     {
-      "id": 21,
+      "id": 17,
       "text": "TEXAS airspace disrupted: US MILITARY conducts laser tests, reports of CARTEL surveillance drones near border create operational uncertainty (AP)",
       "source": "Google Drone Threats",
       "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0xVRWVwajZxRmpLZ1BfSFNDeWMxMDc5RG9QNncwN05hT3IwSkZhekVMNFRYWVpxTkxlUFhfbzBDYlZVNUpBQy1NTnpGMTZkMWwzOXJ3Tlk0c3VsUGhSM2dlNTBsVXZubVZCRjB6TUdDOWpOYnlKTU93VkZueWRIYVpYUXRROHpHUGI5aHJSUmxkZ2VKZkp5RmF3?oc=5",
       "timestamp": "2026-02-12T10:59:45.227Z"
     },
     {
-      "id": 20,
+      "id": 16,
       "text": "RUSSIA maintains stance on NEW START nuclear treaty — no changes to Feb 4 Foreign Ministry position on treaty's future (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/politics/2085813",
       "timestamp": "2026-02-12T10:58:47.555Z"
     },
     {
-      "id": 19,
+      "id": 15,
       "text": "RUSSIA diplomat RYABKOV claims US economic influence declining, dollar's global dominance eroding amid shifting geopolitical landscape (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/economy/2085815",
       "timestamp": "2026-02-12T10:58:38.359Z"
     },
     {
-      "id": 18,
+      "id": 14,
       "text": "SAUDI ARABIA's SAMI unveils new Heet tactical vehicles at World Defense Show 2026 - indigenous military platform design (Janes)",
       "source": "Janes",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOODhvNWFGVmpyTWJtZXQxV3ZIUXlId3BHWEFXYl8xNDNNM1Z2U3dGalBLQjhrai13RzM1RXZpR1pDT1M0YUJib21uTjNzMnVWOHBvUTlwUVEwZG0tX0Z3Nm1NakpIeVlpdGV5a3ZtMExpd3M4UC1xVVBxakRaU25BVHUwbXh6QmxEeEVEQkN1MjRXX0lU?oc=5",
       "timestamp": "2026-02-12T10:55:57.846Z"
     },
     {
-      "id": 17,
+      "id": 13,
       "text": "BREAKING: US MILITARY conducts airstrikes against ISIS targets in NIGERIA - precision strike targeting militant positions in ongoing counterterrorism operation (AP)",
       "source": "Google BREAKING",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZWJxUEdYUjlhd2dDM090S085UEk3d2NlTVhlRnRCcnJ2TkhGcDJmUE1GdUpPVHJzNVBYZ0R6ODBIcVdlbXhFMnlzMjdoMU10RG9wX3lPS1Nhamg4RmJwelZ1ODhmaVlZcjMycFFfUGxvUWVoQnFDWElocWlBYzVRSHM3UFMtbDAydEpYM3JWRDJDRHZEeEFsVU9GbzNJVkQ0Ty1jSUQ3bkR4TEw0N3FQX2tYelVodF84eE5CdFF0MzNCZmFzSkdEdjFHYlFJRm1CS21leGdDRUhxNktERzFPRlM1aw?oc=5",
       "timestamp": "2026-02-12T10:50:44.961Z"
     },
     {
-      "id": 16,
+      "id": 12,
       "text": "RUSSIA: 5 states quitting OTTAWA CONVENTION signals potential arms control breakdown — could impact European security landscape (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/politics/2085807",
       "timestamp": "2026-02-12T10:48:54.823Z"
     },
     {
-      "id": 15,
+      "id": 11,
       "text": "RUSSIA diplomat RYABKOV suggests UKRAINE peace talks must follow ANCHORAGE framework - signals potential diplomatic opening amid ongoing conflict (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/politics/2085811",
       "timestamp": "2026-02-12T10:48:45.444Z"
     },
     {
-      "id": 14,
+      "id": 10,
       "text": "RUSSIA accuses US of blocking CUBA flights, disrupting tourism: Foreign Ministry spokesperson ZAKHAROVA blames \"external forces\" for ongoing travel restrictions (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/politics/2085799",
       "timestamp": "2026-02-12T10:46:59.761Z"
     },
     {
-      "id": 13,
+      "id": 9,
       "text": "RUSSIA signals openness to US dialogue on UKRAINE conflict: Deputy Foreign Minister RYABKOV says ready for \"equal terms\" negotiations amid ongoing tensions (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/politics/2085801",
       "timestamp": "2026-02-12T10:46:31.730Z"
     },
     {
-      "id": 12,
+      "id": 8,
       "text": "RUSSIA unveils S180 military drone with advanced evasion capabilities against FPV attack drones - claims high-speed maneuverability prevents interception (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/defense/2085805",
       "timestamp": "2026-02-12T10:46:25.062Z"
     },
     {
-      "id": 11,
+      "id": 7,
       "text": "US approves $142B arms package to SAUDI ARABIA — largest single defense sale in bilateral history, includes advanced fighter jets, missile systems, precision munitions (Reuters)",
       "source": "Google Arms Trade",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZlI1LWRiS0YwcVB1OGhQamwyV0NmZGZmWjVBNV9ibkFyY3drd3h5eTlLRFpFeE51LTBCUVRjcURhdkdRYTUtdFVkODRGcEhwRG5jckFmUzJ2TnFDV0NUNFljcFc0MmcxNWdWVHF1dDk1czBVMjVGTkhJd0RsVXZ1UDVVc3g0SzQ2NGpaT2gwRmF2R215aS11ckszYUhTQTJxOV9iVkt0aTlnRUpncXc?oc=5",
       "timestamp": "2026-02-12T10:46:20.857Z"
     },
     {
-      "id": 10,
+      "id": 6,
       "text": "SUDAN conflict: New peace proposal emerges amid ongoing fighting between ARMY and RAPID SUPPORT FORCES - potential diplomatic breakthrough uncertain (AllAfrica)",
       "source": "Google Africa Security",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VSm43dlBKUTBESGE2UXhSdENzSmhaRlFxWnVuNFJkTEdPejNubFdWOXhGUGFMTk9qNUh4cFB5T3hqYnpjY1cwUDFTRnlSN0tpSmN1bHQ3OFlzSDg?oc=5",
       "timestamp": "2026-02-12T10:42:07.735Z"
     },
     {
-      "id": 9,
+      "id": 5,
       "text": "BANGLADESH holds national election amid opposition boycott - AWAMI LEAGUE seeks 4th consecutive term, low voter turnout reported in early hours (Al Jazeera)",
       "source": "Al Jazeera",
       "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/2/12/voters-flock-to-polling-stations-as-bangladesh-holds-landmark-election?traffic_source=rss",
       "timestamp": "2026-02-12T10:41:58.955Z"
     },
     {
-      "id": 8,
+      "id": 4,
       "text": "UKRAINE athlete HERASKEVYCH banned from OLYMPICS after wearing memorial helmet highlighting war casualties - IOC rules against athlete's protest of RUSSIA invasion (Al Jazeera)",
       "source": "Al Jazeera",
       "sourceUrl": "https://www.aljazeera.com/sports/2026/2/12/ukraines-heraskevych-disqualified-from-olympics-skeleton-over-helmet?traffic_source=rss",
       "timestamp": "2026-02-12T10:41:48.874Z"
     },
     {
-      "id": 7,
+      "id": 3,
       "text": "BANGLADESH polls close after contentious election - opposition claims voter suppression, ruling AWAMI LEAGUE seeks 4th consecutive term amid protests, low turnout (Al Jazeera)",
       "source": "Al Jazeera",
       "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/2/12/bangladesh-election-results-live-polls-formally-close-counting-under-way?traffic_source=rss",
       "timestamp": "2026-02-12T10:41:39.420Z"
     },
     {
-      "id": 6,
+      "id": 2,
       "text": "RUSSIA economy faces critical strain: Defense production vs. agricultural output creating major resource allocation tensions in ongoing UKRAINE war effort (RFE/RL)",
       "source": "Google Ukraine",
       "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU1I3alU1SndUMmREQkRJV3dEUzlQNmdZRXBrZ2h0N1pwYUhTQVQzX1pwZmstbUR4VjFoeFVwcUZsa0tfbU1aX2VzWkkwVHotMU14dnpKSnd2eUJtMFNUUFhxdmZRMFQ5RXlndDZZVzhrXzZDYW85OUFWMHpTamlGRklrT21MQzU1dHZRNGZmd3pxT242UF91YtIBmwFBVV95cUxPUFpacjJ1S05rTk1yU19sUFVDcElrYlBFNGE5TV85TzRNRExMQ2otNzZ3MFJhYUpRczFMVEFoRElJMWZ2djMyUk9ySnJfVFFMT2NDMDVJcnc2bERvRDRfRTZlVnc5NVpqYWpNeENISmFGMzYzbU0ySEZndE5CcWEtQTJIT3V3cGhYQ0RrOTR5RjdJRXpMMy1QemJvZw?oc=5",
       "timestamp": "2026-02-12T10:38:55.111Z"
     },
     {
-      "id": 5,
+      "id": 1,
       "text": "RUSSIA hopes for OLYMPIC reinstatement after 70+ international sports federations clear Russian athletes for competition — Foreign Ministry spokesperson (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/politics/2085797",
       "timestamp": "2026-02-12T10:37:02.893Z"
     },
     {
-      "id": 4,
+      "id": 0,
       "text": "LEGAL FILING: Attorneys seek CIA, NSA documents on JEFFREY EPSTEIN's potential intelligence connections - court motion demands full disclosure of classified files (Anadolu Agency)",
       "source": "Google Intelligence",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWNjVU9QcTFBZjd3aDNCYnF4N0lzZjljcmNFQ1FuZVd4Nnl6U2xlTFctV2plMmQzS3BHQkFmWDlDTGtSd1d1ejJrOWh2WGpwSTNFNUdzVjJXV21PUjlXUDFwWVdUTjA3X1I2ZGgzOUhxQlBKS3BQdFJmX0JRcXFsQkxiekE1bU5sc3llcnRRNk9WMUw1WlB3Qk40VzRSeTRCdDNuNDQ1WkFKZ0t2RENPYldB?oc=5",
       "timestamp": "2026-02-12T10:36:55.268Z"
-    },
-    {
-      "id": 3,
-      "text": "RUSSIA claims UKRAINE attempted assassination of Russian official, alleges deliberate effort to block peace negotiations - ZELENSKY linked to \"coordinated\" operation on RUSSIAN territory (TASS)",
-      "source": "TASS",
-      "sourceUrl": "https://tass.com/politics/2085793",
-      "timestamp": "2026-02-12T10:35:02.182Z"
-    },
-    {
-      "id": 2,
-      "text": "RUSSIA's PUTIN thanks UAE president for assistance in capturing suspect linked to alleged assassination attempt against military leadership (Anadolu Agency)",
-      "source": "Anadolu Agency",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPejFOUXdWbkVkZnRzNUlYN2t5akhpY2NKRnZEd0Fia1drSWxYZjNlUGYzTG5WT2tCZnZSWWo2Z2owRmoxeEZzMTZNcmEyVnFPUnVsdndhazdXZWlTRUVZVFFLaXM0RmFoLWhfczBVcFNNdkxRelZHbjUtTnJzUnpGZXp3QldMUlZza3VPUzBtaWllNWlMX2lqbkdqcFVERzI5NXkyTlcwYWZEc3R3MktmSVdnRmY1MWhyLWhjTHhCRGs0LW5HZmxFOWFKZGtqY2d2YnhwbnhR?oc=5",
-      "timestamp": "2026-02-12T10:27:17.469Z"
-    },
-    {
-      "id": 1,
-      "text": "AUSTRALIA: Terrorist attack at BONDI BEACH targets Jewish event - multiple casualties reported, suspect neutralized by police. Active investigation underway in SYDNEY (Time)",
-      "source": "Google Terrorism",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHTUc4Zkt0djZWRlNDTDBybWZyRm11aUhkMW1nN2VqdEFxOWhHUzBYS21JX3dzMjV6THJwS2s0aDhtNG91ZHZyeG5lT3g2d1ZRUWhTV0lRelhhWTFkMGw5dHlWMHUzMHd2UnhDaw?oc=5",
-      "timestamp": "2026-02-12T10:27:09.985Z"
-    },
-    {
-      "id": 0,
-      "text": "U.S. CENTCOM conducts airstrikes against ISIS targets in SYRIA - precision strikes targeting militant infrastructure, ongoing counter-terrorism operation (CENTCOM)",
-      "source": "CENTCOM",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10Z1hvclo0X0ZPMl96a3hTNHNxLUlUZEdzYjFTeVJMb2psSm43dHlRY2pKclJ4MlA4R1pncm02aUNEdzh5dDlGR05FdnJLcVlOdTZSZ0UtWVJTcUp6c2hsSjdpUXJIam9B?oc=5",
-      "timestamp": "2026-02-12T10:27:00.048Z"
     }
   ]
 }
