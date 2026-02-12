@@ -1,217 +1,217 @@
 {
   "feed": "mildata",
-  "updated": "2026-02-12T11:29:54.584Z",
+  "updated": "2026-02-12T11:34:54.596Z",
   "count": 30,
   "items": [
     {
       "id": 29,
+      "text": "IEA cuts global oil demand growth forecast for 2026 - projects 104.022 million barrels/day in 2025, signals potential market softening (TASS)",
+      "source": "TASS",
+      "sourceUrl": "https://tass.com/economy/2085831",
+      "timestamp": "2026-02-12T11:34:37.476Z"
+    },
+    {
+      "id": 28,
+      "text": "RUSSIA warns potential US tariffs over CUBA aid would have minimal impact — bilateral trade already at near-zero levels (TASS)",
+      "source": "TASS",
+      "sourceUrl": "https://tass.com/economy/2085829",
+      "timestamp": "2026-02-12T11:34:27.774Z"
+    },
+    {
+      "id": 27,
+      "text": "CHINA displays advanced military DRONES and UUVs in national parade - signals expanding autonomous warfare capabilities (Xinhua)",
+      "source": "Xinhua Military",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2UWw0UDNsaDNhSjdIbWpUeEtnRGVPZWJFaGJfSzE1UHA1NDRINkczbnY5QjBON3lYc19ZT3lsWnQ3dXNybWZMZG5QakZpVVNRZk9IZEppSWFLRUE4QXVYMTJwNmk1UmhzU1Z3Z1R3?oc=5",
+      "timestamp": "2026-02-12T11:33:30.628Z"
+    },
+    {
+      "id": 26,
+      "text": "PENTAGON plans to redeploy NUCLEAR weapons to UK bases - first time since 1992, signaling heightened NATO deterrence posture against RUSSIA (Reuters)",
+      "source": "Google NATO",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY21KbjJ3Z3F5cHI4elRyNzctWW9pTlpya054bXRWM2EyWkU1R2xNQTdhbmIyOHF5dDdYRjQzVkRFX0QzSmF5ekszYVNOT0x1eWFxNFJFOW5Ka2xpX0NVYjdMemRmaEtraU5rOG43MWVnU0lLZFFGWlZNVEhCSkdDcTZiVGJsa3E5MnNYcnhpNlA?oc=5",
+      "timestamp": "2026-02-12T11:33:23.621Z"
+    },
+    {
+      "id": 25,
+      "text": "US NATIONAL GUARD exploring expanded military cooperation with TIMOR-LESTE: senior official signals potential strategic partnership in INDO-PACIFIC region (INDOPACOM)",
+      "source": "INDOPACOM",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbWJIaVJrdy02QU4zVV83ZmsySWVGMFVEWXhpamdrQlBXWU9WajJyYjk5N19fWVRJQUJzYlBGMDk0NU9BUEhteXhqMWtWcjBJcFpvMmRqMmxJcmkzUFpIV2JraTltSEpqSlltclNBZmZmNjN3clBiUmEwSnQ4d2xTNmlqdkVwYklOZ2hJRU84eW5SbWRCMFdmSUFYNnlMZlFsdFlmR00wc1JpRkI4amYzQ3JNNDljRnpaMFFfMU5kVm1uLTJwWlJFU1gtY1JzWlMxc2dn?oc=5",
+      "timestamp": "2026-02-12T11:31:31.618Z"
+    },
+    {
+      "id": 24,
       "text": "UK DEFENSE MIN announces £500M air defense package for UKRAINE - includes advanced missile intercept systems to counter RUSSIA aerial attacks (UK MoD)",
       "source": "UK MoD",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZDBQcVJ1SkpWNlNTWV9Ec2lZQWhzSXczY2Ixc0xTenpwUDF2Qzc0TG5sR0c0Q0FTaGgzdnZrRzVMMjNkeElpRk1XeFV2QmxOc09adEpYLWpPNUs4S3oyMUsyX1hpbm9IbXpURkZGZ2VyVEgxaTlnbldoYlFBODdBM1dzaGpDSk1PMTJPZlo4NmJWSWVtV1FWV2swbVBMS0JSTFZOamJKM1lYbF80dVJ0eFJqTFo4S05TV2Z0ZjNEaFM?oc=5",
       "timestamp": "2026-02-12T11:27:13.901Z"
     },
     {
-      "id": 28,
+      "id": 23,
       "text": "UK commits £500M+ air defense package to UKRAINE - includes advanced missile/radar systems to counter RUSSIA aerial attacks. Significant military aid boost amid ongoing conflict (UK MoD)",
       "source": "UK MoD",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZDBQcVJ1SkpWNlNTWV9Ec2lZQWhzSXczY2Ixc0xTenpwUDF2Qzc0TG5sR0c0Q0FTaGgzdnZrRzVMMjNkeElpRk1XeFV2QmxOc09adEpYLWpPNUs4S3oyMUsyX1hpbm9IbXpURkZGZ2VyVEgxaTlnbldoYlFBODdBM1dzaGpDSk1PMTJPZlo4NmJWSWVtV1FWV2swbVBMS0JSTFZOamJKM1lYbF80dVJ0eFJqTFo4S05TV2Z0ZjNEaFM?oc=5",
       "timestamp": "2026-02-12T11:27:14.430Z"
     },
     {
-      "id": 27,
+      "id": 22,
       "text": "PENTAGON weighs military options against IRAN amid escalating regional tensions; no immediate strike planned despite ongoing provocations (The Atlantic)",
       "source": "Google Middle East",
       "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa2llZi0zSk42OHU1a0s1Tk1kaWg4YUVKZnZCOTU1SVZjR2k1MWowMVc0clREWEJxcUg0c3d3MEVjMExOX0lBM2RxS3NfUFlVbEpEMC1xbF94QnRkZGNsbnRuMnNzS1hDbElMMHpHcWo0WmVLWEo2MlhRSkhubXYwUE02V1VHM2JWM2ZIMUwxRjZodjZhcWphOFk4S1Q?oc=5",
       "timestamp": "2026-02-12T11:25:22.586Z"
     },
     {
-      "id": 26,
+      "id": 21,
       "text": "RUSSIA oil exports drop to 7.5 million barrels/day in JANUARY — revenues hit $11.11 bln despite 350k bpd reduction in deliveries (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/economy/2085827",
       "timestamp": "2026-02-12T11:25:16.369Z"
     },
     {
-      "id": 25,
+      "id": 20,
       "text": "PENTAGON accelerates space weapons development to counter CHINA, RUSSIA anti-satellite capabilities - $1.5B allocated for new defensive/offensive space systems in 2024 budget (Washington Times)",
       "source": "Google Space Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSW5lcGFEWWNmeDVnTDhSbHE0MVYxNnNCOERaRmpKdklybkpZZW5jeEZFRVZXYWFNaVBBZFhmcVd2aWctVE9TYURMSnJjVkttU2owLXRmMmV1bFYyTG9mNlM0R0VDLUdna20zZFdpR1gwMkhyUlhaYkdLT1JSVUpzd2xxMTNNelAxT1RqbTAxME1GOHpCWXBuWGczNmxDYmozTXdSWElEdmwydWU2U2pYMGpMRzg?oc=5",
       "timestamp": "2026-02-12T11:25:08.355Z"
     },
     {
-      "id": 24,
+      "id": 19,
       "text": "U.S. SPACE FORCE accelerating development of counter-ASAT capabilities in direct response to CHINA, RUSSIA satellite warfare technologies - strategic arms race intensifying in orbital domain (Washington Times)",
       "source": "Google Space Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSW5lcGFEWWNmeDVnTDhSbHE0MVYxNnNCOERaRmpKdklybkpZZW5jeEZFRVZXYWFNaVBBZFhmcVd2aWctVE9TYURMSnJjVkttU2owLXRmMmV1bFYyTG9mNlM0R0VDLUdna20zZFdpR1gwMkhyUlhaYkdLT1JSVUpzd2xxMTNNelAxT1RqbTAxME1GOHpCWXBuWGczNmxDYmozTXdSWElEdmwydWU2U2pYMGpMRzg?oc=5",
       "timestamp": "2026-02-12T11:25:08.529Z"
     },
     {
-      "id": 23,
+      "id": 18,
       "text": "IRAN FM Hossein Amir-Abdollahian condemns new US naval deployment to PERSIAN GULF, warns of \"dangerous escalation\" amid regional tensions (Anadolu Agency)",
       "source": "Anadolu Agency",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcFVORXFvQW5tTXhCc0hld1dMUmxfUnlZZkFWU3FmS3ZldFJVVG5ndTIyNEltbVZjem1vZHNjZGNKT0hkV0hYZUw4eUxWbUlNOVdWbmY4Q2FvLXQ1a0F0U2M5a1dtWlVYdU9ER2RCdFpNRmt5eXR1RnMzNUI5bWZRNnp1cWk5NE1aVU1qM2N5d0ExUlRFTWlOOE50TTdMaWo0Wjl5eVVVVFdBOFRhREZCM0R6cw?oc=5",
       "timestamp": "2026-02-12T11:23:05.303Z"
     },
     {
-      "id": 22,
+      "id": 17,
       "text": "SUDAN conflict enters critical phase - widespread humanitarian collapse reported in Khartoum and Darfur regions. Estimated 10M+ civilians at risk, UN warns of potential mass displacement and acute food insecurity (Al Jazeera)",
       "source": "Google Humanitarian Crisis",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3p0WGE4ODJuTHJhM2c2WXh5Y3NKRy1QbjZZRU52a0JNazR0WnB6dVZwY1dua2h6dTE4N2xsRzA5RThMSFJlQ0NLNE5XRVNvNEdxQ0RPcFRTTVRsZTJOUkUySElxeG1rT1dCdWpHOUtxUEJtUUI5SjI5R1JtSUt4T091WnRUalFkYi1KOVZacl9OWC1RWnVXMG5VSmxjaXRrd2Mtd2NiMTVYSDhJ0gGyAUFVX3lxTE5FNE9Fd3I0ejdDVGU0SC1jaEEzV3FzbnFUaTU1WnNLdzhpN19YckMxZ3ctNkNQUUpjSGw1ZFZNNVZ5RkQwQkk4RElKRVZNTWpLaU5mendPNzJkZVNoMEh2aDQ0NTdqSHdobFZhcTZ5QnVxQWNpOWRDVnQxUVNMSkF6MnRQdjhNclJfanlRTzVNQ3loUjhrOGZWeGVTaGNfQkZrX3Q0bUtzajh0V2tlU1NXQ0E?oc=5",
       "timestamp": "2026-02-12T11:20:46.700Z"
     },
     {
-      "id": 21,
+      "id": 16,
       "text": "SUDAN conflict enters 9th month - DARFUR region sees escalating ethnic violence, 10,000+ killed, 5.6M displaced in potential genocide scenario (UN)",
       "source": "Google Humanitarian Crisis",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYVVWZ3pSUDllUS16N0VNeXltMTZhR1pMUkhyNWN3dTlUNGlNMHNlRTd1Z3BydE5kMmdRSl9XT0p1X0lzZGFpMEowMkM3RjBvbmRzbnhHV3h1R3FGSzhZSG1aWmk2dVJYYkFCenZPWGdkUUZaaFNpc3pTWEM3bU8wME5vbGVjejF3WHQ4eDE3TjZ1ekluUlRMWnJ3WEFKSUl2akk1Q3N0dFRTajBR?oc=5",
       "timestamp": "2026-02-12T11:20:25.775Z"
     },
     {
-      "id": 20,
+      "id": 15,
       "text": "ISRAEL considers expanded military operation in GAZA after HAMAS attack; IDF preparing for potential ground invasion - significant troop movements reported near border (Reuters)",
       "source": "Google Middle East",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45ZGRqczIxcnpZUVBRQTZ5OWtHVFNJZEhQWS1QeHJNU003RGxqdlcxTnE5SURQQ1J4QmhLS2NaWXpPRGFyU0pLUEZIdnNIX1NpTTRYNjQwOWnSAV5BVV95cUxOYnRjLUlLN1A5YWRtMmtndUFCWllTbjYwWlk5cG5kR1FPdXFkWGxsY0xkWmp4LVRIbTJPTXdHRFdZYXVMcHpWd3hNZUJSMFZMc1gwVi0tMXhpaDUzME5R?oc=5",
       "timestamp": "2026-02-12T11:20:12.622Z"
     },
     {
-      "id": 19,
+      "id": 14,
       "text": "EGYPT names new DEFENSE MINISTER in cabinet shakeup: Gen. Mohamed Zaki replaces Sedki Sobhi in military leadership transition (Xinhua)",
       "source": "Xinhua Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZVlFWWczYmEwMFU4cG8zd1Iya2NjWWdzYzNiSVhXU1FMLVRqZTByRmZ0b3ozRHJNTjZGaDdXUGNINGViOGtVR3VhWW5WR244NnlUUEtzZG1TdzdCaUZMMGhCY29hSnhoZC1Ra3lhSEZ5ZlNlOWZ1WVgzSzEwcUUxa2pMZmNYY01o?oc=5",
       "timestamp": "2026-02-12T11:20:04.918Z"
     },
     {
-      "id": 18,
+      "id": 13,
       "text": "PENTAGON warns AI-powered cyber threats pose significant risk to U.S. critical infrastructure - potential for large-scale digital attacks on power, communications, financial networks (American Security Project)",
       "source": "Google Cyber Warfare",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWlliNUlLc2lTUF9LTHVCbVp1R2NxQ3U1a2d5ek9vSDNPdTR4RGljdVAzNzlfbllUWDdwRmduV09EZXROWFcyMnctNjZEbHhRZnQ2a2pTWXNiV09UcDVjbXJEWFhOWGd3V0t1Y2FGbmkxb1NYWENnTTREWHJBbWk3Tlp2V1BmMlllMWMwclNPZ1BjUVpPVW01cFJtSnNfblZSUVdyN0ZPNA?oc=5",
       "timestamp": "2026-02-12T11:18:10.891Z"
     },
     {
-      "id": 17,
+      "id": 12,
       "text": "IRAN cyber ops targeting US entities escalate: FDD report details systematic digital attacks against American targets from 2011-present, spanning government, private sector infrastructure (Foundation for Defense of Democracies)",
       "source": "Google Cyber Warfare",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaTBlVnBqeHlfR2FTN1dibkw0Q0I3YmlFeUN0ZnVrQTN0VGh0ZDNvTXVwS0pXYjRqSENnTWNmY19FWXZ1cTVESmV2WGZrbloxT0ZEUkxEOTlSUWVSYU90eUFPc1JmRTN3d2ZUMmFvWkh0VHRBWHJ1ZklUNkR2TWlWelcxemhRRDVRYUZ1M2ZhYXhzZ1R0djhxY3Y1Mm1rbTZKWklCU3d2SkVvNVE?oc=5",
       "timestamp": "2026-02-12T11:18:03.120Z"
     },
     {
-      "id": 16,
+      "id": 11,
       "text": "RUSSIA dismisses external pressure, affirms consistent foreign policy stance: MFA Deputy Ryabkov says diplomatic approach remains \"long-term, predictable\" despite international tensions (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/politics/2085825",
       "timestamp": "2026-02-12T11:16:07.336Z"
     },
     {
-      "id": 15,
+      "id": 10,
       "text": "INDIA conducts major military exercise OPERATION SINDOOR, reveals strategic insights into modern warfare capabilities — detailed analysis from CARNEGIE ENDOWMENT highlights key military learnings (Carnegie)",
       "source": "Google Urgent Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcWNzakw2TzAzczQ1Qk4yQzNOTFhVLU9CTW1uU1hlWGZmMFhpdjNZYnB2ZWF3c0pJS1J4ZVNnbUs0QktPbGpMOUpQd3VHSUlZSjdGbmlFWTJQN2NZSnVFRmV4cVFjYXJHa2VmLWREeXhtNVRmQzEwLVhTcnJaNWxsZy1xdVFZajRpWk52VWg2Yw?oc=5",
       "timestamp": "2026-02-12T11:15:10.483Z"
     },
     {
-      "id": 14,
+      "id": 9,
       "text": "CHINA reportedly leveraging CLAUDE AI for advanced cyber intrusion techniques - potential escalation in AI-powered cyber warfare capabilities (Breaking Defense)\n\nKey rationale for 8/10 rating:\n- First confirmed report of state-level AI weaponization\n- Significant implication...",
       "source": "Google Cyber Warfare",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdHowWUFKSFV1Sk5jUGNGY1lrOU51RkRuQUxBWGZWemFiWW96QkpyQzRwQ3A0WmVSTWdzYmo2R2FPeDJIc2MwbVM1ZVEyNmp5ZC1nU3hCbkVzdDloMlRKNXV5S2JwRnZmZVdRQjZtNG13RW5NZTVHd000aUJQY1RTNEV0dlpZVzdwMVlOUk4xTWdfZThvaWpqREFDdmdEZmUxc1ZYR3dNZkpMTWNXSjhvUXhPcXNkcEEyVjYxanZpbFVidw?oc=5",
       "timestamp": "2026-02-12T11:11:14.558Z"
     },
     {
-      "id": 13,
+      "id": 8,
       "text": "CHINA unveils new main battle tank model - potential technological advancement in PLA ground forces' armored capabilities (China Daily)",
       "source": "Google Military Assets",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZExySzZSekN3NlRaOE5mdGZFd1pqZjJROG5TSFJSMXl1Ql96ZGhLRy1YOXhjWS1HRDkyOHFIQm15RE51cXdzV2FCTGVubU43MFZFLTc4ZG12MnRZQVlQV2ZMSTBjYWlYbDFyV0tYeWkwZTFYRXlsN3pJanAyN0tJSTRB?oc=5",
       "timestamp": "2026-02-12T11:08:24.828Z"
     },
     {
-      "id": 12,
+      "id": 7,
       "text": "KREMLIN signals openness to CUBA dialogue amid US sanctions - seeks diplomatic engagement on Caribbean tensions (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/politics/2085821",
       "timestamp": "2026-02-12T11:07:21.428Z"
     },
     {
-      "id": 11,
+      "id": 6,
       "text": "BANGLADESH holds national election amid political tensions - opposition claims voter suppression, low turnout reported after years of HASINA government crackdowns (BBC)",
       "source": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/articles/cy7jdmvn3l0o?at_medium=RSS&at_campaign=rss",
       "timestamp": "2026-02-12T11:07:14.826Z"
     },
     {
-      "id": 10,
+      "id": 5,
       "text": "AFGHANISTAN: TALIBAN claims downing U.S. military jet in combat zone - PENTAGON immediately denies report as false; no confirmation of aircraft loss (Xinhua)",
       "source": "Xinhua Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00N2pPSTFENVY5X1psLTIxMkhJR191bTdTR0FWUVItVmhmS3hNSjlHakg4a2tEc2N2R3gxeGhfQ2hqeFlMU05UOE10VVZpSDdSam1tQ0RZTER6SU5xWUpoZm9Fbk01RW4wZnhJ?oc=5",
       "timestamp": "2026-02-12T11:06:18.281Z"
     },
     {
-      "id": 9,
+      "id": 4,
       "text": "RUSSIA warns against WESTERN destabilization attempts in BELARUS: Diplomat signals close security cooperation between MOSCOW and MINSK amid rising geopolitical tensions (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/politics/2085819",
       "timestamp": "2026-02-12T11:03:32.327Z"
     },
     {
-      "id": 8,
+      "id": 3,
       "text": "GLOBAL POWERS: EU, AFRICAN UNION, UN condemn child soldier recruitment - joint statement marks International Day against use of minors in armed conflict (UN)",
       "source": "Google Conflict",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWVdUZ3RCTXI4SFcwWXdxVVFzSTRBUVZNLUxBTFFEMHdxZEtNUVEzY0ZrSFA5ekFSdmd3NHVDY0FjM2FDUEhwNnhqRWprdFZHcmRQZDVrQWRnN1dwYXoyT1pER1Y3dGlobFVVd3ZtMmZSVnhnZUJNNkYzQnhBbE1oYkJB?oc=5",
       "timestamp": "2026-02-12T11:02:35.189Z"
     },
     {
-      "id": 7,
+      "id": 2,
       "text": "SWEDEN begins first NATO air policing mission over ICELAND, marking expanded alliance commitment after recent membership - defense signals shift in Nordic security posture (Janes)",
       "source": "Janes",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVnhDdmRzdnJsaG5jM0I0RFBaSTg3VEN0Qnp5RVVfSGtucTJ3ZEFudmhEb0dTLUlVWjJTV3Z0VE9rMXBYUC03bHdqaXpvN1FoSldSX2NaNnZTQUUxS3lmU0E3TjRJWGZKSzUwZWc1akFBdmZkR1MyNUViSHJjUnR5Mk1kVXhrTFlWNWVpQ1pCVkphZFlPOExkRU9wLXFacnhvdWwyN2hmenptQTNPVWYxd1FNOVE4Z2c?oc=5",
       "timestamp": "2026-02-12T11:02:26.965Z"
     },
     {
-      "id": 6,
+      "id": 1,
       "text": "TEXAS airspace disrupted: US MILITARY conducts laser tests, reports of CARTEL surveillance drones near border create operational uncertainty (AP)",
       "source": "Google Drone Threats",
       "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0xVRWVwajZxRmpLZ1BfSFNDeWMxMDc5RG9QNncwN05hT3IwSkZhekVMNFRYWVpxTkxlUFhfbzBDYlZVNUpBQy1NTnpGMTZkMWwzOXJ3Tlk0c3VsUGhSM2dlNTBsVXZubVZCRjB6TUdDOWpOYnlKTU93VkZueWRIYVpYUXRROHpHUGI5aHJSUmxkZ2VKZkp5RmF3?oc=5",
       "timestamp": "2026-02-12T10:59:45.227Z"
     },
     {
-      "id": 5,
+      "id": 0,
       "text": "RUSSIA maintains stance on NEW START nuclear treaty — no changes to Feb 4 Foreign Ministry position on treaty's future (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/politics/2085813",
       "timestamp": "2026-02-12T10:58:47.555Z"
-    },
-    {
-      "id": 4,
-      "text": "RUSSIA diplomat RYABKOV claims US economic influence declining, dollar's global dominance eroding amid shifting geopolitical landscape (TASS)",
-      "source": "TASS",
-      "sourceUrl": "https://tass.com/economy/2085815",
-      "timestamp": "2026-02-12T10:58:38.359Z"
-    },
-    {
-      "id": 3,
-      "text": "SAUDI ARABIA's SAMI unveils new Heet tactical vehicles at World Defense Show 2026 - indigenous military platform design (Janes)",
-      "source": "Janes",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOODhvNWFGVmpyTWJtZXQxV3ZIUXlId3BHWEFXYl8xNDNNM1Z2U3dGalBLQjhrai13RzM1RXZpR1pDT1M0YUJib21uTjNzMnVWOHBvUTlwUVEwZG0tX0Z3Nm1NakpIeVlpdGV5a3ZtMExpd3M4UC1xVVBxakRaU25BVHUwbXh6QmxEeEVEQkN1MjRXX0lU?oc=5",
-      "timestamp": "2026-02-12T10:55:57.846Z"
-    },
-    {
-      "id": 2,
-      "text": "BREAKING: US MILITARY conducts airstrikes against ISIS targets in NIGERIA - precision strike targeting militant positions in ongoing counterterrorism operation (AP)",
-      "source": "Google BREAKING",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZWJxUEdYUjlhd2dDM090S085UEk3d2NlTVhlRnRCcnJ2TkhGcDJmUE1GdUpPVHJzNVBYZ0R6ODBIcVdlbXhFMnlzMjdoMU10RG9wX3lPS1Nhamg4RmJwelZ1ODhmaVlZcjMycFFfUGxvUWVoQnFDWElocWlBYzVRSHM3UFMtbDAydEpYM3JWRDJDRHZEeEFsVU9GbzNJVkQ0Ty1jSUQ3bkR4TEw0N3FQX2tYelVodF84eE5CdFF0MzNCZmFzSkdEdjFHYlFJRm1CS21leGdDRUhxNktERzFPRlM1aw?oc=5",
-      "timestamp": "2026-02-12T10:50:44.961Z"
-    },
-    {
-      "id": 1,
-      "text": "RUSSIA: 5 states quitting OTTAWA CONVENTION signals potential arms control breakdown — could impact European security landscape (TASS)",
-      "source": "TASS",
-      "sourceUrl": "https://tass.com/politics/2085807",
-      "timestamp": "2026-02-12T10:48:54.823Z"
-    },
-    {
-      "id": 0,
-      "text": "RUSSIA diplomat RYABKOV suggests UKRAINE peace talks must follow ANCHORAGE framework - signals potential diplomatic opening amid ongoing conflict (TASS)",
-      "source": "TASS",
-      "sourceUrl": "https://tass.com/politics/2085811",
-      "timestamp": "2026-02-12T10:48:45.444Z"
     }
   ]
 }
