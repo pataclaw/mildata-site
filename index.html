@@ -142,7 +142,7 @@
   </div>
 
   <div class="header">
-    <div class="logo">MILDATA</div>
+    <div class="logo">MILITARY DATA</div>
     <div class="tagline">GLOBAL MILITARY INTELLIGENCE WIRE</div>
     <div class="status-bar">
       <span class="live">&#9679; LIVE</span> &mdash;
@@ -663,77 +663,180 @@ function drawReaper(t) {
   const headingRight = Math.sin(angle + 0.1) > Math.sin(angle);
   if (!headingRight) dCtx.scale(-1, 1);
 
-  // Draw MQ-9 Reaper
-  dCtx.strokeStyle = '#00ff41';
-  dCtx.fillStyle = '#00ff41';
+  // ── MQ-9 Reaper — 3D wireframe terminal style ──
+  const bright = '#00ff41';
+  const mid = '#00bb30';
+  const dim = '#006a18';
+  const glow = 'rgba(0,255,65,0.15)';
+
+  dCtx.lineWidth = 1.4;
+  dCtx.lineJoin = 'round';
+
+  // Shadow/glow under drone
+  dCtx.shadowColor = 'rgba(0,255,65,0.3)';
+  dCtx.shadowBlur = 8;
+
+  // ── Fuselage (3D with top/bottom shading) ──
+  // Bottom face (darker)
+  dCtx.beginPath();
+  dCtx.moveTo(-20, 1);
+  dCtx.quadraticCurveTo(-16, 4, -8, 3);
+  dCtx.lineTo(22, 3);
+  dCtx.lineTo(26, 2);
+  dCtx.lineTo(26, 0);
+  dCtx.lineTo(22, 1);
+  dCtx.lineTo(-8, 1);
+  dCtx.quadraticCurveTo(-16, 1, -20, 1);
+  dCtx.fillStyle = dim;
+  dCtx.fill();
+  dCtx.strokeStyle = mid;
+  dCtx.stroke();
+
+  // Top face (brighter)
+  dCtx.beginPath();
+  dCtx.moveTo(-20, 0);
+  dCtx.quadraticCurveTo(-16, -4, -8, -3);
+  dCtx.lineTo(22, -3);
+  dCtx.lineTo(26, -1);
+  dCtx.lineTo(26, 0);
+  dCtx.lineTo(22, -1);
+  dCtx.lineTo(-8, -1);
+  dCtx.quadraticCurveTo(-16, 0, -20, 0);
+  dCtx.fillStyle = 'rgba(0,180,50,0.4)';
+  dCtx.fill();
+  dCtx.strokeStyle = bright;
   dCtx.lineWidth = 1.2;
-  dCtx.font = '9px JetBrains Mono, monospace';
-  dCtx.textAlign = 'center';
-
-  // Fuselage
-  dCtx.beginPath();
-  dCtx.moveTo(-18, 0);      // nose sensor ball
-  dCtx.quadraticCurveTo(-14, -3, -8, -2);
-  dCtx.lineTo(20, -2);
-  dCtx.lineTo(24, -1);
-  dCtx.lineTo(24, 2);
-  dCtx.lineTo(20, 2);
-  dCtx.lineTo(-8, 2);
-  dCtx.quadraticCurveTo(-14, 3, -18, 0);
   dCtx.stroke();
 
-  // Sensor ball (nose)
+  // Fuselage wireframe ribs
+  dCtx.strokeStyle = dim;
+  dCtx.lineWidth = 0.5;
+  for (let rx = -6; rx <= 18; rx += 6) {
+    dCtx.beginPath();
+    dCtx.moveTo(rx, -3);
+    dCtx.quadraticCurveTo(rx + 0.5, 0, rx, 3);
+    dCtx.stroke();
+  }
+
+  // ── Sensor ball (nose turret) ──
+  dCtx.shadowBlur = 12;
   dCtx.beginPath();
-  dCtx.arc(-18, 1, 2.5, 0, Math.PI * 2);
+  dCtx.arc(-20, 1, 3.5, 0, Math.PI * 2);
+  dCtx.fillStyle = 'rgba(0,40,10,0.8)';
+  dCtx.fill();
+  dCtx.strokeStyle = bright;
+  dCtx.lineWidth = 1.2;
   dCtx.stroke();
+  // Lens
   dCtx.beginPath();
-  dCtx.arc(-18, 1, 1, 0, Math.PI * 2);
+  dCtx.arc(-20, 1, 1.5, 0, Math.PI * 2);
+  dCtx.fillStyle = bright;
+  dCtx.fill();
+  // Crosshair
+  dCtx.strokeStyle = mid;
+  dCtx.lineWidth = 0.4;
+  dCtx.beginPath();
+  dCtx.moveTo(-22.5, 1); dCtx.lineTo(-17.5, 1);
+  dCtx.moveTo(-20, -1.5); dCtx.lineTo(-20, 3.5);
+  dCtx.stroke();
+
+  dCtx.shadowBlur = 8;
+
+  // ── Main wings (3D with thickness) ──
+  // Top wing
+  dCtx.beginPath();
+  dCtx.moveTo(-2, -3);
+  dCtx.lineTo(-10, -22);
+  dCtx.lineTo(-7, -22);
+  dCtx.lineTo(5, -3);
+  dCtx.closePath();
+  dCtx.fillStyle = 'rgba(0,120,30,0.3)';
+  dCtx.fill();
+  dCtx.strokeStyle = bright;
+  dCtx.lineWidth = 1.0;
+  dCtx.stroke();
+  // Wing rib lines
+  dCtx.strokeStyle = dim;
+  dCtx.lineWidth = 0.4;
+  dCtx.beginPath();
+  dCtx.moveTo(-4, -8); dCtx.lineTo(1, -8);
+  dCtx.moveTo(-6, -14); dCtx.lineTo(-2, -14);
+  dCtx.stroke();
+
+  // Bottom wing
+  dCtx.beginPath();
+  dCtx.moveTo(-2, 3);
+  dCtx.lineTo(-10, 22);
+  dCtx.lineTo(-7, 22);
+  dCtx.lineTo(5, 3);
+  dCtx.closePath();
+  dCtx.fillStyle = 'rgba(0,120,30,0.3)';
+  dCtx.fill();
+  dCtx.strokeStyle = bright;
+  dCtx.lineWidth = 1.0;
+  dCtx.stroke();
+  dCtx.strokeStyle = dim;
+  dCtx.lineWidth = 0.4;
+  dCtx.beginPath();
+  dCtx.moveTo(-4, 8); dCtx.lineTo(1, 8);
+  dCtx.moveTo(-6, 14); dCtx.lineTo(-2, 14);
+  dCtx.stroke();
+
+  // ── V-tail (3D) ──
+  dCtx.strokeStyle = bright;
+  dCtx.lineWidth = 1.0;
+  // Upper tail
+  dCtx.beginPath();
+  dCtx.moveTo(22, -3);
+  dCtx.lineTo(30, -12);
+  dCtx.lineTo(33, -11);
+  dCtx.lineTo(26, -1);
+  dCtx.closePath();
+  dCtx.fillStyle = 'rgba(0,100,25,0.3)';
+  dCtx.fill();
+  dCtx.stroke();
+  // Lower tail
+  dCtx.beginPath();
+  dCtx.moveTo(22, 3);
+  dCtx.lineTo(30, 12);
+  dCtx.lineTo(33, 11);
+  dCtx.lineTo(26, 1);
+  dCtx.closePath();
+  dCtx.fill();
+  dCtx.stroke();
+
+  // ── Propeller (spinning blur disc) ──
+  const propAngle = t * 30;
+  dCtx.lineWidth = 1.5;
+  for (let b = 0; b < 3; b++) {
+    const a = propAngle + b * (Math.PI * 2 / 3);
+    const bAlpha = 0.3 + Math.abs(Math.sin(a)) * 0.4;
+    dCtx.strokeStyle = `rgba(0,255,65,${bAlpha})`;
+    dCtx.beginPath();
+    dCtx.moveTo(26, 0);
+    dCtx.lineTo(26 + Math.cos(a) * 5, Math.sin(a) * 5);
+    dCtx.stroke();
+  }
+  // Prop hub
+  dCtx.beginPath();
+  dCtx.arc(26, 0, 1.2, 0, Math.PI * 2);
+  dCtx.fillStyle = bright;
   dCtx.fill();
 
-  // Main wings
-  dCtx.beginPath();
-  dCtx.moveTo(-2, -2);
-  dCtx.lineTo(-8, -18);
-  dCtx.lineTo(-5, -18);
-  dCtx.lineTo(4, -2);
-  dCtx.stroke();
-  dCtx.beginPath();
-  dCtx.moveTo(-2, 2);
-  dCtx.lineTo(-8, 18);
-  dCtx.lineTo(-5, 18);
-  dCtx.lineTo(4, 2);
-  dCtx.stroke();
+  // ── Hardpoints (missiles with 3D shading) ──
+  const missiles = [[-7, -14, 4, 1.5], [-7, 13, 4, 1.5], [0, -10, 3.5, 1.2], [0, 9, 3.5, 1.2]];
+  for (const [mx, my, mw, mh] of missiles) {
+    dCtx.fillStyle = dim;
+    dCtx.fillRect(mx, my, mw, mh);
+    dCtx.strokeStyle = mid;
+    dCtx.lineWidth = 0.5;
+    dCtx.strokeRect(mx, my, mw, mh);
+    // Warhead tip
+    dCtx.fillStyle = bright;
+    dCtx.fillRect(mx - 1, my + mh * 0.2, 1, mh * 0.6);
+  }
 
-  // V-tail
-  dCtx.beginPath();
-  dCtx.moveTo(20, -2);
-  dCtx.lineTo(28, -10);
-  dCtx.lineTo(30, -9);
-  dCtx.lineTo(24, -1);
-  dCtx.stroke();
-  dCtx.beginPath();
-  dCtx.moveTo(20, 2);
-  dCtx.lineTo(28, 10);
-  dCtx.lineTo(30, 9);
-  dCtx.lineTo(24, 1);
-  dCtx.stroke();
-
-  // Propeller (rear)
-  const propAngle = t * 25;
-  dCtx.beginPath();
-  dCtx.moveTo(24, 0);
-  dCtx.lineTo(24 + Math.cos(propAngle) * 4, Math.sin(propAngle) * 4);
-  dCtx.moveTo(24, 0);
-  dCtx.lineTo(24 - Math.cos(propAngle) * 4, -Math.sin(propAngle) * 4);
-  dCtx.strokeStyle = 'rgba(0,255,65,0.5)';
-  dCtx.stroke();
-
-  // Hardpoints (missiles under wings)
-  dCtx.fillStyle = '#00aa30';
-  dCtx.fillRect(-6, -12, 3, 1.5);
-  dCtx.fillRect(-6, 11, 3, 1.5);
-  dCtx.fillRect(0, -8, 2.5, 1.2);
-  dCtx.fillRect(0, 7, 2.5, 1.2);
+  dCtx.shadowBlur = 0;
 
   dCtx.restore();
   dCtx.globalAlpha = 1;
