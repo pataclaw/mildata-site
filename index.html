@@ -321,12 +321,10 @@ function classifyGroup(text) {
 // Active events on the globe (mutable — fed by live data or fallback demo)
 let liveEvents = [...EVENTS];
 
-// Try to fetch live wire from daemon API
-const FEED_URL = 'http://127.0.0.1:3004/api/feed';
-
+// Fetch live wire from static feed.json (auto-pushed by daemon)
 async function fetchLiveFeed() {
   try {
-    const res = await fetch(FEED_URL + '?limit=20', { signal: AbortSignal.timeout(3000) });
+    const res = await fetch('./feed.json?t=' + Date.now(), { signal: AbortSignal.timeout(5000) });
     if (!res.ok) return;
     const data = await res.json();
     const items = data.items || [];
@@ -343,20 +341,20 @@ async function fetchLiveFeed() {
         group: classifyGroup(item.text),
         text: item.text.slice(0, 200),
         src: item.source || 'Wire',
-        url: item.url || 'https://x.com/mildata'
+        url: item.sourceUrl || 'https://x.com/mildata'
       });
     }
     if (newEvents.length > 0) {
       liveEvents = newEvents;
     }
   } catch (e) {
-    // Feed not available — keep demo events
+    // feed.json not available — keep demo events
   }
 }
 
-// Try fetching live feed on load and every 60s
+// Fetch on load and refresh every 90s
 fetchLiveFeed();
-setInterval(fetchLiveFeed, 60000);
+setInterval(fetchLiveFeed, 90000);
 
 // ─── Globe renderer ──────────────────────────────────────
 let rotation = 0;
