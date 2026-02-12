@@ -535,6 +535,7 @@ function drawGlobe(t) {
   const ringGrow = Math.max(4, R * 0.04);
   const labelSize = Math.max(8, Math.round(R * 0.055));
   const labelOff = Math.max(6, R * 0.05);
+  const drawnLabels = []; // dedupe labels at same screen position
 
   for (const { ev, s, i } of projected) {
     const pri = ev.priority;
@@ -607,23 +608,29 @@ function drawGlobe(t) {
       }
     }
 
-    // Label — flip side based on ping position relative to globe center
+    // Label — skip if another label already drawn at this screen spot
     if (showLabel && s.z > R * 0.2) {
-      const fSize = pri === 'critical' ? labelSize + 1 : labelSize;
-      gCtx.font = `${fSize}px JetBrains Mono, monospace`;
-      const labelAlpha = Math.min(1, s.z / R) * dotAlpha;
-      gCtx.fillStyle = pri === 'critical'
-        ? `rgba(255,60,60,${labelAlpha})`
-        : `rgba(255,80,80,${labelAlpha * 0.8})`;
-      const onLeft = s.x < cx;
-      if (onLeft) {
-        gCtx.textAlign = 'right';
-        gCtx.fillText(ev.label, s.x - labelOff, s.y - labelOff * 0.6);
-      } else {
+      const tooClose = drawnLabels.some(p =>
+        Math.abs(p.x - s.x) < labelSize * 2 && Math.abs(p.y - s.y) < labelSize
+      );
+      if (!tooClose) {
+        drawnLabels.push({ x: s.x, y: s.y });
+        const fSize = pri === 'critical' ? labelSize + 1 : labelSize;
+        gCtx.font = `${fSize}px JetBrains Mono, monospace`;
+        const labelAlpha = Math.min(1, s.z / R) * dotAlpha;
+        gCtx.fillStyle = pri === 'critical'
+          ? `rgba(255,60,60,${labelAlpha})`
+          : `rgba(255,80,80,${labelAlpha * 0.8})`;
+        const onLeft = s.x < cx;
+        if (onLeft) {
+          gCtx.textAlign = 'right';
+          gCtx.fillText(ev.label, s.x - labelOff, s.y - labelOff * 0.6);
+        } else {
+          gCtx.textAlign = 'left';
+          gCtx.fillText(ev.label, s.x + labelOff, s.y - labelOff * 0.6);
+        }
         gCtx.textAlign = 'left';
-        gCtx.fillText(ev.label, s.x + labelOff, s.y - labelOff * 0.6);
       }
-      gCtx.textAlign = 'left'; // reset
     }
   }
 }
