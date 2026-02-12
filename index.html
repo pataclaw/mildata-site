@@ -498,7 +498,7 @@ function drawGlobe(t) {
     const ev = liveEvents[i];
     const p = lonLatTo3D(ev.lon, ev.lat, R);
     const s = project(p, cx, cy);
-    if (s.z < 0) continue;
+    if (s.z < R * 0.15) continue; // only show pings clearly on the front face
     const ddx = s.x - cx, ddy = s.y - cy;
     if (Math.sqrt(ddx * ddx + ddy * ddy) > R - 2) continue;
     projected.push({ ev, s, i });
