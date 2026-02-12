@@ -1,217 +1,217 @@
 {
   "feed": "mildata",
-  "updated": "2026-02-12T08:14:54.163Z",
+  "updated": "2026-02-12T08:19:54.174Z",
   "count": 30,
   "items": [
     {
       "id": 29,
+      "text": "FORMER NATO deputy chief warns against additional US troop deployment to GREENLAND - calls move \"impractical\" amid alliance strategic debates (TASS)",
+      "source": "TASS",
+      "sourceUrl": "https://tass.com/world/2085687",
+      "timestamp": "2026-02-12T08:16:04.850Z"
+    },
+    {
+      "id": 28,
       "text": "NORTH KOREA launches multiple ballistic missiles into waters between KOREAN PENINSULA and JAPAN - second missile test in 48 hours, provocative regional action continues (ABC News)",
       "source": "Google Korea DPRK",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYmdILWVIVkJ4TVp3by0xNUpxd3k0cmpGQW9oeGVSZVhVUHNIdWZxUkNYNHhYWHZCbDhGZkhjLUZpX3FZLXotR1R0R0IwWG50TkF0UkxmYnlIZFUxalZPSktXdk80TmN3NzNTOElmVXVQX25ma2lFRnE0TDNsaUdjTUlXT0t2amxOY3JiTHJkQzladFJuVkZpS1NHZXlTcGc5OU9vakxlX1JtNlFUWFFOM1VjanZOa2kzbzcyb9IBwgFBVV95cUxOZE9uYlNVX2tJVndUMTZTLUNoSnd3c2FMQ0pYc04tS0tfVjlQRkxLZXhidXM5NUx4bThtQ2ZqeHU3YUkwUEhXcTJhUHFLblBfLS1qeU43Wlc0cmlycTg4M3pHSDRtY2NOSlBqbE5iakJsNnlYOXdlVmJZcUlpREQybHhSU3U5MS0tWVZrdnk1Q0duZERCbmpGTE9Bc1YwdlZ4Y1ctbnV4X2hGT203QmttME5nM3JaeTlBMmNOY3haZ3VPUQ?oc=5",
       "timestamp": "2026-02-12T08:12:27.088Z"
     },
     {
-      "id": 28,
+      "id": 27,
       "text": "SERBIA holds military parade marking WWII Victory Day in BELGRADE - national police, armed forces display equipment, troops march through city center (Xinhua)",
       "source": "Xinhua Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fV0RKb3NuSDdoVnZZaDc0WmpfSTdyaWJtSmdJOEI4TGhBQ2xzckFsaXlTbTRYZDZkZk9BNUVyY281d19oZmMxblFNUTB1bk5iRjJ6NExIYjVYZGRCN0NuOTlTZFdwbnBpM3Iw?oc=5",
       "timestamp": "2026-02-12T08:12:18.687Z"
     },
     {
-      "id": 27,
+      "id": 26,
       "text": "CAMBODIA hosts military equipment expo and sports competition in Phnom Penh - regional defense engagement signals regional cooperation (Xinhua)",
       "source": "Xinhua Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vb01ZX2JNV2ZSWVlJV0djd1RvWkl1QmRxNUkyRFd6aVZkcklMYlMxMWxzQWVrYmllUUY2MnN3Y3JkVDdNaWlpanFMWnAzUTJOdF9vMi04VXpyY2NDaDdrUVpCYVRzcV9tSk0w?oc=5",
       "timestamp": "2026-02-12T08:12:11.114Z"
     },
     {
-      "id": 26,
+      "id": 25,
       "text": "CHINA deploys 11 PLA Air Force transport aircraft to transport medical personnel to WUHAN - large-scale military medical support mobilization (Xinhua)",
       "source": "Xinhua Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKWEFTN1ZHelNmY1JTZE1sOFd0MmpqZG04U2NkOHo2aXZSQmlNcTBFRWQwRGxLbnRGVHRBdUlpMDBIVzVxX1I1NkQ2c2ZoVmpMcmhhWnpUajVzNHhTZG5MU2oza3RsczBiYWtURi13?oc=5",
       "timestamp": "2026-02-12T08:12:03.320Z"
     },
     {
-      "id": 25,
+      "id": 24,
       "text": "BELARUS military conducts day/night missile strike drills - troops practicing full combat readiness protocols amid regional tensions (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/defense/2085683",
       "timestamp": "2026-02-12T08:07:37.783Z"
     },
     {
-      "id": 24,
+      "id": 23,
       "text": "BANGLADESH holds general election amid low opposition participation - SHEIKH HASINA's ruling party expected to secure majority after boycott by OPPOSITION (Al Jazeera)",
       "source": "Al Jazeera",
       "sourceUrl": "https://www.aljazeera.com/news/2026/2/12/bangladesh-goes-to-polls-in-crucial-first-election-since-deadly-uprising?traffic_source=rss",
       "timestamp": "2026-02-12T07:59:50.946Z"
     },
     {
-      "id": 23,
+      "id": 22,
       "text": "NIGERIA: LAGOS authorities demolish homes in MAKOKO floating settlement — 1,000s displaced amid urban clearance dispute, residents claim colonial-era discrimination (Al Jazeera)",
       "source": "Al Jazeera",
       "sourceUrl": "https://www.aljazeera.com/features/2026/2/12/colonial-era-classism-residents-decry-demolitions-in-nigerias-makoko?traffic_source=rss",
       "timestamp": "2026-02-12T07:59:41.933Z"
     },
     {
-      "id": 22,
+      "id": 21,
       "text": "CHINA sees arms sales momentum slow in SAUDI ARABIA - TURKEY, SOUTH KOREA gaining market share in Middle East defense market, challenging Beijing's regional strategy (SCMP)",
       "source": "SCMP Defense",
       "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQkJXZUlkUElRUXMyZ1d2Rk9KUURBMGN6MS1nYjRXUTBrUi1vOVVKb1g1b1hxR01kdzMtYlJ3QTVRdEFYWVVoR2o4Tlg5UmZRT29EeGNpMjRMNjM2bFNad2Z0OXREQ2ZRSnMtNmJRdk1DdDE1UTlCc2VWNEltczV0ZW9RNV9JclhwLTF3dnVZVUJKLUJmTTM5NEVUSlZxdWsxMEN2ZTdFVHZLYWo0d08wa2lEamlNNmd4ME9OWmlub0tjNmRleW44bXBPR1NaUdIBzgFBVV95cUxQX3k2UkM2aEl2SS01TzJ5cWcyY19ndm91RENPVzZBQkVkUmViWlpTc1pHVnRHSHBhUGdKZFJMYkprU0g0NDN5TlBfSXBWTDBSY1YtVGtNa05lR3VGVXNNQVFCLXBmOGdGY3BtM1JpT0I5Ul9LUHZNcXFsTVJaZ2NNQUJJTW1HR3BSdHBnSzBNVko0bW5HSVYxQm0ybzdNTnNQUm1oRGdPUFg0QzRscmdnTEpVY05oRk5XYVhKZmR1aUh3dkdDSHVQSC1nODhLZw?oc=5",
       "timestamp": "2026-02-12T07:59:34.155Z"
     },
     {
-      "id": 21,
+      "id": 20,
       "text": "US, PHILIPPINES conduct joint military exercise BUDDY SQUADRON 24-4 in SOUTH CHINA SEA - enhanced defense cooperation amid regional tensions (INDOPACOM)",
       "source": "INDOPACOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYnFMbTJnaWY0WkJkeVRlWWZfTW5BVFRnZHo3dGRMbzFGaWFQel9kYnNtTDl3aHdDX0txNEx0dHBaQXllRjJQRk5raGlCcFF1V3k0d1ZRRHNycDhXTl9VWEItcW9pNGZKdGNlSVUtLUtnQ3A3X0hpaGlDWDZlM2RSVEh6NTNiT3lXc09Nak1ZTm53djNtOEJHb3p1cHd1b0Y2ZS1GX00zUXkyNm5yZ1NLNk5HNDNiMFZWa2lpc1cyY1hiYjd1dVlVMnRrc24yUQ?oc=5",
       "timestamp": "2026-02-12T07:57:47.312Z"
     },
     {
-      "id": 20,
+      "id": 19,
       "text": "VETERANS commemorate 75th anniversary of pivotal WWII battle - INDOPACOM honors historical military engagement, highlights Pacific theater significance (PACOM)",
       "source": "INDOPACOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd2ZySEZkTkNoX2pERmlVek9jN2htcnJjUTZyRHltZ3hwQy1UYklhdmNuN1l4VFRXNU5WTWlNUDdFSzd4UHNySlcwZC1GVFA0NndhY2JDeGJIcjIxUzZrc0pSTnVVRnp4bGJuMGlYNkZ2bDFtV0F4cFJZXzF5aTZHOFFXakpLZGdOVnNUaHROOHp0bTNkTFJWaENqU2dKVGZ0M3BRVHhGRExjcG90cUV4WXhnZ2M2aktOaHFzLXplVXJYUlJ2dkE?oc=5",
       "timestamp": "2026-02-12T07:57:39.367Z"
     },
     {
-      "id": 19,
+      "id": 18,
       "text": "US, JAPAN, PHILIPPINES complete joint maritime exercise SAMA SAMA in SOUTH CHINA SEA - signals trilateral defense cooperation amid regional tensions (INDOPACOM)",
       "source": "INDOPACOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOSGg0QnhMY0Q3UlpQUlltWjlkRDhWSUZKc1FLVkNDQkd5OXRWdWZQSkNVdjMzRWpuODRFVUNSbW02V3p1bXdYU1dVSTFTbGV3WFVZUVRQYW5GZlFDQTBzQUVNQ1k?oc=5",
       "timestamp": "2026-02-12T07:57:29.985Z"
     },
     {
-      "id": 18,
+      "id": 17,
       "text": "FRANCE holds annual BASTILLE DAY military parade in PARIS - 5,000+ troops, multiple NATO allies participate; UKRAINE military contingent included for first time (Xinhua)",
       "source": "Xinhua Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaTm5xNWlEb1V6dFA4T0p6THdsdk9YVzV6dHIyOWZnN1FueTRkVlRmV013UThjNV9XSzBtSk1SZy10V1Fab0tjTXR6bUdtOFd5LWtYajQ0OTVVWWRKdHNnVVd1NXlSMzlHalBGelF3?oc=5",
       "timestamp": "2026-02-12T07:55:36.633Z"
     },
     {
-      "id": 17,
+      "id": 16,
       "text": "SRI LANKA military police deployed to manage traffic congestion in COLOMBO - unusual civilian support role amid ongoing economic crisis (Xinhua)",
       "source": "Xinhua Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yZ3d0dWZzeFAtcTRUNEFkeHc4ME1feEpEMDloRUtBYVljTUdCbTRzWmpTN25aME42angzZ2JSSzdMWERuQUhjMk9hc1dpSDhXMUE1V0w4QjdvODF1VE5yajl3RVJrY2tnSmcwaDFWYzZEcmpUVnBlZEpaWHpEQQ?oc=5",
       "timestamp": "2026-02-12T07:55:28.145Z"
     },
     {
-      "id": 16,
+      "id": 15,
       "text": "CHINA holds massive military parade in BEIJING - showcases latest missile, drone, and hypersonic weapon systems marking 70 years of PRC military power (Xinhua)",
       "source": "Xinhua Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3V1l3YU5oZm9JVG11TllPOXBCMllLeldBeFRzWVc2cFlpVjNVZlh0c3R1cGdHZ05vLVhTajNkcGppT0NZZ1ZMdE5QaEVMcUVyUXdJaVhsY0cyYUd5a0xXNWxpd01qSVZiMXRDSkNJTVhtdkRvSV9jaEFB?oc=5",
       "timestamp": "2026-02-12T07:55:19.088Z"
     },
     {
-      "id": 15,
+      "id": 14,
       "text": "US HOUSE votes to block TRUMP-era aluminum tariffs on CANADA - 6 REPUBLICANS join Democrats in trade policy reversal (Anadolu Agency)",
       "source": "Anadolu Agency",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVTduX3F1QnJGSXpnZ25GQlRlc0JabE14ZmQ4TWxZbmVGWmhEa2dmdFFBd0dDS3AyMkVaUVpSRVFLOHJHYmo0RWxtOFU5WF82bXF6cDlPbWttc09BQlZTdFNEaXIwMjUyN1N4cUdPT3puejRxcG9oZTJFcnd6UlJyNmx0QWpBUnpVMnNUWm90UTFpN0c2Y2E2Si1XWWZNckFkVV9iRWpnU053VFZDckRMWURmM1U0RW01dGtkRGVQU1o?oc=5",
       "timestamp": "2026-02-12T07:52:37.948Z"
     },
     {
-      "id": 14,
+      "id": 13,
       "text": "TAIWAN President LAI warns CHINA's strategic doctrine suggests potential military expansion beyond TAIWAN - targeting JAPAN, PHILIPPINES in sequential invasion plan. Signals heightened regional tensions, potential INDO-PACIFIC conflict escalation (EurAsian Times)",
       "source": "Google Indo-Pacific",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNnAwUFhpRDlNc3Q3MnZ5cHZUclJKUjNud0RhUXRmX1RVczJIY3dkN295UGx1QmlPZS1Hem8wV0IzbU1ZdndsbVE0SE1rdzlpMlplN0w2Ynk4VkZKWGVhTEQ3UEF4R2FaQmFrSWpHRUtlOXp4X3hxbjlBdjFXR0p6b2hzcmh5QmtiQVM40gGLAUFVX3lxTE82cDBQWGlEOU1zdDcydnlwdlRyUkpSM253RGFRdGZfVFVzMkhjd2Q3b3lQbHVCaU9lLUd6bzBXQjNtTVl2d2xtUTRITWt3OWkyWmU3TDZieThWRkpYZWFMRDdQQXhHYVpCYWtJakdFS2U5enhfeHFuOUF2MVdHSnpvaHNyaHlCa2JBUzg?oc=5",
       "timestamp": "2026-02-12T07:48:01.513Z"
     },
     {
-      "id": 13,
+      "id": 12,
       "text": "U.S. INTELLIGENCE monitors CHINA military-linked land purchases near strategic bases: potential security concern flagged in multiple states (Google Force Protection)",
       "source": "Google Force Protection",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa28yUHRFdVpTLXl1TXhweHRSdl9WSXVoY2h4U1Y1NE9Wb2R3ZXBvOWRjVEpheTQxMElyZnFnZ1NYSXN5ZHRZNF9KNXdSUzBPdC1BU2Qwa2IzYW9xTzZLcEpJYm0tN3lEWFpyZi1YSGhhUGQ5bEJMOHFfQmN2dDVtR01vZ1VFOUZqN1hSSDI5cmJadEM4eVVHOVlfV2cteWZCeHYtVDhMdkZIWllNZGFlb0VZWDNMeVlBZXhZRkVBckl6Wk0?oc=5",
       "timestamp": "2026-02-12T07:47:29.866Z"
     },
     {
-      "id": 12,
+      "id": 11,
       "text": "UKRAINE set to receive advanced TRIDON Mk2 air defense system - capable of multi-target intercept for drones, missiles, aircraft (UNITED24 Media)",
       "source": "Google Military Assets",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcDJCd0FEV3Bhb2NvcmhGSDFmbENGd19QWHhOeGhQQW1nZ29BTWg3OVdSSUU4dHdGb1FBdWxzUVFkUHZyeTdoeVRJLWRFX3ZCT0RQNWt3SEpWcGloZ1diREwweFVCQlJ0eVRxNXdxZTJBM1JLTVBVQjRYSTktenBFbW94cm5nV0dBeVg0VVV0Q0c5MnBIbWxnVXVqeTZ6M3hWeklPNHRENGVFVDlFRjQ0enFETnUwaEhpdlJkVDdHc2lFc0pLd0g3WVVVeUtZOUNiYnFIbA?oc=5",
       "timestamp": "2026-02-12T07:42:14.964Z"
     },
     {
-      "id": 11,
+      "id": 10,
       "text": "UKRAINE set to receive advanced TRIDON Mk2 air defense system - capable of multi-tier interception of drones, missiles, aircraft. Significant upgrade to current air defense capabilities (UNITED24 Media)",
       "source": "Google Military Assets",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcDJCd0FEV3Bhb2NvcmhGSDFmbENGd19QWHhOeGhQQW1nZ29BTWg3OVdSSUU4dHdGb1FBdWxzUVFkUHZyeTdoeVRJLWRFX3ZCT0RQNWt3SEpWcGloZ1diREwweFVCQlJ0eVRxNXdxZTJBM1JLTVBVQjRYSTktenBFbW94cm5nV0dBeVg0VVV0Q0c5MnBIbWxnVXVqeTZ6M3hWeklPNHRENGVFVDlFRjQ0enFETnUwaEhpdlJkVDdHc2lFc0pLd0g3WVVVeUtZOUNiYnFIbA?oc=5",
       "timestamp": "2026-02-12T07:42:16.655Z"
     },
     {
-      "id": 10,
+      "id": 9,
       "text": "UKRAINE claims destruction of 300,000+ tons of RUSSIAN ammunition in precision strikes - significant logistics disruption for RUSSIA's military operations (Euromaidan Press)",
       "source": "Google Military Assets",
       "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeTRscGtpRU5icHdJZDUwV19ZUEUzUTBtenlENktLeWFRUmI3ZFplc0lTV3dmNDZSWnNKNkhhYXIwWGF5UVNyRm9YakN5eFFVeWFqQmtXZHZ2bzZDUDh4UzhvdHMtS0lPWmRCaWV1QXFfd01US1A3NGVtLVY4cVBYbmVfOXk4NEdYSnZ5QVVmNnE1cjNYR1RDQmlWUGxzVnM?oc=5",
       "timestamp": "2026-02-12T07:42:07.662Z"
     },
     {
-      "id": 9,
+      "id": 8,
       "text": "RUSSIA reports 106 UKRAINIAN drones intercepted overnight - 2 civilians injured in drone strike on MICHURINSK, fire reported in VOLGOGRAD region (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/politics/2085661",
       "timestamp": "2026-02-12T07:40:17.771Z"
     },
     {
-      "id": 8,
+      "id": 7,
       "text": "RUSSIA imports foreign vehicles via CHINA, circumventing UKRAINE war sanctions: 200,000+ cars rerouted through parallel supply chains in 2023 (Reuters)",
       "source": "Reuters",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTXgxOEdfc0pSMEFRbGxMZXU2c2VuMzNzMGExTUR2WlFfODQ5Z01xa0NYOWNFdU9uYllaR2ttb0xQNVQ2QUJ4eFRGS19CUWhZY0xraHZBVmNlY1MyY0ZlaFdoTF9xckpzVmhTRF9tNEVjOV9JaVJwZWF5Vi03dG5ERzUyOE5XLVctRlVSLVJ5YzFYcFpWUWF0MEJsYXRSSG5Dd2tka3NYV0pOSEYtZUwtMzFwRzB4TkVXQ0d5QlQzb2EwMHcwTjl4X1Q5MTRnRnlj?oc=5",
       "timestamp": "2026-02-12T07:39:27.813Z"
     },
     {
-      "id": 7,
+      "id": 6,
       "text": "BREAKING: US BORDER PATROL investigates drone activity near EL PASO airport — temporary airspace closure amid security concerns at TEXAS-MEXICO border (Al Jazeera)",
       "source": "Google Drone Threats",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOHdNU09rRGktRWJjVTZrdDdqSkJCaGctbmNndmlBZ3NaYW12Nm5adG54dGhScmptNmp6NkQxZTl6YTRTbWNWM2swZXNKMFZta2NWV0VveFI2SV9BY0FNUFBzMG5iN3JQOGlpUjJZOGhpbU9KMnlsWS1Obl9tZWNZUWI3ZlhSTVppbnpUcTAtc0ljcDlkSzlBY0NFNWVQZkFRTmMtU1N3cW1RZDF2Z1g1btIBtgFBVV95cUxQR044Ni1kclF0ZGZXUlp5UXJ3TU9xOW1iUHpjR0VFVHhPUzVyT1RaTTh3NHlHdm1ubzFvZEF0UDl1Y3p5MWtvUFJrcC1nS1ZHUDAwZ3k5aHlEUFBrWlZQRmYwOXVQZWRMR0FGNU9VZHRDWFVzT2tXSFVQc2hkNFN6S2tmcDhOX1RWeU9Hd04xWDdqc3dvOVhFTGIwLTduMlVqdWZKUFd2ZTJNUTNCYXIxTEFyZnkzUQ?oc=5",
       "timestamp": "2026-02-12T07:38:25.143Z"
     },
     {
-      "id": 6,
+      "id": 5,
       "text": "IRAN security chief LARIJANI claims ISRAEL seeking to undermine US negotiations, potentially escalate regional tensions - direct accusation of diplomatic sabotage (Al Jazeera)",
       "source": "Al Jazeera",
       "sourceUrl": "https://www.aljazeera.com/news/2026/2/12/irans-larijani-accuses-israel-of-trying-to-sabotage-us-negotiations?traffic_source=rss",
       "timestamp": "2026-02-12T07:37:20.929Z"
     },
     {
-      "id": 5,
+      "id": 4,
       "text": "USS GERALD R. FORD carrier strike group moves to CARIBBEAN - potential signal of heightened regional tensions amid VENEZUELA, CUBA geopolitical dynamics (CSIS)",
       "source": "Google Naval",
       "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKRDZOejBOeWJjVC1KS2RwNGd5ZnhYcHJZREV6aFJPT1FlRGZPcU9yTko3S3ZhS1JEOTJlMVZBRERrNzRjNi1zaDMzREJia2RSMlZsUGlFRml2WGwtVlozVmlOMmV1a0ZqRGdjWlpnb2F3Z2tl?oc=5",
       "timestamp": "2026-02-12T07:36:24.155Z"
     },
     {
-      "id": 4,
+      "id": 3,
       "text": "PENTAGON considers deploying 2nd carrier strike group to MIDDLE EAST amid ISRAEL-HAMAS tensions: potential force projection signal near IRAN maritime zones (Jerusalem Post)",
       "source": "Google Naval",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBZEkzMVBiUlpidFpVQzQ1NEZ5M1BZTjczSlFrZzAyeTBSTVZ6enNZZGhNRjhhSXhzN29hWG1hd2hPbDB3VC1KdzhRN1oxdlNXUHBSa1BLVUo0U0Ju?oc=5",
       "timestamp": "2026-02-12T07:36:16.156Z"
     },
     {
-      "id": 3,
+      "id": 2,
       "text": "ISRAEL deploys troops, aircraft to EGYPT border after unidentified pickup trucks approach - heightened security alert in sensitive desert region (Times of Israel)",
       "source": "Times of Israel",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUhxZjRmVXBHVTVMeHNLdUV5YS1kVmcwaVp5SlFUbVEwQkFkdHNaOUxOWk9iOUYySkltZUN0OU1lZS03cUNpa2gtdEIwN3JBOE4xbTBtWUJ0Q3pzV3d1d3VIVEJ5Mm1reW1QSy05M05KRmZGRHZ5UlM5VF93bkRNMlRhUzJHMm1qTEFMNWNxYXVtb2VrR3p2Q1JMZWtWTmJnODEwWUFxMNIBrAFBVV95cUxPVnZVdEFrOFRkeVdyVENyT0RSVE9OODhvb3puUlk5M2dLeXdmRFJ5SjNReGdjYzBRU3VqNWVyY1pmdkk1aW0yVk5VMGdTLWlDRkZydVI3MVE3N0lkNUJTdGZULTl5NGNaWGpESXM3QjBMMGszcldYa3RNR1dmWXVQc3FvTzlVR2NzMVBEYWRpcjFJdjFKOGdVX1BYZHdkZVd4RXJXeDFQWTFNVVNM?oc=5",
       "timestamp": "2026-02-12T07:33:35.115Z"
     },
     {
-      "id": 2,
+      "id": 1,
       "text": "BREAKING: First large-scale AUTONOMOUS cyberattack detected - AI agents breach multiple networks without human intervention, raising critical infrastructure security concerns (Cyber Magazine)",
       "source": "Google Cyber Warfare",
       "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMWFwRGpqUkJORzAzbHBiWUJ0SnlrVjhYWGJ0MTZxSVYzd003d1JsQlBaZmtnTDlCZXByS3h5NHRrVTVET213bUUzZmpWdTNDNk5MRHRVMW1GTnAyd0Jwb0h1NXh0YVpRQmRFQzg5SklTSDdDMFZySS1pak03eXVPMzFLcWxZMnd5TUtaeWtfUmc?oc=5",
       "timestamp": "2026-02-12T07:29:56.811Z"
     },
     {
-      "id": 1,
+      "id": 0,
       "text": "UKRAINE strikes defense plant in TAMBOV Oblast, military site in VOLGOGRAD - significant long-range attack deep inside RUSSIA proper targeting military infrastructure (Kyiv Independent)",
       "source": "Kyiv Independent",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zNHotMVR2alJRX2thbEZicVhDTkduRllvUkVlZXU1MUVvN2U5c2dOSUxsS0JLVGlmVHhsQTFld0dNTjFIT29mYjZPR1ZIMFl1bHNN?oc=5",
       "timestamp": "2026-02-12T07:24:41.933Z"
-    },
-    {
-      "id": 0,
-      "text": "NORTH KOREA: Intelligence suggests KIM Jong-un's daughter Kim Ju-ae being groomed as potential successor, marking potential first female leader in DPRK history (Korea JoongAng Daily)",
-      "source": "Google Intelligence",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQTlVbXQydWE3NTZ5XzRiTU9hQ1VlRTU4dHN0Wms0eFNHVnJ4dk1QVHk5eTRSMjFqQmxrVDNFRzFqaXEySFR6U2JubEt5NTBJR0JFZl92VUlsbXFhcFkzUEdaVmVpTmI1YXhNRnZOYlZMTVRPVkh0ZmVkRlVjRXJHMzJiY2tYSW0yTmFGYnJ4cTNfalRYRzN3enFvN2R0QUttMTVFeWtTbFJ1dHFjTm5RbnExTVJyMVdCc1VPUFB2ZS04WFJqSmpRUm5kb0xWZFdNZXRKT0NYYVJsVExSY0wzZ3I4aTVId3N4YnhUNmdUekk4MzhzVk1hemF2eUxUdFJxMDZN?oc=5",
-      "timestamp": "2026-02-12T07:24:30.903Z"
     }
   ]
 }
