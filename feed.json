@@ -1,217 +1,217 @@
 {
   "feed": "mildata",
-  "updated": "2026-02-12T03:24:28.155Z",
+  "updated": "2026-02-12T03:29:28.152Z",
   "count": 30,
   "items": [
     {
       "id": 29,
+      "text": "CHATTANOOGA military recruitment center shooting: Local law enforcement revamps active shooter protocols after 2015 ISLAMIC STATE-linked attack that killed 5 U.S. service members (WTVC)",
+      "source": "Google Terrorism",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOUJ3XzBscTNMVUxKUGVhN1B3emp1ZEJnSDhqNXBnQ0xZSDBKTTkzU1ZKNVJZTGlpQ280WVdVUURrWVBVSkM2MVI5bnRjQVQ5SDRYeVpTLUZRdlA4cy1UQW40ZzQtd0pkWThwcXdHQTF3c0F2SGFGcE9sT0JTN1JaWm1ZOUZFSW9iTXd0Zm95cWVVdDR0aFdSdWlqOEZ6Z3lBWnRMNk5mUkRwY0lwd1oxVW80ak9MQW9a?oc=5",
+      "timestamp": "2026-02-12T03:28:55.996Z"
+    },
+    {
+      "id": 28,
+      "text": "UN SECURITY COUNCIL convenes emergency session to discuss global peacekeeping operations and potential new sanctions - diplomatic sources report ongoing negotiations (Reuters)",
+      "source": "UN Security Council",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjcXJOMXpCVmhJbEtRNlFyS2tKeFE5R3dEenprRnZ6QmdWVVdibzBXTHFxbW5zVk9GSHhDSi0za3VVZ1k1bHNzcHd5endYR3I4aDgzdnE0QmlQRlVYNzcxN1N4S2g0WjZkVnYwSURNMFFERVowTE40Q3Racng?oc=5",
+      "timestamp": "2026-02-12T03:28:46.845Z"
+    },
+    {
+      "id": 27,
+      "text": "PENTAGON shifts strategic focus: SPACE now considered critical military domain - senior defense officials warn of increasing CHINA, RUSSIA satellite/anti-satellite warfare capabilities (Defense News)",
+      "source": "Google Space Military",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRGhsWW1xWjZualZBYWZudnNiYV9wd2ktZ1ZVZmF2SGYzSkd3RGxtTkRjZGZucU5DV3lyd09DS2hfZnM3aUw2b2tUbEEwc1E3Rnptam1mSmU0VjIxYS1RVV9VdWNNbUhUeHpYdGQtVE9RSUF6dnB2VzhjLVFtVVlqSTF3cUtrcUtLcnB0Z0tSYzQ1NkdXZDBvcC1VRFNhSVIzeERvaHkxRnRJenNFcHdWVFFDSy1SVmdEeUE?oc=5",
+      "timestamp": "2026-02-12T03:28:39.798Z"
+    },
+    {
+      "id": 26,
+      "text": "NASA to launch CREW-8 mission to ISS on Feb 13 at 0515 EST - SpaceX Falcon 9 rocket to carry 4 astronauts to International Space Station (TASS)",
+      "source": "TASS",
+      "sourceUrl": "https://tass.com/science/2085609",
+      "timestamp": "2026-02-12T03:26:45.513Z"
+    },
+    {
+      "id": 25,
+      "text": "CHINA warns potential constitutional changes in JAPAN could escalate regional military tensions - LDP signals support for Article 9 revision, expanding military capabilities (SCMP)",
+      "source": "SCMP Defense",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWjZlX1hBYVhQZTZmZ0NqaktZekczdEFKc0VNUkgwNlhmcHZQdXBWbmxaV2g2V2c2S0dZX0EzZk1CTmhudkhTMzdtNHFhbWk3VmlBdEdGNi0tQWNCU1BWSTE4SFFhT0NHTTl2NVI5WlFwVklDUXVKanVpSk9TX04zQWhSQ0dKMEZSV2dCekFmcVAtTHdmbmZBR3p6OVh6MVhzQ1pyQnVEYlJwWTBhZHh6SEM2U3lfZ0VrSkM2dE1HRUpsV0xCNU13THV30gHKAUFVX3lxTE5CSjJLUG1ub0VwM0tyVWs5RHdEN1pNSjk0NTdrLXRQNkNrMUJQYm5GTnRHVmY5cHVTUWItUl9mQnFLYktzUjRuRm1YNE1LYU16SWJzOWZMcjN0RkNKZjNUSkFmb0tUckNNV1FSOG42TVFUUV9GNC0tTDNPOTlRanlvYjJWOXUtYVNmMGZ6RkNFZHhDVDBlUzJ0Rzl0OUVQWEpZOGJOeVFNZUFjOThWQVhqa3ZDWUhnUHNPTi12NWJEeXhEWUI0Y2VSY2c?oc=5",
+      "timestamp": "2026-02-12T03:24:52.757Z"
+    },
+    {
+      "id": 24,
+      "text": "CHINA cyber ops targeted US infrastructure: Hackers potentially compromised data for nearly entire US population, MICROSOFT warns - massive digital espionage campaign detected (NYT)",
+      "source": "Google Cyber Warfare",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtRjJrNm9tZmlFVmo5MTRkM3lYeEw4a3l1S25vUmZQV3BXS3p1TnZJOXQ4Y0g4QUJHTVpEaF9iOGliTUJOZE9OQ0R5bzhrWTRNYjF4dXVQQ0ZCeElnMDRaMEZyNWJMLWxpYjluZkpWcGUwR0JEUG1LcHBOQ25UWWs?oc=5",
+      "timestamp": "2026-02-12T03:24:44.701Z"
+    },
+    {
+      "id": 23,
+      "text": "CYBER ATTACK targets UK FOREIGN OFFICE in October - MP CHRIS BRYANT confirms major breach of diplomatic communications infrastructure (Guardian)",
+      "source": "Google Cyber Warfare",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVWhtV1MtS2Y5RURiQ1BzaW9WSDFSVnJCRVFZdWk4c0VBMS01UDQzSmtmZllvNkRhRzNkWHpwQTBVcVFzQ3RRQWRneVgyV2dOaHpNbFE0bDdVYjFBSHpXOG9EOG5ZcTI1NF91VmtPZFdvMFVac29sVlI2QWQ2Z1hVU3hqMi1XOF8yY2dSdG5YakliQnlZbVd6bUJrXzR1dw?oc=5",
+      "timestamp": "2026-02-12T03:24:34.051Z"
+    },
+    {
+      "id": 22,
       "text": "RUSSIA-LINKED hackers targeted CLINTON campaign servers, DNC in 2016 election interference operation — multiple cybersecurity agencies confirm systematic digital intrusion (CNN)",
       "source": "Google Cyber Warfare",
       "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zZkN2SkFaQ0s1dDRQdkEzNUMySGRkQUI2NE5hMmJ2VW9KTjV6Y1RuTEpMNE92Q3hGYjBxMFVuczRYR3ZZY2dDX1ZXbnZBYjR4am9NbWpNZHI5TmZycGppd0xTeE9TaXdfWEgwQWlHTDJndTFTQUxN?oc=5",
       "timestamp": "2026-02-12T03:24:24.579Z"
     },
     {
-      "id": 28,
+      "id": 21,
       "text": "RUSSIA suspected of targeting critical undersea communication cables: potential hybrid warfare threat to WESTERN infrastructure could disrupt global telecommunications network (CBS News)",
       "source": "Google Critical Infrastructure",
       "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcEViclJIaFVOV05ocFNJVlo2bmlNYWNYZDA4VkNGdmp1VF9LTDc0NFNJdTVtRFpzUUZVNmlqWXYwTXdKVjhwbVJzV3pjcTZSakdNaFdPNVp1RUFRdE5Lc0RMN3F6aE1iX0xiOFY0VU96UHp6MlMySEZkV1M1THM3edIBhgFBVV95cUxOTlhWUjJWVlg1dTJWMm1tYjdvV2RUdHdJVEhkN1gzRmxJV3cyZEFSRkN2OW9NV0taZ2JzZHFDV05JWnhqcnZFLS1iTGRyWldFSkxfaFlBd0thVEI1MWU2Rk9oMG8wa1VjQnRmZFZSNFM0aXU5SFRLVFJXWjVnaXdYdW1pMUsyUQ?oc=5",
       "timestamp": "2026-02-12T03:22:22.672Z"
     },
     {
-      "id": 27,
+      "id": 20,
       "text": "GAZA humanitarian crisis escalates: 80%+ population displaced, shelter infrastructure near total collapse amid ISRAEL-HAMAS conflict; UN warns of imminent catastrophic conditions (Al Jazeera)",
       "source": "Google Humanitarian Crisis",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTUZ0LWlrdnNkZnNuV0RSSzJxV3NlaGRzOFFiRDJtcDIyaE8yUlVPVDNPcWFMRWQzbnJfSTBkWGhHbTM0UVNOYlBlNF9WWFNaSm5YUGdiU0swN09Yb3lnWGlCb2NyZk1uQVJhOVA1QlNLZmdMcUp6UlJfY0FfRnVvNFhWcExpeHFCN2VsMDB5Tk9MMUxMSV9SeDA1dnZsVk1VeVhTbm1fSzZKSGNZ0gGyAUFVX3lxTE50QzVPdjNLM2NobEs2MXNXN1NqS1VzUlllRVpwWGJkZGZDYUVtRzN1cXpzWGRYVjhPT2J6cEQxd2owZzJlQWR2TS1Qa2V0TVBsTjlITkNqV3ZrcU5KeE9IV0p1WjFidTFzUWpTY3Z4b19yUDFlV2lsRVlLLWUya011NVV4M0trMk1mb1VJRFRabmVySFpNQTFFeHBKa2kxNEFWTWNQSWo1TlBGaWRpVGFxYXc?oc=5",
       "timestamp": "2026-02-12T03:20:31.047Z"
     },
     {
-      "id": 26,
+      "id": 19,
       "text": "MYANMAR military consolidates power: UN reports deepening humanitarian crisis, widespread repression 5 years after 2021 coup - civilian casualties, displacement continue to rise (UN News)",
       "source": "Google Humanitarian Crisis",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zay12cmx6T0IyVzVLVGtzWVN5YVlDMU96bEwyd2duVWJDTnlaeHNmTVY3WFVsS0w3VkNibW1IeWhOajRmbDJudzlRNU9KcUpHWXVfelUtSQ?oc=5",
       "timestamp": "2026-02-12T03:20:21.578Z"
     },
     {
-      "id": 25,
+      "id": 18,
       "text": "RUSSIA continues offensive operations in UKRAINE: ISW assesses intensified combat along eastern front, potential strategic shifts in ongoing conflict (Institute for the Study of War)",
       "source": "Google Ukraine",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOGp1NEVUNWU1TG44TkZCWWFJQjFvLVRwZGFscXl0QTRKajJlNGg0ZTJrdHF0SVJRZGpNVGtJbDk5NDJuQ3RSUmUwUmdybk9sR0ZTTGhtME1xalRBc3BxV04wNWU5MGs2aG5ENmtFb3hIaGJ1eWkxTktrZVhCY0huRld2a1JRSFVDdHRpdU55YWdTMS1RakYyNXlPQmdCZ2Z5dVMxb3Z1b3JDTFRT?oc=5",
       "timestamp": "2026-02-12T03:20:13.455Z"
     },
     {
-      "id": 24,
+      "id": 17,
       "text": "MOLDOVA to abolish mandatory military conscription - first major defense reform since gaining independence in 1991 (Xinhua)",
       "source": "Xinhua Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92WGUyeWY2YjJkQUhqTW43VU9TRTR2VUZuMU5VUTB5eHQzWnBPRjdqckJFRm9yYjI1TkRLMU5aLVNhQnVvRUpwNklzOGFuNnFUU2JzbHJJVmQ2YmRVRzl0Skx6SWtZcXM3Zndr?oc=5",
       "timestamp": "2026-02-12T03:19:09.789Z"
     },
     {
-      "id": 23,
+      "id": 16,
       "text": "U.S. conducts targeted airstrike on SYRIA military airbase - multiple facilities damaged, casualties unconfirmed (Xinhua)",
       "source": "Xinhua Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VYm55TU9hX3lGVzdITU90aWFQNnBOdC1mMDQ4UjJraUE1VUduMTRyakZXQktEV25SLUtmd3V0d21Bb0w5UDBrcGxQVnRUSzZINmJGZGhLaDlGbmJ1SkNOc3BWNUxlU0FJVjZJRw?oc=5",
       "timestamp": "2026-02-12T03:19:02.779Z"
     },
     {
-      "id": 22,
+      "id": 15,
       "text": "CHINA expands military satellite network to enhance precision guidance for missile, hypersonic weapon systems - significant technological advancement in strategic capabilities (Small Wars Journal)",
       "source": "Google Space Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORUhPUUUtdFgzd1RiaHpmOEI4c1ZwMVcxSWQ5RjhnMHZUaGdmUEVWZ0dxZmJ5aWVSNFU1RmxKTV9Od2I0eVJWOGF3ZlpoM3JVbk9sdHEyYUtCeEdMZmlzM2dQNmJ1aUEwRU5BemtUVDQxSTdJVzFzbWk0SEFqWlRKTEgxaDFJRE5OU2wwaWRyR1lFeU14am5EVU15NGdieUk?oc=5",
       "timestamp": "2026-02-12T03:18:03.620Z"
     },
     {
-      "id": 21,
+      "id": 14,
       "text": "TULSI GABBARD dissolves intelligence reform task force after less than 12 months — no specific reasons disclosed for early termination (Boston Herald)",
       "source": "Google Intelligence",
       "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XVFdjWEp0Y3NTQm5YdF9yelJqZmxfU010aFRMaDNVLTRHVjBFZlpDS0dSUEpJMEZ6RDVmSHZhNks4NDk4TDJBQmJRVGNMWjREVEIzbDhqVERlY0hxRjRIRHpPTUxkelZlSVNmMk1LeDN4b2VBaGNpRjJEcVk?oc=5",
       "timestamp": "2026-02-12T03:17:55.064Z"
     },
     {
-      "id": 20,
+      "id": 13,
       "text": "CIA ACCELERATES tech acquisition strategy: new framework aims to cut procurement timelines by 40%, enhance intelligence tech capabilities (Federal News Network)",
       "source": "Google Intelligence",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOazlPaHM3S3Z1bDAtWkx6cklSc0VjVlpDcUlaMDVHZ0ZlLTh6eUtHRmd2N0dsTnY3N1F2ME1jUVE3R2FkMWpiY3A2d3FEZFFWNVFobjdWLXljanJNTWZEYkxfdmlBSEdBOFhPa2RhUlZ0ZUp2X29selVDNG5NXzc1VXBDU1hNMGpZZzdvU2thbm9RZy1RQ0cyZGVLMkdwTktXMTFZLXpBRVZTUHlUY3psTmJkempIdw?oc=5",
       "timestamp": "2026-02-12T03:17:47.749Z"
     },
     {
-      "id": 19,
+      "id": 12,
       "text": "BOEING wins $8.6B contract to supply military jets to ISRAEL - major defense procurement signals continued US military support in Middle East region (The Hill)",
       "source": "Google Arms Trade",
       "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wUS13QzhFcWlOSzJfN19WT2Z5ZDh2VWp5SmxPRHcyOE16R3NlazVTNWhPV1lJUUlQQjBjalZzcTdNWmlBOFEteWdzZGNiMERjbTZPcjlPVVdEMGtRMDdMcUxISzVVQjhka3FScHFsdEY1cW1kVGc1NTlTZlVod9IBgwFBVV95cUxONFlnY2JqREJmTEVnYk1QYjM0Ulg5YW5Nb3hLYVlZUjNwRnlPZm02RjhMb04wN0pGX0RLeXBZT2l3c2pDT1dBdkE3QUVVTnYyVXlabnhXanpNa0pJVU91eU1pMU1vdUxsWW5Yc291M2h3U05qa0tGUGtZN3E2aVZwaW5mVQ?oc=5",
       "timestamp": "2026-02-12T03:17:40.183Z"
     },
     {
-      "id": 18,
+      "id": 11,
       "text": "RUSSIA launches massive cyber attack against UKRAINE's largest telecom provider KYIVSTAR - widespread network disruption reported, potential critical infrastructure targeting (AFCEA)",
       "source": "Google Cyber Warfare",
       "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUl0TjJ2MnF6WVNFUjlUWmdIWHg3eWgybG5kOFptcTVGZU5oa2h1VnNsU3NMbTE5U2txMEhRSUlKM1ZNb1RTMVFEd2Rvc1FJMTQ0NDdPc1cwS3V4WmRlOHNPSk5FUHdQajB4SmpyN3laM3dxakdKd1doZURETE5DLTFHeHRhbDFBenBUdVBDa2VmTDlkUno2OVFraTVkWWNu?oc=5",
       "timestamp": "2026-02-12T03:17:32.394Z"
     },
     {
-      "id": 17,
+      "id": 10,
       "text": "CHINA cyber ops: AI-powered hacking campaign reveals significant human intervention despite 'autonomous' claims - detailed tech vulnerabilities exposed (CyberScoop)",
       "source": "Google Cyber Warfare",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ09zcmRvOS1YZndUdkd5OUlPdWdrVGFVUlpoZ0I0NnNuXzA5YWNIckdxVzhmY1NUV2d3dktWenJMNmp1MjJiUzVwUFRnVTNkQ044N1BrSF8wRTZzTDk1S09iTW41UjNOSjJ5ZG1Ob0toeFVzZ1lqME1CVG9QVk5BOHlPS3NKeW8zYlE?oc=5",
       "timestamp": "2026-02-12T03:17:24.451Z"
     },
     {
-      "id": 16,
+      "id": 9,
       "text": "RUSSIA ambassador signals NORTH KOREA military support for Ukraine conflict: Pyongyang reportedly supplying artillery shells, potential deeper military cooperation emerging (Chosun Ilbo)",
       "source": "Google Korea DPRK",
       "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeVU2alpYMl9rYUFnSktrdThMdHBrSUVpVnJ2azU2RTJmOHE5SFhUeHdaVGFJOVUta1dpU0RvVTM4T3poMEJpcE5Lam1Sbko5a3hWYzNjdTVDRURhNTZIX0thakpwNV9BVmVzZ1BQTklaZVNTVzQwNEVRSDZycTd4VHg0aUs?oc=5",
       "timestamp": "2026-02-12T03:15:31.054Z"
     },
     {
-      "id": 15,
+      "id": 8,
       "text": "PENTAGON ordered to purchase coal-generated electricity — latest TRUMP admin move supporting fossil fuel sector despite climate challenges (Al Jazeera)",
       "source": "Al Jazeera",
       "sourceUrl": "https://www.aljazeera.com/economy/2026/2/12/trump-orders-pentagon-to-buy-electricity-generated-by-coal?traffic_source=rss",
       "timestamp": "2026-02-12T03:15:22.804Z"
     },
     {
-      "id": 14,
+      "id": 7,
       "text": "US PENTAGON approves $450M F-16 fighter jet upgrade package for PAKISTAN - first major defense sale since 2018, signals strategic re-engagement (Times of India)",
       "source": "Google Arms Trade",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPalpNUHlpLTVTYnBKMzJHTUllLWVSRjJCMEU3dWFYN3BjVV9vbWdYVHZUVDgtS1Q3N0x2cy1VUDBPbUdtbWFxMGxTWExLNV9nZHoxRXVUX01IX2IzTVZzbEticWswaURCQWdOamxzZktrVlMtT2tPMk9LVElpRHF0blFSN01Tdmsycm5Sbm8wcVJJUE9aV1FkYk1LN3c2TnRyaDlfQ001SXdadDFCdWRGbDNVUWlZT3RuN1BhTUxvOFhhaHpzb3Boa09ZcFhZVjU2ZENXUm5YRDhwSTYydHpBdEl5NTlobEVlT2xFTkhLTl9qV2l1YnQtU3JXcHZXQXRReGxrdlQxazdkRGdJVVVpOGFUMWNXRnZWQWVMdkQ1MkE4cEpWenJUQzFB0gGvAkFVX3lxTE41NnAySGZIUjBjamJrQnE3MHJYU0FqdC04LTUzQnNpdjBlSHZWYjlaQURDOVV0UkwtZzRjbG9RTkMycktGcmJrR2l1XzJ2RmpBYlBGaXBjWjNHWHlNa2o4bElpS3NMUmdkeFN2VXA2N3J2QkVHaUYxUkdDLWg0U0owQ3E2SkNQaHNZY3dTNGpEb1pITE14YXotQl9hbWp1QTRiZmxHaEJGQUktMEZhLVdySVBjdkNfTWluS0llNkdhX2JLNEd6WXA4NDZXbERjZFNKOWs2X1RCbnEyRXZTYzdmdTgzUzVfTFFDaTQ4SERySDhZcmNLMzB3enhBN2tYTEg2RG9sLVR3a01vTUZpbWNZU3hnOUNpRWw2QWpwdjFBUVI4OVZxbjNEVW5XS1loVQ?oc=5",
       "timestamp": "2026-02-12T03:15:15.204Z"
     },
     {
-      "id": 13,
+      "id": 6,
       "text": "PENTAGON faces potential $4-5B arms export loss: ALLIES reconsidering weapons purchases amid TRUMP foreign policy uncertainty (Milwaukee Independent)",
       "source": "Google Arms Trade",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRDVhYzNUM2hkZlNDeF9DZHB2UFlyYzFHdkJwTWZxejV0RzFyd19Ddkxza2FuNU1jODJBUUJ4MTJod0hvOUlGalR2TVg1YlJPSXl4dUtnSzdQdjJWVndybTU5QzlEQ1dZckdwajhPWG9iZmk0OVFiaFlTX0loempwSGM0dFFRZjU0Yl9EQWVzWnZHX01uV053ZktRQUNzbFRXV3Z3ekFlUXFSMTBtdWNsaTgzdG1sSEJfMUR3OUVIVXhVVkJkWnR0NDZQU1Ytd0dEN3lZbElncFc?oc=5",
       "timestamp": "2026-02-12T03:15:06.416Z"
     },
     {
-      "id": 12,
+      "id": 5,
       "text": "INDIA set to propose major arms procurement during PUTIN visit - potential multi-billion dollar defense contract for military hardware amid Western sanctions backdrop (Bloomberg)",
       "source": "Google Arms Trade",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmV1UVV1SUgtZ1BjaDJDQnB1RFQzN0pXMUQtalk3WWJyLTdhMTJaSnNFc3JhOEJuQy1QbTJiS20ycUdtVXVEOE9hcmt5OFJ5cDBsRERTdU5NNlQxS1B0cFVCSU9ObXh3MjRvLV9TTVFKTWRETjB5OEhWNHhTb3JKRXBNNm42QmFWTUZ4dXNmazllLTJFcGJSeElYUDQ2Vnk4Q1BOb3c5YlBCOGNNazl6NE8yMlUydw?oc=5",
       "timestamp": "2026-02-12T03:14:58.746Z"
     },
     {
-      "id": 11,
+      "id": 4,
       "text": "AUSTRALIA: ABC to air investigative report on BONDI terror incident - ASIO warns against potential operational security risks (Guardian)",
       "source": "Google Terrorism",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU1BvN3RrS1E5OE8yUFpNSF9Pal9xcGl4dFBMcG9xQzIzTm94OEdRRnFfZmZGMFU1Y1hyUjM1a1AxWHlUM2Z6cTdDS1B2MUk3RXVVWVgxNE5FTGhJQlJHZEpxU3VNMF9fMnpra3JJQVpJbjcza2xRal9CRFJlNHhZdGtoZG0xcWd6WFZuS1MtbzlUS2hNOTZ5UjladElNbEpzaVN3Vl9B?oc=5",
       "timestamp": "2026-02-12T03:13:56.590Z"
     },
     {
-      "id": 10,
+      "id": 3,
       "text": "AUSTRALIA: TERROR ATTACK at BONDI BEACH - Suspect charged with 15 murder counts, terrorism offenses after mass stabbing/shooting incident in SYDNEY (NBC News)",
       "source": "Google Terrorism",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT016ejhCeE5leGl5MFhzQXA0RlhWdW1TMUZGVG1hR3hPSi1jMUktbDRzX0NCaGtEZ01zUS1sMHp0ck5SV0gxRUFOTTBPLVU2aGh0TjNnVzl2c0lzblA0WUQ2T0V5QXVudk12RGZzOHVtcUFWaERETzZOWmlMMjRQQnNOVWJ4V2t4emFQb3BaZktrWHMyaGVmZFdxU0g4RFNIeVhsUDZPalIyLVFfVnZSa0lSbzk5RXc?oc=5",
       "timestamp": "2026-02-12T03:13:49.551Z"
     },
     {
-      "id": 9,
+      "id": 2,
       "text": "AUSTRALIA: Mass shooting at HANUKKAH event in SYDNEY leaves multiple casualties - deadliest gun incident in nation since 1996 Port Arthur massacre (Axios)",
       "source": "Google Terrorism",
       "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRlhtUmhLY290Q2ExOXRwMHhzS0tYbUkzMHRFV1RLMVZDcTBFdGs2d0tYcHNxWHA4WjN6bVJyUlJYTmdwczlfWi10bER2clZnRnlpNkVOSEQzQ3dpRk9MWXRQRW94TG0wQU40d0JWMlBSay1rZi1CVU1faDBQOGRJRnJOa2xlZw?oc=5",
       "timestamp": "2026-02-12T03:13:20.692Z"
     },
     {
-      "id": 8,
+      "id": 1,
       "text": "TAIWAN defense strategy shifts amid CHINA tensions - new geopolitical assessment reveals heightened military preparedness, regional alliance priorities (Foreign Policy)",
       "source": "Foreign Policy",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdk85YkI1Q2NQREc0MEVZWDdIUjI2NDRfaHBfQzJuc2k5UUlDbV94ZTc0cXJxc2J1T3lqVEVUS3pXRnpDUXZuSm1GbzR2WW05eFN2WWYwS05tX2tVMlZmRXdBUURtbzVOdmd4dHN5U0lLSkxYcDJGSFYtSFN2UkxTTE40OHVkQzYzYjJIMzhWMEdlWlhpZjJ4MHd5ampiaFVDSmc?oc=5",
       "timestamp": "2026-02-12T03:10:40.231Z"
     },
     {
-      "id": 7,
+      "id": 0,
       "text": "TERROR INCIDENT: SAN BERNARDINO shooting in 2015 killed 14, wounded 22 — key moment in TRUMP-era immigration policy debate, linked to radicalization concerns (LA Times)",
       "source": "Google Terrorism",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcG5oSloySTBLVkdFc0xMT3dWbFo5UmdXeVpSbmk3cXFveURuWGNiMEFaMmlvNWU0RkZDZ25HZEVTVV96Q1Q2R3NRd1A0a0h3XzBGenlhcDhuNnVwaFo2Sm55X242QXJjMFVnRTNXQ1pwYmItU0lxUnk5TEp2M1M4X3g0Q2ZzRndXNzF6aFYzTnlneE1FQjgxLUx2RktGYktrRy03Q3pjeG1NRHUtd1JV?oc=5",
       "timestamp": "2026-02-12T03:08:37.355Z"
-    },
-    {
-      "id": 6,
-      "text": "MALI military conducts airstrikes against terrorist groups in southwest region - multiple targets engaged, casualties unconfirmed (Anadolu)",
-      "source": "Google BREAKING",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLUhUNm5sUXlSSE82LXB0aG5LQVY2bUg4ZU1yYmE3bGFiNmxuMUcydmRVN3RFX2M4SGVVNG5sT0I5VENVTTJtLVBLLVBNcXZZcUtMOHFxTDBEYk5MTHZyMWpjMU5XVjRIUmlHLUQ1MlVfdGpFbnloY0VkcmRXMU0xS0ozaUJ6WHFhMjRFUGN3VDR4Qm9vY0R1SzNWTzlUWjE4ekprMlBzbw?oc=5",
-      "timestamp": "2026-02-12T03:08:31.052Z"
-    },
-    {
-      "id": 5,
-      "text": "NAVY: USS ABRAHAM LINCOLN Carrier Strike Group concludes NORTHERN EDGE 2025 joint military exercise in ALASKA - major Pacific readiness drill completed (navy.mil)",
-      "source": "Google Naval",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdl9xZmhKLUJDcVZMQU9tRGk4QmplUTNnLUFGejRSSGNJV0dLZVhqVGhReHdid1FfM3ZlaUdvcHI5TGNyUFJNZDFCd2JNVUpoV1BkUTRSVV9CVlZaMFNsaE9MdnJsRXZfcHVxdEJFWUNTZURmanMtZll3b0x5LS1rRGlSaVFzYjJSazFFYjA5U2lmcTdzU0FUUFlDWEdHYXBGci11MVUwZjlkUTlRRTduX0hueDdJc0tYa24zLVdpLXl1cEl3czRIbnlyWVNnLTlDYmpPQU8zRVh0VjYtSjhHdjA3UnY1X3BrQlhB?oc=5",
-      "timestamp": "2026-02-12T03:08:24.751Z"
-    },
-    {
-      "id": 4,
-      "text": "US NAVY carrier simulation reveals CANADIAN diesel submarine successfully penetrates carrier defense screen during war game exercise - potential strategic implications highlighted (19FortyFive)",
-      "source": "Google Naval",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVGRlNno1ZjIxNk1EU1hGMXVzZUV6S2pnRUNTMHh3Z2pmbTdRQkdTSk9ucnROSF9tX052RktyYmYydWtIUjY5a2swcGhhMVUxc2VzZXRjTFhUaUthU05aWm5MVVNfSi1tZVoyOU4zX1ZZSHVBV29CNWxwak4wdzN5aE5BODNKeDJfMEdvR0JNTnhZT1FBVGZkamJLME51RzRkT09yVnVoUUptS3VzRFFxVjBSNWwwS2oxLVZaRl90aTJKMTZVQmxLcGo1YTJPLXVQ?oc=5",
-      "timestamp": "2026-02-12T03:08:17.685Z"
-    },
-    {
-      "id": 3,
-      "text": "US NAVY deploys carrier strike group to SOUTH AMERICA - first major naval presence in region since 2019, signals heightened strategic focus on LATIN AMERICAN maritime security (Reuters)",
-      "source": "Google Naval",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR1NsYUJWU1J2QTJuS21salpwMGdnaWRPd3RCRzZUbTVMd0daVVNzdzFCWFp0Q3FybVVhcjZaQWxXSERSRzQyZlBMVGdEbmprYnlVblpKNFhHT1lEajNybEZhc0J3NGNEWlRlUHdjVGlsdHpxSnNQY2hmSXNPZzVWWDJfOVdGcnIzdWE0NzlHNXVWZjNmRTRIbjc0WEFleVV1U09VeVhVbEJXaGNqYUVsamtxclY2RlNTdG9RRThZQlEyaE1yN2c?oc=5",
-      "timestamp": "2026-02-12T03:08:11.495Z"
-    },
-    {
-      "id": 2,
-      "text": "CHINA conducts major naval carrier exercises in Pacific - 3rd carrier group deployment signals expanded maritime operational range beyond traditional zones (WSJ)",
-      "source": "Google Naval",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQbV9FUFF0NHNoam1DLTlEOGpBaGNvN3RiM241Y0tXNGcxSGFGcFQ3UC1Yd2xla1FnOEZuWmxIZ3pQU2d3Sy1Na0VMQ2hIRmhnTkRXSXBJOFVDcXplTC1TdHZicGllQmVSdHo5S3RVdWVRT21fSHk1VktydkRzdEtxeUwtZFZuYTZZSXd4OXpTVjdfR004TWxpZXc1RzZrNzNIRURPUVl0TENYT0g1U1N3MG9pckllYjl3bDRZSDVPUDBDaW91OFpBN0ZwNkM2dkVGd0hNcnhOTl9rdmRMQ3R0OVhsd01DRmpuOVBFb1IyMFhRdEtFWXBXLXN5VkRMWjZiVG1nX3RVcFBpUXB4dFdOZ1VJblFCVGNIYnNrSW15RHhiazhWcDVCeko1QkhZUS1hMkpjdy1xNk1MS2RxVDdMOHRkLXpKTmNJekJoYUxNWGlfMW9qbHZwbFZYMDFjT2NHTTVwM09uY2doX1hCZ1ZlYjZOdXBpZlN6UTltb3FOcGItTjRaSFJSZnRpZWxlcW54YTFYYjZBWXptekZRV2EwUkhNbHBIQQ?oc=5",
-      "timestamp": "2026-02-12T03:08:05.205Z"
-    },
-    {
-      "id": 1,
-      "text": "CHINA naval deployment: 2 carriers operating simultaneously in PACIFIC - signals expanded maritime power projection capability, direct challenge to US naval dominance (Al Jazeera)",
-      "source": "Google Naval",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS2F0bzVGbE92T182alZkWWwwLThmNWlIQ05wX2lYWlBya0RIemJub2hLeXp1RVlNLWhHT2xjUXR4RTNDanJxS3VZaFZCQWN2VFFlUVEtSC1tQU9UMkxEU1AwMHZSY3dScGxENlNWSzdfMzM3czk2cV9wVlpGQkhkMDhqd1dlbnBDcjNJQklPX2Q3Z18zXzQyRW9NUVNPRmQzdUpwWTlJeFNkVVc2czlJNjhBSdIBuAFBVV95cUxPVFk3ZU81MkVwUVNLbXUzVVpkLTB5STNlRFJzU1ptUWsweGg3ellVZWJ6Zkg1WUxhZjdzTF9ZX3dScGszRjVvQUN0aEkxRGlJeHpXRTBkNlVNckswcXp6aUVpRFNDOTFZVkk1N21wSmJvRGdZcXBxaUxVRHJjQUZZWjZHZDA4UmdKUDBoMlZMLW1fZXVEMmFzSkRKVWd6UnBNMGhzbGxFWXZ0blpwUXF3NkFCTHdYSkJa?oc=5",
-      "timestamp": "2026-02-12T03:07:59.072Z"
-    },
-    {
-      "id": 0,
-      "text": "CZECH military unveils successful tests of new MADR radar system - advanced air defense technology passes key performance evaluations (Janes)",
-      "source": "Janes",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX3FBWVV2b25FbXRnWWI0NFNMbmFFU2duSU5mVVFhMTNtV1JHYTQzbjZtNnVFaUxnREgzX0xwUWl2bjdSa25nUkl1WEVYT3puZV95THVsdV80cC1TZ2pZZjFHS2VkTXdYOFlteXJpdVFhREpvdG1TM3BCOUotc29VUnlEaS1rSmlnRVFhZmlkRDFFQzd3My1ySQ?oc=5",
-      "timestamp": "2026-02-12T03:07:53.236Z"
     }
   ]
 }
