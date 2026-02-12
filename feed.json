@@ -1,217 +1,217 @@
 {
   "feed": "mildata",
-  "updated": "2026-02-12T07:04:53.985Z",
+  "updated": "2026-02-12T07:09:54.021Z",
   "count": 30,
   "items": [
     {
       "id": 29,
+      "text": "NORTH KOREA leader KIM JONG UN signals daughter KIM CHU-AE as potential heir, marking first potential female dynastic successor in regime's history (Al Jazeera)",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/2/12/north-koreas-kim-jong-un-sets-stage-for-daughter-as-his-successor-seoul?traffic_source=rss",
+      "timestamp": "2026-02-12T07:09:24.547Z"
+    },
+    {
+      "id": 28,
+      "text": "RUSSIA military production disrupted: Sabotage reported at IZHEVSK weapons manufacturing facility - significant supply chain impact for ongoing UKRAINE conflict (RBC-Ukraine)",
+      "source": "Google Supply Chain Military",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVmUyNl9US0RLc0xkWENuNGNoUU9rUHV6dmg5azVoaWtxV2pDdFQxd0t4SWEwSnVWSGFXS2Jja3c5aC1QWGlBRkZPWmYxMDdkRUdwZTFWN0tETFVVWlQ1RHNjV0t5Szk2ZFoyRUdhenJ2dHR2MkNiWWRveFVLaG00Z1RZNDhpcE9lczhsTTMzRmtZZw?oc=5",
+      "timestamp": "2026-02-12T07:09:16.054Z"
+    },
+    {
+      "id": 27,
       "text": "SPACE FORCE plans new AGGRESSOR satellites to simulate adversary capabilities in orbital warfare training scenarios - first dedicated space-based red team program (Air & Space Forces Magazine)",
       "source": "Google Space Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb2g1NzBmX3dWNXYtQkhUYkFhYlpUZ2xCdWNZZmJGU01XSmg1TnhackdfVlB4cE9SeDlPc2FMWUZiV0x5VFBlT2puMUdjYktzcUZISEgtaF9pRHowLVg4ZHBCZ1psbTJKQTlqRnJtZXJPVTNZM1RHcEZyYVB4TnBmVEllQWt0WHdoN3VKbkE4cy1UU0tn?oc=5",
       "timestamp": "2026-02-12T07:04:03.158Z"
     },
     {
-      "id": 28,
+      "id": 26,
       "text": "UKRAINE strikes 51st GRAU ARSENAL weapons depot deep inside RUSSIA - confirmed significant precision strike against critical military logistics infrastructure. Multiple previous Russian ammunition sites targeted in 2024 campaign (UNN)",
       "source": "Google Military Assets",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX09LeW5DbkdxRHpSZVR5Y1lVNkhkNHFNd3RmRFhlekxxNVp1bDRUOXV4VDN1NDZZdm5oc3NMWmtGRC02NXRXcWZ6VTZrTGFSdTFxNjNSU0VMSnY5dGpzYWNHenJWMXdmbUJvcXlhYU1UMndmS2xJYmVyTFdkNGNHdDZ2RDMwa00yOTU0ZTlDRW90YzRveFd4dXMzb3ktQU5tMGFvQzZ3QdIBpgFBVV95cUxObEdXVVZBYy1MbEktNjVBZUx1Ujg3UDZTU1c4ekRfZ0NKTnZFaERSWU9FRzcwZ0RhYkVpMFpjd1dGQmtuQ01QTWFfaV9mdDBTZU9yVGNCRUdzdTFlc0lSRXhtZ1JsYmZtcVB5TFdFT09Ha0lZOGMzZlZlYXlqWE5LalphZHZJd1dweHY0aXJpZG5WRk5ta0NWaEd3ZzVQR3h3djM0U01n?oc=5",
       "timestamp": "2026-02-12T07:01:00.009Z"
     },
     {
-      "id": 27,
+      "id": 25,
       "text": "SUDAN conflict: NEW regional peace proposal emerges amid ongoing fighting between ARMY and RAPID SUPPORT FORCES - potential diplomatic breakthrough after months of violent clashes (Daily Nation)",
       "source": "Google Africa Security",
       "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWjF6bnVaM3RYd2xNUzhjRVhHUXBWNmhDWnJra1pvRFdLR1V3R2FsLWFtcGUzWUtjWUlGN2FrUTA5VkNlM0lURDEyNm1tekR4ZVBLTnBWeGRNQjkxWmk3c1pEbEdFMVZ1YWJSUnB2c3RkUDRWOHZJeWt6NWl2dTVQUE5CMUVVUkQwVmtqay14dw?oc=5",
       "timestamp": "2026-02-12T06:58:53.023Z"
     },
     {
-      "id": 26,
+      "id": 24,
       "text": "RUSSIA expands \"shadow fleet\" of unregistered tankers to evade WESTERN sanctions - bypassing maritime tracking, potentially moving sanctioned oil globally (Small Wars Journal)",
       "source": "Google Critical Infrastructure",
       "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rYzRscmp6RE12bFlJYjdiRWhYYmloemUySmtYYUNETG4tN21XcmtVdUhYS0dCb1ZIYWlhVDRkRDBfa1dpQ1VZX2tja2o2eW1aaGVzOTRVeVBQeERUS1pnbVNsWVBGcmNlWjhibHFUNmxjclU?oc=5",
       "timestamp": "2026-02-12T06:56:11.972Z"
     },
     {
-      "id": 25,
+      "id": 23,
       "text": "CHINA rejects US nuclear test allegations as \"completely groundless\" - warns US may be seeking pretext to resume own testing (Global Times)",
       "source": "Google Nuclear",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SWnMyR1Q4d1RIVUJtNk1EaVF3QjU0RHRDa3lWSmVnbVFGaVRGSmFiZlM1TGNRNm1DaUdiMDZyUVZ0blVhVk5yZGFnTjdjVGZ1dDE0STZOb2o5ZUZfUF9XVmJR?oc=5",
       "timestamp": "2026-02-12T06:50:55.560Z"
     },
     {
-      "id": 24,
+      "id": 22,
       "text": "BELARUS reveals new anti-drone laser weapon system - capable of neutralizing aerial targets in urban environments, military deployment imminent (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/defense/2085651",
       "timestamp": "2026-02-12T06:49:02.900Z"
     },
     {
-      "id": 23,
+      "id": 21,
       "text": "SAUDI foreign minister meets ETHIOPIA PM: bilateral relations, regional diplomacy discussed in high-level talks (Anadolu Agency)",
       "source": "Anadolu Agency",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOHJITnBBM3Zjb0dRQWRmZmkzb21XX3FPd1JYal9XaUtodGxaX09RNUJlVVM4MVlybmEtdXBYZUlJcGltV0F1Unc5VmY2XzZqYkgzS0oydGdOemhTRlg5VFBXUXZKMXNfTmsySzlaMWs2VDhmWHNrUEwzbU5YQWpxZk9IWnk1UG9DbTlfaUNMeUNrUmRyOF9YWHlnSmFpaW5QVGllenZXUGZibWJzSWlVWXE0MVVLRTNsbXc?oc=5",
       "timestamp": "2026-02-12T06:48:06.678Z"
     },
     {
-      "id": 22,
+      "id": 20,
       "text": "ADM John Aquilino hands over INDOPACOM command to ADM Samuel Paparo - key leadership transition in critical ASIA-PACIFIC strategic theater (PACOM)",
       "source": "INDOPACOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbFFEN0hwX1hROWl2U3pCeDBqMjZ5STlKTEdsb1lPMkhyODVnYnk1QVdRaFZsSjlESXhEX0FDc2MxYXo2bHlyZHRyS1JhUnpvdUdqLVQxbzJlVWFuVWhhV1BaNm1uYV91dVl1bUQ0N1lhLTZmZXhGcnJmRjQ5aV9FT01PREVTVnVMN3lYVGxfM1FnRDZSV1ZsOEduR05CazJNSWc?oc=5",
       "timestamp": "2026-02-12T06:46:19.408Z"
     },
     {
-      "id": 21,
+      "id": 19,
       "text": "PENTAGON: USINDOPACOM Commander visits AUSTRALIA - strategic military consultations amid rising CHINA tensions in INDO-PACIFIC region (PACOM)",
       "source": "INDOPACOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUUpBRUZkUzJocVNjb0gzLTY3TUE3MTc2UzhmOWFLZWQ0aEJyeFJMbS03Vi1zaXVkT2hzX0x3bHBJRmNTLV9JNmtrS0RJaTdpODJLdHVQRXY2dGxFN3Zzc09FRldQbzkwdVRUWkJOT1E1UnJNTDhzYkFjQWV2S1pxQml2VzJDV2FQZElKdG5qOXhnU2V0TUU2T1RZNHowWFN6N3phdk0wQ3RsZml6SkJN?oc=5",
       "timestamp": "2026-02-12T06:46:11.076Z"
     },
     {
-      "id": 20,
+      "id": 18,
       "text": "U.S. INDOPACOM special forces conduct joint SERE training - enhancing survival & resistance skills across regional military units (INDOPACOM)",
       "source": "INDOPACOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOckFiamxrNlA1cGtQODlrZ3hPX1lSeGVCQ2QxblpVa1JXUXlxNzU1TEFxSGQyZW40c0oyYXJoNkhIT1UwVUhvMWRtUERlTHNfUFgwNU1mODBnTklvMjBYTzRDZFRmelJDRDljTTBXOTFTM0lkd1l6Ri1XWk1FYmZncWV1U3VlZmFXOGRERk95VDR5cDN0NVBLdExVSlJfMWRTeE1fWHdXMjVOZ2JuMXNlaVhsVkhzRi11aHBzaWx2RGJSX0tsQTQweHhzZ2JjSExZVzBTYQ?oc=5",
       "timestamp": "2026-02-12T06:46:01.362Z"
     },
     {
-      "id": 19,
+      "id": 17,
       "text": "QATAR: US AL UDEID AIR BASE personnel partially evacuated amid heightened IRAN tensions - potential retaliatory threat following previous incident (ABC7)",
       "source": "Google Military Bases",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdnpJVUFVM1ZZQzJnMEJzT05oX1EwZWJfWmZIdlpjQTRKOUs1ZG0wSWJfT0RzTFFhQkF3RkVMWXo3cFIwMFhDZDNVbHpvMm9EdmtPWVk0N1MyZno2bWMzcFFVb2lMbnZlSDR6eFVjYl91b3o5bTNvS19tSG85ZzlkdGJ4ZXhXVkt3MFoyRU1tZWNmQWFPUXJQLVZWZ2pIUl91TExvOFZ0OXJRdjNiTjV3V3d2WEZuWHPSAbwBQVVfeXFMUEE4U1hWV01EWlp0b0hGbmY4UEU3NHhVeEJ6d1NZTUdudEh2cWJOTy1ubGVfeE9zZmZoVWRNTFp3R1loWGhnejFZUzZrSFZZNnRPR1VFYy1xVUZwZTF4ZmZXYlVRaXRIckJncVMzZUduUG1iVHFLYzhVak5fTG1WNFg0MUZFblFVSHlTd29haHZWajRkQVVGdmFtSU9iM3ZCWUpGUnp2Z2tMUWg4Yk02bHVuQmxCX3RyMzByQWg?oc=5",
       "timestamp": "2026-02-12T06:45:52.189Z"
     },
     {
-      "id": 18,
+      "id": 16,
       "text": "US QATAR BASE - PARTIAL EVACUATION ORDERED amid rising tensions following unspecified Iranian reference to prior incident; AL UDEID AIR BASE personnel partially relocated - security protocol activated (ABC7)",
       "source": "Google Military Bases",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdnpJVUFVM1ZZQzJnMEJzT05oX1EwZWJfWmZIdlpjQTRKOUs1ZG0wSWJfT0RzTFFhQkF3RkVMWXo3cFIwMFhDZDNVbHpvMm9EdmtPWVk0N1MyZno2bWMzcFFVb2lMbnZlSDR6eFVjYl91b3o5bTNvS19tSG85ZzlkdGJ4ZXhXVkt3MFoyRU1tZWNmQWFPUXJQLVZWZ2pIUl91TExvOFZ0OXJRdjNiTjV3V3d2WEZuWHPSAbwBQVVfeXFMUEE4U1hWV01EWlp0b0hGbmY4UEU3NHhVeEJ6d1NZTUdudEh2cWJOTy1ubGVfeE9zZmZoVWRNTFp3R1loWGhnejFZUzZrSFZZNnRPR1VFYy1xVUZwZTF4ZmZXYlVRaXRIckJncVMzZUduUG1iVHFLYzhVak5fTG1WNFg0MUZFblFVSHlTd29haHZWajRkQVVGdmFtSU9iM3ZCWUpGUnp2Z2tMUWg4Yk02bHVuQmxCX3RyMzByQWg?oc=5",
       "timestamp": "2026-02-12T06:45:52.454Z"
     },
     {
-      "id": 17,
+      "id": 15,
       "text": "US signals expanded military cooperation with PHILIPPINES, JAPAN - direct response to CHINA maritime tensions in SOUTH CHINA SEA. Enhanced deterrence strategy involving joint military exercises, potential expanded base access (Inquirer.net)",
       "source": "Google Indo-Pacific",
       "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGpJNk9SWGtmaU9nbFJqRXhvX2Jha1FfSEdnSlViNU52aUpocEw3OF9xaXdlbHBKaUhRTU1ybVM0WVFoZlAzVkxySVNmcVdvNEFEWW9DVU1JZlh6NTMzWWtlQXpjdkdGUEVINDdmN0RGNmxXbFk0U29Uc2NyZGJSYVhldzFqX0hSWnpiV3d3LTRfQUJmb0V4QzdTUlczZjDSAaQBQVVfeXFMTkZLdUd4enl1VUdhWVpXUTlRdTJmLW5jMWlIbFkxeDM1TUF2ZWVsWjVWamszNHdGVWFyZlVPcHliZHVxb2twYlc1OW11eGhESHVJZGpVQ3c3aGwwdWhaYXU5M3lxTjFMbUY1RjZQN2k3bjZUbjRPRFBOVGFzQlZ2dC00TXFTSXUzVUlKWTExMGtjSXZwWFVCWkwyWnQ3UExsSnBvaFo?oc=5",
       "timestamp": "2026-02-12T06:41:59.370Z"
     },
     {
-      "id": 16,
+      "id": 14,
       "text": "PENTAGON explores 4-step strategy to modernize military logistics, enhance supply chain resilience amid global security challenges (EY)",
       "source": "Google Supply Chain Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMDJob1dLaktPMmI4WDRzYktvdzVTbDI0b0lWZDR2STVLejZNZ0tMUDB1RGdlOG5zLUVjQS11TlpHNWl2WXhqdUoyYmVtMXdvTENNSm15R3czMEZkZkdMSjFvWkNBR1UwRFZJSXlGNmtTWkFXcE5EeDkyUWtmOERWN2paMExfVkxZVFVNcTBaelEtWlE2UzJobjVMOF9DOEZuTl8yeVRqdzAtQkp3VE9RY0E4aw?oc=5",
       "timestamp": "2026-02-12T06:39:53.680Z"
     },
     {
-      "id": 15,
+      "id": 13,
       "text": "PENTAGON warns PERU risks sovereignty erosion via CHINA port deal - US diplomats signal potential strategic challenge in SOUTH AMERICA (NPR)",
       "source": "NPR World",
       "sourceUrl": "https://www.npr.org/2026/02/12/g-s1-109738/u-s-says-peru-could-lose-sovereignty-to-china",
       "timestamp": "2026-02-12T06:37:55.568Z"
     },
     {
-      "id": 14,
+      "id": 12,
       "text": "GAZA: Child labor surge as conflict decimates economic infrastructure — 70%+ of children now working to support families amid humanitarian crisis (Al Jazeera)",
       "source": "Al Jazeera",
       "sourceUrl": "https://www.aljazeera.com/features/2026/2/12/children-gaza-forced-focus-work-rather-school?traffic_source=rss",
       "timestamp": "2026-02-12T06:37:47.190Z"
     },
     {
-      "id": 13,
+      "id": 11,
       "text": "US NAVY amphibious assault ship USS TRIPOLI (LHA-7) operates near SOUTH CHINA SEA - significant maritime presence near CHINA's maritime claims, signals US regional deterrence posture (The National Interest)",
       "source": "Google Naval",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc05QSjhibHJpdk5NTk9OV2hmZkdKSlVCWHFCU2k5MXFTVmN5UzlUOFA4MlVnX2VJVFhsMDA2QzZoUEI2ZEdIZlR0Y2VGWG9jd2pqQWhWMjJqSi1JekRIQWVRQi16SVBzWW96Q21BSFFWQ0ZjUUg2T0lsVWZiOFFNUVBtaUhzRXV3dmdLVjNhcVROUWhDNmZYa3dHaTlqRVc5d2xHc0VOUGdSUFhDT1BQQlBhTQ?oc=5",
       "timestamp": "2026-02-12T06:36:36.735Z"
     },
     {
-      "id": 12,
+      "id": 10,
       "text": "CHINA: President XI removes top military general ZHANG Youxia amid significant PLA leadership shake-up - signals ongoing military restructuring, potential strategic realignment (BBC)",
       "source": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/articles/cg5n7064p9eo?at_medium=RSS&at_campaign=rss",
       "timestamp": "2026-02-12T06:35:32.861Z"
     },
     {
-      "id": 11,
+      "id": 9,
       "text": "RUSSIA evacuates VOLGOGRAD village after military facility damaged by unspecified debris - potential security incident underway, civilian population relocated (France 24)",
       "source": "Google Ukraine",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSXhyT01qVDRfNFhDN25VRGpNWUQ0ZUdKSXQxWlhwb2ZMazF2UmRHeXV0aFdEckdnV0F0VThiWEV1NFNHT2hPYU1sTjRRcTNqZ1Q5SEZ1ajB6QkVIVlBkSF9GU185eTBWVlFHVnA3UHgzLWRuclprTGFFc29uV2hUM2pKSVN6dTU4WXEtUl9QNXRobDNGR2NTTkRPc1o3T3VPeTRwd0ttTTFhUUNSdmFiMXBCREdnWnRBYmlNNE9jN3RkQQ?oc=5",
       "timestamp": "2026-02-12T06:34:35.156Z"
     },
     {
-      "id": 10,
+      "id": 8,
       "text": "PENTAGON awards $127M defense contract to LOCKHEED MARTIN for missile systems upgrade - procurement details not yet public (DoD)",
       "source": "Google Military Assets",
       "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13Qlg2eS1sOTh1U0VaTFh2bXJ2dlZ2dWdSSTlwbnBUaEJ1RU1EY2JhVEhZQmI3US1Gb2hqaElBY0dDM2tWV2tFNUZkRGlfOXI2Wk9MYUNhOXdkZWhLUUwxVURLOXQ3WEwxRmp5UA?oc=5",
       "timestamp": "2026-02-12T06:30:16.080Z"
     },
     {
-      "id": 9,
+      "id": 7,
       "text": "INTEL CHIEFS face congressional scrutiny: Rep. SLOTKIN demands clarification on potential domestic surveillance of AMERICANS during intelligence hearing (Michigan Advance)",
       "source": "Google Intelligence",
       "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTHRaRE5VVVdnb0Z0MUtyN3dER0NOYjZteHFKZTVIdGhMX3hQd0VDWFd2RW1aU0pCV2VrcVpyV3o1UklQVmJDU1J4WWVfdE1pLUhNWEhCdlMxT0EtaEVEYkpnektiWVNNYVlEcVhrWFJjOXZuUW9KdGRIZ3lSMmJ4Vm40UURCYTNZbTdKM0xLVVhXbHIwamN6aTFtaUswRUhieTJYem5KTFRNOTYwWDdtZFlybUpMS0ktMzFEYlZnRU9BbEYxTGwwenMyb04?oc=5",
       "timestamp": "2026-02-12T06:23:15.864Z"
     },
     {
-      "id": 8,
+      "id": 6,
       "text": "PENTAGON orders military bases to limit news broadcasts amid concerns over political polarization - internal directive aims to reduce potential unit discord (Xinhua)",
       "source": "Xinhua Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ibXBHR0t6RXFTby1TVlFYWk5jdFdYOTFKeUgxZGIxNElRQkdIbU9KYVZOdktWdzZ5UVUyM1BqWm0zeURhbFZPRW0xTFpfUU43NjVXTkZ3T2hDdWdVRlRmS1hGUEVZQ2dVdmtN?oc=5",
       "timestamp": "2026-02-12T06:21:29.590Z"
     },
     {
-      "id": 7,
+      "id": 5,
       "text": "CAMBODIA and CHINA launch joint military exercise focusing on anti-terrorism, humanitarian rescue operations in regional training event (Xinhua)",
       "source": "Xinhua Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10R2k4X1dKZlVERmFsS0lDQnJGc1Y3LTVNeE9VSktCZ051Q2NzcGxISmVoUkNSUGRxTmtOWEJjRmJ1Q3RNMkoyUzNVY3FrSkhuVFlwbER2b3JEaTBRSm0tdWNOamJHbkxjQzRz?oc=5",
       "timestamp": "2026-02-12T06:21:22.357Z"
     },
     {
-      "id": 6,
+      "id": 4,
       "text": "ZIMBABWE military officially denies election interference allegations - top brass affirms neutrality ahead of national polls, seeks to quell speculation of potential political intervention (Xinhua)",
       "source": "Xinhua Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83Xy1CcnQtQjYtaXRHV1pJQkllUHV5REowdkhFRVZCcmNEN0FQd1FYakNYcjI2Rm93LU80ekE4Z2FkUjF2TTJkb3dwOVhMMmJEaGNJUTZ6cGRwNXNJd2pYWjRMa3RNUFA4VDZ3?oc=5",
       "timestamp": "2026-02-12T06:21:14.488Z"
     },
     {
-      "id": 5,
+      "id": 3,
       "text": "AFGHANISTAN: 1,400 new recruits complete military training, join national army amid ongoing security challenges (Xinhua)",
       "source": "Xinhua Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WSERydkVOaW5wRmRXbU9NcmlkRFhUT0tfN2pCUDZROHpMN2pZRUkwcFBiLWJJNzBPNXNGVENtX1htdFh1QXVPYUVaYXZlRVA3ME9vTkszaWh6YnNVZU5nN1ZsMUJ6Ni1uamt0eEwxcjg5d1R2VDNFZGJ6a2xrdw?oc=5",
       "timestamp": "2026-02-12T06:21:06.187Z"
     },
     {
-      "id": 4,
+      "id": 2,
       "text": "NORWAY commits $312M military aid package to UKRAINE - includes ammunition, advanced weapons systems; part of ongoing NATO support effort (Defense Post)",
       "source": "Google Military Assets",
       "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ucnRaNGpnZkZJdS03ZTJvdmRNTy1lLWo5bUUxMUNEV2prVlFlTzJBSjUyWFF2ekpzc3lkQUp2TEM2QmptSGNac1kyUXg2Z2t0X05ZQ1hPTnpaM2ItOUJXY013M1VNR0JXRzNwUEpIM3QwRkRBOGRjemNFajXSAYIBQVVfeXFMTXhRYTd5NzFMSDFMcUlOSk9iVUlsSWM5Nlcyc3VVWWpLODUxWHZ6UGNZRHNNaWpWeGRHcGNNU2ZUblFWdjVkcDEzVV9SZGxDM1laNnFVTGtJTmJxNmhSdTJkS1RJQXlkSU9YSnVsYUxXc1lGbjdidHBiXzlVVm1RSGpqQQ?oc=5",
       "timestamp": "2026-02-12T06:20:57.062Z"
     },
     {
-      "id": 3,
+      "id": 1,
       "text": "US AL UDEID AIR BASE - critical CENTCOM hub in QATAR remains fully operational after IRAN missile strikes against regional targets; no reported damage or US casualties (Al Jazeera)",
       "source": "Google Military Bases",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS3BEMC1sZ1RveTNEWEU0TndJdzl2bVBCdUVtQUxraUIxOHBPNlFSZDBPa283Y0JVSldhLVZmUE5qeXZtUnNMekc4WU5mQU50RWItenVrcmpOcy1OUnZwcVNPbXNtV0lDVXFoN2NEQ2U0RU9YNm50TThqRnZEMzd4bTd2MUx3c21yNGMzdFdXZDd5VzJNRDVQTk9Gc3gtZnM2cGw1cldHQkNzVGtF0gGyAUFVX3lxTFBINThrb0pRYVVhSE1vREZEN19PNl9XcG5FaV9FN1NxVHMyX2x0eEVFQ2xacjhjcmRJak4wblRVYmdXWEJCX1NjeFdwV0tKOXhMLWJGT3FRNF9nUzJLQUd3NXVydXEyQndHQm5GUnJScms1SEwwbWkySFNDSTJkSHMxN3A0b21OY2RvWllWVjhXWjg1YUM2T19WVDM4by1uWmdEeTlUeDc3UEd4SDl6cWYzb1E?oc=5",
       "timestamp": "2026-02-12T06:18:45.182Z"
     },
     {
-      "id": 2,
+      "id": 0,
       "text": "US AL UDEID AIR BASE in QATAR sees partial personnel evacuation amid rising IRAN tensions - potential retaliatory threat referenced by IRAN official (NewsNation)",
       "source": "Google Military Bases",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR2NPMDFZMllNNm5rWkl3cTJiTXN5S0lnMFlNWFNGTlBrcEhuMTR6Z1h5Uk93MmhJTDlka2VnUnJ0SkIzRWVCZEZfamZvVGlyU3FzZldFWVljczJOa2VxbnFhSVZucTVkX0NqUVFWYTNVZ2R5TzdueXFwUHFqb0ExakZQSmdNbmgzc3NkejFMeUxzSzhRNEVNaGhvd01OWmdoUnM2QzFKcDlhWlNUaWlZT0x2eHR6d2g2el9tMjRHOFlHSDFoWnVyZVB1QXY0MzZVUHM5TkUzTdIB3AFBVV95cUxNRE9FVkJxaG1kek1EdVlxaktUTXd6XzEzakxzR0FoaS1HdmpkbFFPMm5GTXRJbFhMSEFnT3NQYmRhU3ZEQ0pmMjhCbVRJOHk3ZG51WnczTlJubVV3U09WVFFKaV9rbmhheVAtSEdzWWpoQXY5aEprckVyaFV3djUwMUZ2MzkwYV9ZekxsZl8xQWhIaVY5OXJPbnlRWFZuc2RpV3NxcnN4aGxZMm1TOGIxaEhHRjBUZkVBQU9SNTJZZEVsT2RENjY5cWFJM3dzRFlqVUVielJKX2FWdUVr?oc=5",
       "timestamp": "2026-02-12T06:16:38.017Z"
-    },
-    {
-      "id": 1,
-      "text": "AL UDEID AIR BASE - US MILITARY advised partial personnel evacuation amid heightened IRAN tensions; base hosts critical CENTCOM operations in Middle East (NewsNation)",
-      "source": "Google Military Bases",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR2NPMDFZMllNNm5rWkl3cTJiTXN5S0lnMFlNWFNGTlBrcEhuMTR6Z1h5Uk93MmhJTDlka2VnUnJ0SkIzRWVCZEZfamZvVGlyU3FzZldFWVljczJOa2VxbnFhSVZucTVkX0NqUVFWYTNVZ2R5TzdueXFwUHFqb0ExakZQSmdNbmgzc3NkejFMeUxzSzhRNEVNaGhvd01OWmdoUnM2QzFKcDlhWlNUaWlZT0x2eHR6d2g2el9tMjRHOFlHSDFoWnVyZVB1QXY0MzZVUHM5TkUzTdIB3AFBVV95cUxNRE9FVkJxaG1kek1EdVlxaktUTXd6XzEzakxzR0FoaS1HdmpkbFFPMm5GTXRJbFhMSEFnT3NQYmRhU3ZEQ0pmMjhCbVRJOHk3ZG51WnczTlJubVV3U09WVFFKaV9rbmhheVAtSEdzWWpoQXY5aEprckVyaFV3djUwMUZ2MzkwYV9ZekxsZl8xQWhIaVY5OXJPbnlRWFZuc2RpV3NxcnN4aGxZMm1TOGIxaEhHRjBUZkVBQU9SNTJZZEVsT2RENjY5cWFJM3dzRFlqVUVielJKX2FWdUVr?oc=5",
-      "timestamp": "2026-02-12T06:16:38.724Z"
-    },
-    {
-      "id": 0,
-      "text": "US NAVY destroyer conducts port call at DJIBOUTI base - first direct naval interaction at Chinese-built facility since 2017 strategic location established (Newsweek)",
-      "source": "Google Military Bases",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTTRhdzZzcklpNG9yRm9RaTYzb2ZLQ25wYVBkcDdpQ21pekZGeE00cjk5SXNiSzBvSndBLVJJWTNZUVFZaDBTREZ5c0hTSDhSWmJzT1lXVnM1Y1dlSXFTMWFPcE05SFhDRHdRMzV4VEpyOWF1bm1TRFl6NkJpQW9icg?oc=5",
-      "timestamp": "2026-02-12T06:12:20.243Z"
     }
   ]
 }
