@@ -1,217 +1,217 @@
 {
   "feed": "mildata",
-  "updated": "2026-02-12T04:24:53.807Z",
+  "updated": "2026-02-12T04:29:53.842Z",
   "count": 30,
   "items": [
     {
       "id": 29,
+      "text": "NORTH KOREA marks military founding anniversary with likely missile parade, troop demonstrations in PYONGYANG - potential weapons display expected (Yonhap)",
+      "source": "Yonhap Military",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtUHpRUmRtUjFBbjFLdGlmaGRicFliak5ER1R1eXo4WWpCY2pFTzFNSVlkbHUyQUI3TkF3ZkZYZ0toME9zTml4TmozV3QwQThvdHZaV1BCNERvdw?oc=5",
+      "timestamp": "2026-02-12T04:28:29.392Z"
+    },
+    {
+      "id": 28,
+      "text": "US NAVY deploys additional carrier strike group to PERSIAN GULF - 2nd carrier positioned near IRAN in past month, raising regional tensions (Politico)",
+      "source": "Google Naval",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3VDQ3MU9CRlVUeElfcDU4RF9MVmoyUTdiS25KU09OaXA5eEtuZG5ma3ppbDNZUlpLMjB1UzNVNmZxWWllUTZlVGs1cVZxalF0MzRXMHVTeG8yTnJVRW5IZXVPV3l2bExaVFpxcWlBSjFTM0hkYUh0eTVpNzhCZw?oc=5",
+      "timestamp": "2026-02-12T04:28:20.796Z"
+    },
+    {
+      "id": 27,
+      "text": "SOUTH KOREA seeks $15B arms export deal with UAE - potential major defense contract expanding SEOUL's Middle East military technology presence (Bloomberg)",
+      "source": "Google Arms Trade",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWjcwVm91TF9yU05ud1Boa2gyTVZsaERGZ29pODVEVGJLVGhZQjJrM25ndmRuVUw5YXhMcFNhUy1JVDFRMlpWR3Y5QkNDcmJRQ0d1TUIwLTF2cDc1UThKOXlVeE5ZYVU4Q01HUjJLRDdtV2I3UlQ4djZMN1FyX0JOa25XWkpWZ3FfTnFGbWdUZGphZ0RTaGdNQWpWazRNSGRsMmxPMVhQN2FRb1g2VDRyTUtn?oc=5",
+      "timestamp": "2026-02-12T04:28:13.023Z"
+    },
+    {
+      "id": 26,
       "text": "SYRIA: EUROPEAN SYRIAC UNION warns of imminent conflict risk in NORTH/EAST SYRIA, demands international intervention to prevent humanitarian crisis escalation (SyriacPress)",
       "source": "Google Humanitarian Crisis",
       "sourceUrl": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPMVRhbTd6TEFLbHlBYWI4V280WGh1WmNvNmZTeE54Tk96NVhkNC1zQ2lSczcyWFFUNG40SnVWNzJaelRKaFZHSGdrLVBwa2dGcWlJeUVqSXRpdmFuOUNpaDRGdlpJSWgyOGRGdV9nalhxT29sZmNsX1ZxX0hlOVJfMm1PNEFDcnotM0JMMDZUamxibEFHbktPVjc0MHo1YVpJMnkzV3o3blpNZWVBTTAxandZckRueWxqekZDN2dmRHNTMnpqQ3R5Wl80OFVOVFY5U2d5VmVaMjJWd1ZMWENFOUdXWF9DWWdLZkxFQXBZUlJwV0xCT1IwSDdGblBWOTRieEFYaTNocUJDQktOQ0EwOWZCQQ?oc=5",
       "timestamp": "2026-02-12T04:23:47.618Z"
     },
     {
-      "id": 28,
+      "id": 25,
       "text": "RUSSIA reportedly accelerating weapons manufacturing at rates challenging NATO industrial capacity - defense production potentially exceeding Western estimates in ongoing UKRAINE conflict (RFE/RL)",
       "source": "Google Military Assets",
       "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR05abEdsREFXdktYeHROTVlvMWxRSHRocGIwQ2d2LWpBLWdHZXk2S2FwWTVWbDNGNUo4SFFjekNFOUdyYmg0ek9kMmdVaW5DOVdwMzdpUU0wNWRkSkUyd29rRVlSVVB4ZG4wWXJKWUpOdFB2V1cyakY5RXlIanM2bHFuZkhjQdIBiAFBVV95cUxNTHNWX2dYek13bm1vdF9EZGV6ek5kbm1ERkYtT1ZCWmFSbEtBU0JnelMwbHhGcUhtTFNxR214eDlYNXpzRTFjOXVHWFhiZjVxN1ZELU03bkE5eDRpNG5VLWVkUzE0YTdUSXlLOWQ2ejRYUWd0Y1ZvdVRDTm9JRV9FbDFHWkNhMUZq?oc=5",
       "timestamp": "2026-02-12T04:23:40.057Z"
     },
     {
-      "id": 27,
+      "id": 24,
       "text": "AFGHANISTAN military kills 16 TALIBAN militants in overnight operation - security forces target militant stronghold in eastern provinces (Xinhua)",
       "source": "Xinhua Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQdkdaN0JyUENITlc5V0hEYjF5amNSZzNPQnFEUDNVV3Z6ZmNha0ZrdE9HWUEwTXJiVExqWUhndnU0azA3dmYzS1M1OFhkRjI5eUF2SldfVzdta09mQnBnTWtOcXpSV0MyY2p2cjRB?oc=5",
       "timestamp": "2026-02-12T04:21:52.853Z"
     },
     {
-      "id": 26,
+      "id": 23,
       "text": "EGYPT holds full military honors funeral for ex-president HOSNI MUBARAK - senior military/government officials attend state ceremony in CAIRO (Xinhua)",
       "source": "Xinhua Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9oU0w1NEZUdnJEenR0cWtiQ3VYd090MGNDRVlDa0dDUktQMXRrUHBFWFc0UHhvamttaDZUZmhGdV9ncVZramgyWUpNbTRpTzRfSi1Va29IaHRJRjJrdVRESFhoeE1QQ21zTzFCU2ctMkZiREtzak40?oc=5",
       "timestamp": "2026-02-12T04:21:45.112Z"
     },
     {
-      "id": 25,
+      "id": 22,
       "text": "NAMIBIA opens Chinese-funded military college: Strategic defense cooperation signals growing CHINA influence in African military training infrastructure (Xinhua)",
       "source": "Xinhua Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpMVVPcXpTTW1WbGRsd1ZLSHRodGdfUV9yRkpWUzZPYzVPTEJMMlphaXEyWWJhNUc2SnRnMnhMVGZDbTk0OGNtakFOWU9ZNThLb1g4Qlo5eThiZ0xxN3Boam1WZDdPLXktR09N?oc=5",
       "timestamp": "2026-02-12T04:21:37.400Z"
     },
     {
-      "id": 24,
+      "id": 21,
       "text": "CHINA hosts 7th CISM Military World Games in WUHAN - 100+ nations participating in international military sports competition (Xinhua)",
       "source": "Xinhua Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HVjVUcVJ6RE1zXzBrSFY5eDZla1B6anNqRUo3UXB5RHBmTG5DM2pGYlFWcDV0T0xCY3JzMlg2Qm95bjF0QTRIS09LNU1ydDVKV2xuV242WC1wWVNkbUhpNHptUkxNZUdqdzBLaWRTNA?oc=5",
       "timestamp": "2026-02-12T04:21:30.442Z"
     },
     {
-      "id": 23,
+      "id": 20,
       "text": "SUDAN conflict escalates: Heavy fighting between ARMY and PARAMILITARY RSF continues in KHARTOUM - civilian casualties mounting, 700,000+ displaced since April (UNHCR)",
       "source": "Google Humanitarian Crisis",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNdU4xNEF0ajhwUmUxcG1lcnh3R2lpZUNwdUhaZjkzRW5Kb3VUZmUyd1E3SDd0akR4UjRFNUZPd1ljVXY0T3NTdlYtc3F6UFV3bTRPZkx0NTJMblIyeWdGcDZLd3JvZG8?oc=5",
       "timestamp": "2026-02-12T04:19:38.282Z"
     },
     {
-      "id": 22,
+      "id": 19,
       "text": "SUDAN: Humanitarian crisis deepens in TAWILA - mass civilian displacement amid ongoing conflict, severe food/shelter shortages reported (Al Jazeera)",
       "source": "Google Humanitarian Crisis",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTEd4OE12alE2SFZsY2gxdGppU1M4dXBlVHlZZW5oNHN4UXlQZEc5cGx3d08tMHNhNV85c3AwMlczTkQ5akpjS21YU2dRZ2MtYmkxeVRvbm9aNV8tWXdEUHlLUkE1MV9hRU9xYndqLTlWeVpWYnR5UmJvQjdUUWdROU43akJxWW55aHRySHVrUlJlQzNxVU1FeTVLTjF0STNzS3hTY2hVcGrSAa4BQVVfeXFMTnZld1c3eng0SkdfelZTQVBKMlNKV0VMODNSTE9YQi02cGtLMUdyN01tWXdVWDB0MHZQM2J2ak0zeHRBcGNsanR3em5EbTY2X1g5aldfXzlkQ0gyTjZsWVpSMVREU1Q4dVd0eHhBaUlXNEZTdnRfeVNpc1VJRS1RRUFvdDhvbVFLaU1oaGcxR21SVjVHem5WQkZXMS1uWUFoMXk5Q01JMXA3UkJHY3l3?oc=5",
       "timestamp": "2026-02-12T04:19:30.193Z"
     },
     {
-      "id": 21,
+      "id": 18,
       "text": "SUDAN conflict enters 8th month - heavy fighting continues between SUDAN ARMY and RAPID SUPPORT FORCES in KHARTOUM, DARFUR regions; estimated 10,000+ killed, 5.6M displaced since April outbreak of violence (UN sources)",
       "source": "Google Humanitarian Crisis",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNdU4xNEF0ajhwUmUxcG1lcnh3R2lpZUNwdUhaZjkzRW5Kb3VUZmUyd1E3SDd0akR4UjRFNUZPd1ljVXY0T3NTdlYtc3F6UFV3bTRPZkx0NTJMblIyeWdGcDZLd3JvZG8?oc=5",
       "timestamp": "2026-02-12T04:19:31.671Z"
     },
     {
-      "id": 20,
+      "id": 17,
       "text": "AIRCRAFT CARRIER USS ABRAHAM LINCOLN begins scheduled maintenance period in PERSIAN GULF region - no operational disruptions reported (CENTCOM)",
       "source": "CENTCOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JS0RlQ0NsdjBEb0w5MDJyZXdNWFlnWmtZN0lsVEY0Y3pqT0RLUWRjV3k1cVlCLXo5SVdGUTlPSTFDaGVRXzhQNGlPd2x4YTlEN0Vobkx1M1FHZDVVSUZURldXNUNfRjVx?oc=5",
       "timestamp": "2026-02-12T04:19:22.612Z"
     },
     {
-      "id": 19,
+      "id": 16,
       "text": "BREAKING: NATO SECRETARY GENERAL Jens Stoltenberg visits KYIV, reaffirms alliance's support for UKRAINE amid ongoing RUSSIA conflict (NATO)",
       "source": "NATO Official",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOFdCRlFZOFBwelFSaTZIWUVNSE1oZS1RUGlpekJJNmZxaDBWMUVta2xsc3BYMVY1aG1XQVA4RUxacDhpWTQ1TDNuWmZQTTZUd3p1X1ZHVGU2VlFMOGI2ZnB2LUJNMXZTOEptUkptZmZjdG4wX1hWcXo2VFkxZjRRR0hYOTNrNFpFTHNsYU1FQWxqUEI1a2JoZXVob2o2anpIQVVvaE5WMnFXQXFNQlV6VUVfTGNVMS1kQUdqVg?oc=5",
       "timestamp": "2026-02-12T04:19:12.717Z"
     },
     {
-      "id": 18,
+      "id": 15,
       "text": "BREAKING: UK DEFENCE MINISTER signals urgent national conflict preparedness plan amid rising geopolitical tensions - potential NATO readiness review underway (UK Defence Journal)",
       "source": "Google Urgent Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPME5qR0Q0MTVLcEhVN3hBR1pmeVVKY0hhVU0tTjQ5b3NhclNVUWttR01YYmRfYkFrd1Z4eDRlRVNieXRTaUdWZzhWUWREREgtVEp1MHBfWWt2Y0M2VDhzd2lqVEdmdGdySlZVZ0pjR1A2eWVidzlqV0tlekdkOFVRSThlYTFvYVV4T1lBTlpn?oc=5",
       "timestamp": "2026-02-12T04:08:53.259Z"
     },
     {
-      "id": 17,
+      "id": 14,
       "text": "UN warns GAZA humanitarian crisis deepens: Storm causes severe flooding, displacement of refugees in overcrowded camps - critical infrastructure damage reported (Anadolu)",
       "source": "Google Humanitarian Crisis",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWxuMlE4NG9JbG45VDBmQmJuWE04d0FlYkFvX1phd0o4bzJZQllyVXVjQ1JVZ3ltcjg1ZTZvWk9nM1UySlc1R24tZ2NrRk5YYzczZTBFUW5Vc1pDLWZkekRsMzFMbU1zeEtZbWlKeFhjcERxTVlMUGVxeVRtbkVNUS1YYTZobzNUWHVDdjJWMzlBNGwzSFM4T21jRlg4V0dBbDd1TFV6cw?oc=5",
       "timestamp": "2026-02-12T04:07:50.006Z"
     },
     {
-      "id": 16,
+      "id": 13,
       "text": "UN warns STORM DANIEL causing catastrophic conditions in GAZA — humanitarian infrastructure near total collapse, potential mass displacement risk for 1.4M civilians (Anadolu Ajansı)\n\nRationale: High severity due to compounding humanitarian emergency in active conflict zone, ...",
       "source": "Google Humanitarian Crisis",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWxuMlE4NG9JbG45VDBmQmJuWE04d0FlYkFvX1phd0o4bzJZQllyVXVjQ1JVZ3ltcjg1ZTZvWk9nM1UySlc1R24tZ2NrRk5YYzczZTBFUW5Vc1pDLWZkekRsMzFMbU1zeEtZbWlKeFhjcERxTVlMUGVxeVRtbkVNUS1YYTZobzNUWHVDdjJWMzlBNGwzSFM4T21jRlg4V0dBbDd1TFV6cw?oc=5",
       "timestamp": "2026-02-12T04:07:52.027Z"
     },
     {
-      "id": 15,
+      "id": 12,
       "text": "GAZA humanitarian crisis intensifies: 80% population displaced, critical aid blockage continues despite temporary ceasefire — UN reports severe food/water/medical supply shortages (Al Jazeera)",
       "source": "Google Humanitarian Crisis",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOei1qeXhJOWl1LUxEUFdkb081ME1wY0d6Mjc5U2pqNVQ4MDg1eGNlZzJFa0ItMlc4MEpXeWdDTF9VM0xjM2VYcXYzeE51NTViYlUwdFkxNk1nbXdBaFBuVFFfMzJmUXhNMjBwTXpuS3NuVk41dGdDa0VGWFgxa0R4aWZweFVNWEV4YVlKTjRWWWRxUGdNTVdycDJSNThxYzlad0d6ZHgyMDFUbXp3NllQazRscDA2cXV1aFdYZzd4b29EQdIBxwFBVV95cUxNZjZSSGpYWDdvOGRWSER5eE56a2VFVzMyR2FfaHBENG83dHR2UW1oc21JZVREc3pKYkhVenIwYThsZ3hWNUFaRmJtVnpUN2w2SlBrVnVxYUdQTmYwM2djZmd5b2tZd3o1WEFQTk4wd3JQdHdaVGxjaHBrZlJOY2FjZjFFSVRadXJpRFp6N09RQ21mZzNQMGZwR0Npb1dwUUZyM2VRbU9GMklUelRDRUM4OHY3Qng4UG9KV2FsNjQ3eFlMdElrQTlF?oc=5",
       "timestamp": "2026-02-12T04:07:39.829Z"
     },
     {
-      "id": 14,
+      "id": 11,
       "text": "UN declares SUDAN civil war creating MAJOR humanitarian catastrophe - conflict between SUDAN ARMY and RSF paramilitary forces causing widespread civilian displacement, potential regional destabilization (UN Report)",
       "source": "Google Humanitarian Crisis",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcnZNck5GQ25ra2ttbzJMT2NUYUFGTXFJUGdldGJzZFFxcEM1YkF1RWRFRHhzZTNBSXlRdDlEU2hvVUJxTGtUXzZwa1BSdnFQRGhLU0ZSOUdJOVc1eVZidGQ0VF9QR3NhMzdkdWg0MkJ3c0t3OUJzWFo4VEdVb0hZLXhicVhfbTVGZ3ZTdlZweUpZaXBDNmdOOWgyb0hNdVd6MUdlRDRYSVNDak92ajFXaWVMa1pRTXM1VVF3LWNoc01GQjVIMllfRDdod0FqMHdxemo2MTVoS05qZGdrN1VyeQ?oc=5",
       "timestamp": "2026-02-12T04:07:31.517Z"
     },
     {
-      "id": 13,
+      "id": 10,
       "text": "RUSSIA launches major airstrike on UKRAINE capital - 4 killed, 70+ wounded in Kyiv attack; largest strike on city in weeks (Anadolu Ajansı)",
       "source": "Google BREAKING",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZk5hdWxEM2hpNWw4TXYwT21YNERvUnhhVnRHX2ZwdEg5TmtzRlZOTnJpU2JYRlRBV0hsVjBMdEgwYVBSdFdxN29KQWJfU3B2NUJZZExkT1RzeGY1c21fNThWX2g5R1Q4cm5VZnhhcUdvZklOS2FpNUlvdWFZRXA0QkRacTJhdS0wbUVWOS1Jc2wzcEVaaEhRYXo2UEdDN3ZlQnM1OG5wcXJvbTVtSHIyTU5JeUNYY1hHWkxuYWtOSjhNN3lJdFVYRWtGMVFEOG44eXJNVjRDUUFMV0gz?oc=5",
       "timestamp": "2026-02-12T04:07:22.292Z"
     },
     {
-      "id": 12,
+      "id": 9,
       "text": "ISRAEL conducts direct military strike inside IRAN — first confirmed direct attack on Iranian territory, significant escalation of regional tensions. TEHRAN warns of imminent retaliation. Potential for broader Middle East conflict emerging (NPR)",
       "source": "Google BREAKING",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU095MFdYZmNseVBzcWUyeDNlNk9JZmNkUzNpNXhjNWx4YWxGd0pfS19RYk9Na2xBVXhKVzhwdHp6WTFtMkQ3eURmZTJZZzlQZndkamg4elJjcGF2SU10aGRGY1ZIMlVPdEpmczdpLTkxVnpZaUk0c1NTY3h4cW9QTWdoQno5Q0VfdW5hQmdNX3JZZGVUTFE?oc=5",
       "timestamp": "2026-02-12T04:05:18.319Z"
     },
     {
-      "id": 11,
+      "id": 8,
       "text": "ISRAEL conducts direct strike on IRAN military facility - first confirmed direct attack on IRANIAN territory, heightened regional tensions expected. TEHRAN warns of imminent response (NPR)",
       "source": "Google BREAKING",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU095MFdYZmNseVBzcWUyeDNlNk9JZmNkUzNpNXhjNWx4YWxGd0pfS19RYk9Na2xBVXhKVzhwdHp6WTFtMkQ3eURmZTJZZzlQZndkamg4elJjcGF2SU10aGRGY1ZIMlVPdEpmczdpLTkxVnpZaUk0c1NTY3h4cW9QTWdoQno5Q0VfdW5hQmdNX3JZZGVUTFE?oc=5",
       "timestamp": "2026-02-12T04:05:14.418Z"
     },
     {
-      "id": 10,
+      "id": 7,
       "text": "PENTAGON demands missile manufacturers increase production 4x to prepare for potential CHINA conflict - urgent industrial mobilization signals rising military preparedness (Reuters)",
       "source": "Google Supply Chain Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZllrdzlhRTNaRmlLQ09VUjg5QW5nczRQaHJxV3M1T1ZNVHNTZDdjMHAtcDNEQWtjdERCcmZzM2hwZDZLbHlGdmI5V29wTERtdHpDd1lycXNkTUNvaGVsSFhKT0pRZjVJX3djTzRlZEc1eTJjbTNqdW9CUEdtLW5hUnZnNWVaeko5blZFeUJMRWVxZTZ0c01YU1BFUE9qSVJaUnBXaERLR0xMbWk4bzRsdWNKUllRRDhlU3NNQm9ZU0c?oc=5",
       "timestamp": "2026-02-12T04:05:06.422Z"
     },
     {
-      "id": 9,
+      "id": 6,
       "text": "CROATIA conducts PUMA 19 military exercise near Slunj - NATO-aligned ground troops training in western Croatia (Xinhua)",
       "source": "Xinhua Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0TzJmeDhhbUkyWC0zeWVSX3J0aC1Nd2FhRHIzb084djVJTDA5bGVWOHJTbDkwNmtiSkhxT1hrVWd5MGhqbFg0cVVMMkdWQjdXRWwzMkZiNGlmUHo4R3JQbVp0cU9oT2hKS0tVTE5n?oc=5",
       "timestamp": "2026-02-12T04:02:25.252Z"
     },
     {
-      "id": 8,
+      "id": 5,
       "text": "BREAKING: US VETOES UN Security Council resolution demanding immediate GAZA ceasefire - 13 members vote in favor, US stands alone against proposed humanitarian pause (UN News)",
       "source": "UN Security Council",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85M1Y2RDdrTFRNaTVJM3FDWEhKb1R1OUdBWXVyLTAxU1hpQVhFRDBSdlZpN1lxWUdFS1A1RGZMUmlfdjl0dUp4S3lpUWlzR1FDd0FMd0tXRQ?oc=5",
       "timestamp": "2026-02-12T03:57:19.591Z"
     },
     {
-      "id": 7,
+      "id": 4,
       "text": "BREAKING: UN SECURITY COUNCIL resolution for GAZA ceasefire blocked by US veto - 13 members voted in favor, US alone in opposition (UN News)",
       "source": "UN Security Council",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85M1Y2RDdrTFRNaTVJM3FDWEhKb1R1OUdBWXVyLTAxU1hpQVhFRDBSdlZpN1lxWUdFS1A1RGZMUmlfdjl0dUp4S3lpUWlzR1FDd0FMd0tXRQ?oc=5",
       "timestamp": "2026-02-12T03:57:16.969Z"
     },
     {
-      "id": 6,
+      "id": 3,
       "text": "SUDAN: 3 children killed in drone strike on mosque in central region - reportedly by RAPID SUPPORT FORCES during ongoing conflict (Al Jazeera)",
       "source": "Al Jazeera",
       "sourceUrl": "https://www.aljazeera.com/news/2026/2/12/three-children-killed-in-drone-strike-on-mosque-in-central-sudan-doctors?traffic_source=rss",
       "timestamp": "2026-02-12T03:55:24.824Z"
     },
     {
-      "id": 5,
+      "id": 2,
       "text": "UKRAINE conflict continues: Humanitarian crisis persists with ongoing civilian casualties, displacement reported in eastern regions - R2P monitoring situation (UN)",
       "source": "Google Humanitarian Crisis",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sLWs0ZFJySnpVRDBveEdJQXU2XzdFWXdGZWFlLWxpVC1SWWd3d05OOUEwejVSM04ta0JvQkQ2ODB0Z29Na1k3cTJYU3JPRnpGMWpia3k4aw?oc=5",
       "timestamp": "2026-02-12T03:52:45.790Z"
     },
     {
-      "id": 4,
+      "id": 1,
       "text": "SUDAN conflict: FRANCE warns of escalating humanitarian crisis impacting women - UN reports widespread gender-based violence in ongoing civil war (UN News)",
       "source": "Google Humanitarian Crisis",
       "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Gb1Y2bkpnTnN1MF9Ea0tLS1B1SGI0cjNMZ09SUWJXenZTVVVwWUFhTDhlTzJUanliaVpoOVh4MzZkZHVUUW1LNUpwRVlmX0ZXX05UNjV0NWNhM1Ayd3hTc1RTRU1EUnl0LUlFcEZn?oc=5",
       "timestamp": "2026-02-12T03:52:37.051Z"
     },
     {
-      "id": 3,
+      "id": 0,
       "text": "SPACE FORCE introduces new nomenclature guidelines for weapons/satellite systems - internal branding update signals potential expansion of military space capabilities (Task & Purpose)",
       "source": "Google Space Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNWVfNjgwd2NLZVZiU1NDN0tQeFpNN3hZa1dxNDNlcDJHeUpnMzdfODNkSWhuRGQ4N0h0TFc4YlZuYnpxQXFKdmJ6ejR3OFEtdzhaV1k3QV9hMDhselBoakt2ZkhmVU05dHNJMFhsSVgxa3A4OTE0TVR4eE0ydTVnMw?oc=5",
       "timestamp": "2026-02-12T03:52:29.495Z"
-    },
-    {
-      "id": 2,
-      "text": "ROK-US military leaders conclude C5ISRT summit - enhanced joint operational capabilities for KOREA defense, signals stronger alliance readiness against NORTH KOREA threat (INDOPACOM)",
-      "source": "INDOPACOM",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM0pXb2hvNUYxcWhGeU9OOHhrdmJVT1lvOVQ5eWNzQjV2dGRuZUtYdU5mdnZ0NTJwc1NQSTh3eGRyUlgtWVd4cDhHdjFsaWoya2FPZTMzSmhHM2dNRU5Id3N3dWVLWlNEb1JFbG16QTRHMHBydjhXNnFUME90dTBSV29MTXkzTU5FTnpEQVRjNk5qRnNWdnBzdGQzWjhtMlljTjRHTWE4S2REQkNqdFJLaHZ2VndRVTNTRFpzSDhqVy1xNDh6bG5SWnMwOXp2QVNxZk91bXhIWkZnZk55Qkx6QQ?oc=5",
-      "timestamp": "2026-02-12T03:51:13.400Z"
-    },
-    {
-      "id": 1,
-      "text": "USMC deploys first dedicated cyber unit to INDO-PACOM theater - signals heightened digital warfare readiness against CHINA regional threats (INDOPACOM)",
-      "source": "INDOPACOM",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdUtBVVlyeGM3QS12RTlwYXlOQm9aanhTZS1seko3YTRPdTFFeG5TYy1YNWZmc1A0STZGV2JtVXQ3V3NPNXRqcVpDZHh1RHJ1WXg3MzNnUnhZdjZOcldpWWQwbjF6Z2MzUTlMRldlRjN5WUxCVEdlVXRLSEk3LUs3cjhTalhKSG5wZHFPVC1fcHJJejZ2cUNDOVJRMjF5MDhmU2lTTkV3NEgyZnAzVkpCSlpIcnlubHdrM09iVHdWVVllT3lKVHNfRXB4SDU1WnB4TFBkODVLQjZjOGRNQ2c?oc=5",
-      "timestamp": "2026-02-12T03:51:02.245Z"
-    },
-    {
-      "id": 0,
-      "text": "US, SOUTH KOREA military leaders hold C5ISRT summit to enhance joint operational capabilities, strategic integration for potential regional conflicts - focus on NORTH KOREA, CHINA threats (INDOPACOM)",
-      "source": "INDOPACOM",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM0pXb2hvNUYxcWhGeU9OOHhrdmJVT1lvOVQ5eWNzQjV2dGRuZUtYdU5mdnZ0NTJwc1NQSTh3eGRyUlgtWVd4cDhHdjFsaWoya2FPZTMzSmhHM2dNRU5Id3N3dWVLWlNEb1JFbG16QTRHMHBydjhXNnFUME90dTBSV29MTXkzTU5FTnpEQVRjNk5qRnNWdnBzdGQzWjhtMlljTjRHTWE4S2REQkNqdFJLaHZ2VndRVTNTRFpzSDhqVy1xNDh6bG5SWnMwOXp2QVNxZk91bXhIWkZnZk55Qkx6QQ?oc=5",
-      "timestamp": "2026-02-12T03:50:53.602Z"
     }
   ]
 }
