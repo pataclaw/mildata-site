@@ -607,14 +607,23 @@ function drawGlobe(t) {
       }
     }
 
-    // Label
+    // Label — flip side based on ping position relative to globe center
     if (showLabel && s.z > R * 0.2) {
-      gCtx.font = `${pri === 'critical' ? labelSize + 1 : labelSize}px JetBrains Mono, monospace`;
+      const fSize = pri === 'critical' ? labelSize + 1 : labelSize;
+      gCtx.font = `${fSize}px JetBrains Mono, monospace`;
       const labelAlpha = Math.min(1, s.z / R) * dotAlpha;
       gCtx.fillStyle = pri === 'critical'
         ? `rgba(255,60,60,${labelAlpha})`
         : `rgba(255,80,80,${labelAlpha * 0.8})`;
-      gCtx.fillText(ev.label, s.x + labelOff, s.y - labelOff * 0.6);
+      const onLeft = s.x < cx;
+      if (onLeft) {
+        gCtx.textAlign = 'right';
+        gCtx.fillText(ev.label, s.x - labelOff, s.y - labelOff * 0.6);
+      } else {
+        gCtx.textAlign = 'left';
+        gCtx.fillText(ev.label, s.x + labelOff, s.y - labelOff * 0.6);
+      }
+      gCtx.textAlign = 'left'; // reset
     }
   }
 }
