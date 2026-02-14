@@ -1,217 +1,217 @@
 {
   "feed": "mildata",
-  "updated": "2026-02-14T01:04:25.850Z",
+  "updated": "2026-02-14T01:09:25.858Z",
   "count": 30,
   "items": [
     {
       "id": 29,
+      "text": "SUDAN conflict enters critical phase: 80% population now requires humanitarian aid, UN warns of potential widespread famine - massive displacement, 9M+ people forced from homes since conflict began in APRIL 2023 (UN OCHA)",
+      "source": "Google Humanitarian Crisis",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tQnR5SEl3d2MwV1VxNFhpTmJUV3RoQ3lEVXZWeVR4UUhWcVo4a2NWYnFFeklWLUZXWVdva0E4WEtoNklGMl9ldXZUeTlfcFVZLWRRajMxU0QxV1RzdkhjZjFaVlU0TlUxY01lb3dxYlZLOWpTUERmTVRXeE8yc3M?oc=5",
+      "timestamp": "2026-02-14T01:06:02.003Z"
+    },
+    {
+      "id": 28,
+      "text": "INDIA finalizes $40B arms procurement deal: 114 RAFALE fighter jets from FRANCE, largest single combat aircraft purchase in recent military procurement history (Defense Express)",
+      "source": "Google Arms Trade",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbmNodUxnc1pOYzdOYUNPT1NEc2Vyd2JoZC1qV0doV2pUVllfeXk3aDY5Znl1NnlZSFcwdjVET0dFN0J3eE5PQTF4aEw4TF9RM0tORXJMcHpocTdEYWdJVVR0b2dHd1NxTGRXdGNXZkdJYW83VFBBWHNMdFBUYjNKQWNnWVNxTjhlQUZjNWk5Uy1jMVNXdTBmSm53RlZSdTZEdl9Ha1VOT2F0U0tGT0JJaG90a1JJT2VWYW1ERThEcXdUeUtLSTh3LUNPUQ?oc=5",
+      "timestamp": "2026-02-14T01:05:53.745Z"
+    },
+    {
+      "id": 27,
       "text": "FORTEM Technologies awarded multimillion-dollar contract to provide counter-drone security for 2026 FIFA WORLD CUP venues across UNITED STATES, MEXICO, CANADA — protecting stadiums from potential aerial threats (Santa Maria Times)",
       "source": "Google Drone Threats",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPbkZBUWgzWURvWnBST21XR2UzcUFjQ3VOa0xHM25nb3ZWa3FsM1RmZGZscUdLODlSenF3RzJYTGkwZUNIRjM5aHppdmxXZzdvMVk2WWFiVXlCVkxVNWlic2llMTI2WkJCRkwwLVRKenV2czFaWmJ5WWI2bHI3dEJNRXJRc09jZ2dsbzZwT01nVFNON01Beno3b3M2ZzJMVXhQWE1hVV95WFl4bXJvdndWTDVPX2p3eVJKd29Xb29CUS12a0dRenRCWEhqQW52TGR3ZWNrRzVCWmcyVTFYRUJWVXVHd0tXVlBGRjhzQ0ZwdkNwOURzbDh0d1FXVWI5dkJJOFYweFMtb3hfQlJLSjI0TFkyU1hPUQ?oc=5",
       "timestamp": "2026-02-12T12:23:11.980Z"
     },
     {
-      "id": 28,
+      "id": 26,
       "text": "TRUMP administration considered advanced F-35 fighter jet sale to SAUDI ARABIA — potential regional balance of power shift raises ISRAEL security concerns (Jerusalem Post)",
       "source": "Google Arms Trade",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIN01YNk1nVHoyTEFCN1Vla3ZXT2VHTl9qWFYzV3FNaUh3TXB0XzA5RTZEOXFWS011SkVlVEcyQmpRamhzd2FzanMtcDYxMDJmUDRRZjMzVVRwaDJh?oc=5",
       "timestamp": "2026-02-12T12:23:03.865Z"
     },
     {
-      "id": 27,
+      "id": 25,
       "text": "RUSSIA economy: Finance Minister RESHETNIKOV expects inflation to slow to near 4% target, current annual rate at 6.4% (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/economy/2085867",
       "timestamp": "2026-02-12T12:22:31.648Z"
     },
     {
-      "id": 26,
+      "id": 24,
       "text": "RUSSIA-UKRAINE TALKS: Senior diplomat RYABKOV says Abu Dhabi remains preferred venue for next peace negotiations, dates still under discussion (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/politics/2085865",
       "timestamp": "2026-02-12T12:22:24.048Z"
     },
     {
-      "id": 25,
+      "id": 23,
       "text": "RUSSIA's HIGH-PRECISION SYSTEMS displays weapons at SAUDI defense expo in RIYADH: Thousands view military tech at World Defense Show (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/defense/2085861",
       "timestamp": "2026-02-12T12:19:46.442Z"
     },
     {
-      "id": 24,
+      "id": 22,
       "text": "RUSSIA warns potential US military intervention in IRAN now \"entirely possible\" - Senior diplomat RYABKOV signals heightened regional tensions (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/politics/2085863",
       "timestamp": "2026-02-12T12:19:39.723Z"
     },
     {
-      "id": 23,
+      "id": 21,
       "text": "LOCKHEED MARTIN secures new defense contract with US PENTAGON - profit-sharing agreement boosts investor confidence in defense sector (Reuters)",
       "source": "Google Arms Trade",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVmFpNnZOSzY5MHNTTVUzdjc2TTJKcnBjUkZMajFuNXhwUE1IbkJJTTlTUExxWTJ2RGtDS1g4VkRTV1FVdmRqU2Z3RXlIVWNFVDQwX0tHbWZaM0I2cGZ5X084SjZJMFJ0aWsxUHUyS3VJcDJlc2ZXMVRpR19XSktldE5nTWVVY0ZmejlnRzNTbFRJS0ZmTDZCY2ZGeGZpeXpBRVk0YVZPY0tpUmRhbTl4SGtkbm9zZ3h3VlNDRHFwSEtEamM4cmhSMkZoNzJzXzhrcVltcU1TSQ?oc=5",
       "timestamp": "2026-02-12T12:13:36.219Z"
     },
     {
-      "id": 22,
+      "id": 20,
       "text": "BARBADOS: PM MIA MOTTLEY wins landslide election, BARBADOS LABOUR PARTY secures all 30 parliamentary seats in historic victory (Guardian)",
       "source": "Guardian World",
       "sourceUrl": "https://www.theguardian.com/world/2026/feb/12/barbados-mia-mottley-power-third-election-victory",
       "timestamp": "2026-02-12T12:12:34.438Z"
     },
     {
-      "id": 21,
+      "id": 19,
       "text": "HUNGARY warns EU sanctions against RUSSIA's ROSATOM could halt Paks nuclear plant expansion project - SZIJJARTO warns of potential energy disruption (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/economy/2085859",
       "timestamp": "2026-02-12T12:12:28.057Z"
     },
     {
-      "id": 20,
+      "id": 18,
       "text": "SUDAN: Boat sinks on NILE RIVER - 21 confirmed dead, multiple children among victims; rescue operations ongoing (BBC)",
       "source": "BBC World",
       "sourceUrl": "https://www.bbc.com/news/articles/cp851zp41m5o?at_medium=RSS&at_campaign=rss",
       "timestamp": "2026-02-12T12:12:19.769Z"
     },
     {
-      "id": 19,
+      "id": 17,
       "text": "UKRAINE exhausts US-supplied ATACMS long-range missiles after extensive use against RUSSIAN targets in occupied territories; no immediate resupply confirmed (Defense Post)",
       "source": "Google Military Assets",
       "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvQW1ja2YxN3lIRDJZVUNQbkJQaDBUWDVqQ2RIOHpBMkhCbVh5T2ZfYWlCQ0tVVUJvR0xURU8tYTdjYkpRRVBBajU3a3lGeHB4b3dMaWE5RWlYOTdLZkFXVFB6ZjF5Rmk3QUxmaNIBckFVX3lxTE9xTmVmXzhYRkhuTG93T09kbkRIZ1dLSzUxYVpoUTBvckxVeHVJTFpjTzRPY2lneWRLM1kyS2dleFlUTEljSnB2OXR3WTBsYzVJbUl1UG9tRHFBOEY5Tl9qUlJXMGRiZ0k0Nmw4Mkx4T0FQdw?oc=5",
       "timestamp": "2026-02-12T12:09:44.943Z"
     },
     {
-      "id": 18,
+      "id": 16,
       "text": "CHINA: XI highlights PLA Cyberspace Force deployment in SOUTH CHINA SEA - signals expanded digital warfare capabilities in contested maritime region (SCMP)",
       "source": "Google Indo-Pacific",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVnluaGRzTHpENDFRVDAzWWVMQXNTWnBudjBfRHpkeUowNFdHbzZkUlRBNFBPT2taYWFydzl5T19qelJ5aEpMTUY4dGE2b0pMQk91UERFbzd1aF9YbnUyZ2hCckhSaHV0Z0k3ZU85R0xlMEo4V2RuZGdHRTdyLUdaYVBJck95MnlreVhBX05IeGNDWTg1Y2FRRU1WQ01tWnE3cDhQYTZkX0s5QXJJR3FnTWFfV01wMDk4dVNGcTJ6c2Ftc0FNZEJTa2dlZUlRVDhwTkt3ZXM3ZXJQQWJUX2paNzNuLWFmNE5IQVlrTVp0NkljUWhuQ1VyZHpn?oc=5",
       "timestamp": "2026-02-12T12:07:04.189Z"
     },
     {
-      "id": 17,
+      "id": 15,
       "text": "INDOPACOM reports growing defense partnership interest across Asia-Pacific region: DSCA signals expanded military cooperation, potential new security agreements (pacom.mil)",
       "source": "INDOPACOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOWtLUlZuOFl1Z29aNmNBUjF1WnQ4ZUs3bnpBakUxa2NzNlBacDdEOTdRNmFGU3ZRbWFOMXVUOFIzbnpRMG92SW9RMW5UdGw3eTdBY2NnWGRQQm5SMURxVC1iaHFyWlVlUTFOek5DQVFaZ3poVWFjWk8wZmtqcEJyU0J4UExWYkJ2eHVvYjZydno2c25rcXhPLUZDbDIyaWg5OTE2U0JzUHFEOG1XcEw5clJBUFF0akx1d1hzNXNBYV9fcGsyNGZraHpJYktPRG52VEVFc3huOU0?oc=5",
       "timestamp": "2026-02-12T12:06:01.161Z"
     },
     {
-      "id": 16,
+      "id": 14,
       "text": "UKRAINE: 124 combat engagements reported along front lines - intense fighting continues in eastern & southern sectors, no major territorial changes noted (Ukrinform)",
       "source": "Ukrinform",
       "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV01ZbjNCZUFXLWp4eHpJOG9zOGF6VWxTYzkxSHZXSldZalFvaFZOY2x5d2wxbnRpTjk1NHFwQnczN044Vy1MOE83MGZ6MjgzM1VEeGVMblZEeTlwMnlIaC0xdENIRTBmMW9yLWlDQnlEbW0tdzM5bTNsaXM3SjF2aDlDV094QVJmYXlidUxZMNIBlAFBVV95cUxQWm5fNmxyRXpWc1NlQVZQWHV5eUtfWHdFb0I4bm9pTlYxay1VREpwMkNNNDNUSmdrWll5LUNRN01sTUduTmlLWU15U3VoU1VycVEwOWE4TEEwaGc0LTY0S3RCVHpGV1p3WDdHS2dLMG1DTzc4SExKM1N4Tm43LUFlTFEycEVhZlBzTU1nUjB4T1RoaXBD?oc=5",
       "timestamp": "2026-02-12T12:04:10.693Z"
     },
     {
-      "id": 15,
+      "id": 13,
       "text": "KREMLIN claims two distinct European camps emerging on RUSSIA relations: one maintaining prior engagement approach, other signaling shift in diplomatic stance (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/politics/2085857",
       "timestamp": "2026-02-12T12:04:03.071Z"
     },
     {
-      "id": 14,
+      "id": 12,
       "text": "FORTEM Technologies wins multimillion-dollar contract to provide counter-drone security for 2026 FIFA WORLD CUP across CANADA, MEXICO, USA venues (Business Wire)",
       "source": "Google Drone Threats",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdGF0eHVua3FPcHBfUkVDQW4wblppVlBrUDV2QjdZVHZ1WWo5cG92YTh4MElUSFp6X2ZUeS0yQU9IQTN0VHl4OTJEN3ZsSlhXLV9sRmVmUTRxU2I2dGxWaWxsS2RaZlBwdm85VHE5RGJZY3UwNzhxWHlQd294WnViaFdsWUJOZXFlVERkdHlhX2lkVTVUZ1psd1hhd3dfb1BpTmc4b1VLTEhybVlGbEtoLXgzd0l1M0ctM01Eb0hKMXBIMTN4eUdfLWVJVjhKcy0zZTFpQndIdGhrdGktc0VZNTV6Y1VjRnRROVE?oc=5",
       "timestamp": "2026-02-12T12:03:55.190Z"
     },
     {
-      "id": 13,
+      "id": 11,
       "text": "SUDAN: Mass civilian displacement continues as conflict expands eastward - 1000s fleeing amid worsening humanitarian crisis, famine risk escalating in multiple regions (Al Jazeera)",
       "source": "Google Humanitarian Crisis",
       "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2VLNXFlVlFqTDlocVo0UVY3MEhiRVRSOEthbGVvazBhQXM5WjA4Z29aWnNfTV9jbkpyUDRVWXM4Ulc1S2dPc1EtdVdROGluVWtQOEw5eGRiVHJid2VUTWFielJsQ3E2UlEwU1hSZVVoZmd6SXZvV1cxRUdVZVZzd3BMdWxXRkY2RWxyMG93ZWhObXdPbXR2bHpOY9IBoAFBVV95cUxPWGxSaURlY2tUdGp5allmZXR6Ny0xMHB2YlBwU1dYeERaXzM4UXZkZTh2SUExY01OcDNTRC1RcmJjbW82dWl6TDJfbV95S19MeTdtUmlvWW9xeDRKTDF1SUhjLThkUDFxMnA2MWN3WlEtR3BUTkJ2MnBsUUNqbURGUGdiSVBYMW50M29oTlVpankwb01mOF9qMHJjOUFrVUhN?oc=5",
       "timestamp": "2026-02-12T12:01:17.242Z"
     },
     {
-      "id": 12,
+      "id": 10,
       "text": "ANTHROPIC warns AI could enable CHEMICAL WEAPONS development - experts flag potential misuse of advanced AI technologies in grave crime preparation (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/world/2085853",
       "timestamp": "2026-02-12T11:59:26.227Z"
     },
     {
-      "id": 11,
+      "id": 9,
       "text": "PENTAGON confirms INDO-PACIFIC as primary strategic focus: CHINA named top military challenge, signals major geopolitical/defense realignment in U.S. military posture (INDOPACOM)",
       "source": "INDOPACOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeFNObWZjRnh3SDJ4eV94RGNfX1dVamxrSEJTRFFnNDduRWF0aWxfVTZjN0JUNnVXdE95TjJUcmdjaTZMTGhkYnZoMkJIVndjYnJnazFQdFhoWkRYaWR4elpQZFkxUnk5NWJZM2NFQUZGTFlFVFlHY1hnU2tudW1yTVE2dnpTZWRyQWRrZ245Q0NoV21VX0ZvZWl1SWo1QnRiUjBUeVp0Z25RNkRBZGNNVWtDdmlRQVo0b0RsWnFuZlhDSU9obzMwcjJkQkdzRGtQdG4wVnlrRGRGVWkzaTRqQQ?oc=5",
       "timestamp": "2026-02-12T11:58:29.218Z"
     },
     {
-      "id": 10,
+      "id": 8,
       "text": "PACIFIC IAMD Center hosts joint military simulation with JAPAN AIR SELF DEFENSE FORCE — regional missile defense cooperation in focus (INDOPACOM)",
       "source": "INDOPACOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb2hfVUhrV09LOU5SeE5wenJVaHhkREdwVkZVbTRoSjV5N0VoUmdPZzFPNkdxQXdMbWJrdzF2TjhCSFplODNwS1FzdmpaVUw5WVBLYnZRN05DT3JtSnBhY2Utdi1COW9NLVVlT2ZGc1FBbVJhVFVUX2o3VE1zSUNBVE9PSm5LQWdSSC04Mkp0R2xhZEZNWTVUQTlQWVdRVG51MlV0MzRHV0VUMVFCSWJyV2VZNmJHXzc4cXVZbko5N3JTemlScGpERWtiY2hiRXQwUkxEMHJzLW5OQnBQc0FuUg?oc=5",
       "timestamp": "2026-02-12T11:58:20.598Z"
     },
     {
-      "id": 9,
+      "id": 7,
       "text": "INDOPACOM hosts military health conference in PACIFIC - 12 nations discuss medical interoperability, joint disaster response capabilities (PACOM)",
       "source": "INDOPACOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeXV3ZXlvTW9nNm9WR2RnOXZZb0pjZGhGaXNwbFlqQ3NaY2JqNllVX1RIQVlNYjFEcjNyZmJaek5uNFhfWWtnVGgzdWI5T3hnWlNwZTJGeFZ5aXRQdGstbUZfOGp2aDFoVFJMdkowRVYzNHFNaldkbmhoMlBrcFJmTkpPcWxGY3FOMzNVREhhVktsYnViLUdNREk2aDF2NnkzQ01scWRiQ0xCeHg2NVNJZFBHNU1DTktWcERvbDZVME9FQWJlRjFmOFdGS2VYT1hIb0FVUmJzelJEMFNJUnlQemlR?oc=5",
       "timestamp": "2026-02-12T11:58:12.824Z"
     },
     {
-      "id": 8,
+      "id": 6,
       "text": "U.S. PENTAGON confirms INDO-PACIFIC as primary strategic focus - CHINA identified as core military/geopolitical challenge for DOD strategic planning (INDOPACOM)",
       "source": "INDOPACOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeFNObWZjRnh3SDJ4eV94RGNfX1dVamxrSEJTRFFnNDduRWF0aWxfVTZjN0JUNnVXdE95TjJUcmdjaTZMTGhkYnZoMkJIVndjYnJnazFQdFhoWkRYaWR4elpQZFkxUnk5NWJZM2NFQUZGTFlFVFlHY1hnU2tudW1yTVE2dnpTZWRyQWRrZ245Q0NoV21VX0ZvZWl1SWo1QnRiUjBUeVp0Z25RNkRBZGNNVWtDdmlRQVo0b0RsWnFuZlhDSU9obzMwcjJkQkdzRGtQdG4wVnlrRGRGVWkzaTRqQQ?oc=5",
       "timestamp": "2026-02-12T11:58:08.628Z"
     },
     {
-      "id": 7,
+      "id": 5,
       "text": "U.S. 3d MARINE LITTORAL REGIMENT deploys NMESIS coastal defense system to PHILIPPINES for BALIKATAN 25 joint military exercise - first operational deployment of new anti-ship weapon (INDOPACOM)",
       "source": "INDOPACOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU2NMbmZxekRmNjhucmlzSDRkZkVURmJkSGxYdWJKQS1rRU00bEZjVHpUUVY4VjZHbHZ4OE5MZGdmU082MWE5SW8wZ28tU01meFBSQzF1Ui1jVnhwcGJ3ZGE5c1NXZjhaVUQtNWpDUl91RFpTenpTamV1ZVVyMV83clJBVjdoX0lwcU10VkNGa3BYZHFQZ2JKNHdVZV9Cd2tBNDNIdDVqVnlKYlUybEtnUjlUd25pOS1acGg1SzNSLWlxcXlpV2ZvbGlB?oc=5",
       "timestamp": "2026-02-12T11:58:05.500Z"
     },
     {
-      "id": 6,
+      "id": 4,
       "text": "U.S. and FRANCE naval forces conduct joint maritime operations in INDO-PACIFIC - signals strategic cooperation amid regional tensions (INDOPACOM)",
       "source": "INDOPACOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRFVDVkduUmoxamN1WUM1SGhkdU8zRmVPT0p3SFV2UmRyVWFxQWdWY3p4SGpTX3pJTVloSTQwT3hubVA1THA3SHdXXy1PX3g5TUZGQnR0NHhabVZWckpYbE94YzgwUnYzNkpFRlNHaVo3TTZKTWd2VzRKU2VTeTVITVkxVTVEcDA1a1ZqYVFNVE1uRGlnM21UQVlqNDZKMV9mcDlXVmhXd1k0aXpGdzcyT3BaUnQ4NllmUkxrRjJnZ3BkWDAwdngtRnBpVlhuTVBq?oc=5",
       "timestamp": "2026-02-12T11:57:57.094Z"
     },
     {
-      "id": 5,
+      "id": 3,
       "text": "US SPACE FORCE commander emphasizes strategic alliance importance in INDO-PACIFIC: Critical to maintaining regional stability against potential CHINA threats (INDOPACOM)",
       "source": "INDOPACOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdlVwa3AtQVNKYnNpX2pMTE5oVnlyN1lIeW4yYjlBWDBNWlRpdHlBaVQ3dzhVMUJTaTVzZ3R6ZGxacWpJTi0zd1FpcFV4aTRONmUya29FM1F0THItUjVOa3FSVjMydFgwRUcxeWRZQ3pJQmtab2ZnbXdIWnRKVmgxV3lLalUxbm9kbG9qSVE1bFRra1Y5VE5oX1FnbWRrUGlQOVc2dkx3eW5TU3UwWXBxaDRPblRhTTdFVEVkVzlhcWdGbWFzU1lFR0lSRmpwVUlxYnE3azRsWXAwYk9IaUhyUg?oc=5",
       "timestamp": "2026-02-12T11:57:49.263Z"
     },
     {
-      "id": 4,
+      "id": 2,
       "text": "U.S. 3D MARINE LITTORAL REGIMENT deploys NMESIS (Naval Multi-Environment Sensing and Electronic Warfare System) to PHILIPPINES for EXERCISE BALIKATAN 25 - strategic maritime positioning signals enhanced deterrence against CHINA in SOUTH CHINA SEA (INDOPACOM)",
       "source": "INDOPACOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU2NMbmZxekRmNjhucmlzSDRkZkVURmJkSGxYdWJKQS1rRU00bEZjVHpUUVY4VjZHbHZ4OE5MZGdmU082MWE5SW8wZ28tU01meFBSQzF1Ui1jVnhwcGJ3ZGE5c1NXZjhaVUQtNWpDUl91RFpTenpTamV1ZVVyMV83clJBVjdoX0lwcU10VkNGa3BYZHFQZ2JKNHdVZV9Cd2tBNDNIdDVqVnlKYlUybEtnUjlUd25pOS1acGg1SzNSLWlxcXlpV2ZvbGlB?oc=5",
       "timestamp": "2026-02-12T11:57:50.393Z"
     },
     {
-      "id": 3,
+      "id": 1,
       "text": "U.S. INDOPACOM hosts PAPUA NEW GUINEA for bilateral defense talks - signals growing strategic engagement in PACIFIC amid CHINA regional tensions (PACOM)",
       "source": "INDOPACOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZ3JWdU5lbDhQaFJmV2xBQTkzbWNER0JZclEtdGgxZzlCS0dHMmVobHpPUDRmQWdzblVHOS1nNzB0R2pBVHl2d3haMmV4czMyQzI1cWJHc1lpZVh4T3ZuWW5HN2hDQTlxUGZwTE5zelZoNlhMcTRPel9KY0dnZVlrTE1wTXowSlo3RUpKc0Q3YmQtTjJyQWxpcFd4eDZ1N3lBTjNjeWZhSHhZTWtUcmY0WWZ5ZmIyc3BUdkNFOU4xSklNQk5ZZXRWWFhwOHBUUGc0X1cwdW5JUjhYeFNzSlE?oc=5",
       "timestamp": "2026-02-12T11:57:41.189Z"
     },
     {
-      "id": 2,
+      "id": 0,
       "text": "US MILITARY strikes unidentified vessel off VENEZUELA coast - 4 killed in operation, LLOYD AUSTIN confirms direct engagement in maritime interdiction (CNN)",
       "source": "Google Urgent Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNZTcwRlFCYm5TT1dvRzlUMFdPd2IzUjRXYXh6S2JqLUpTdlFRWnc2UlBTTmlCSWJZQ3A3S21pTWFvR25fOXdKNmtZQWZSM2hpT2loSHYzSFZkOVdxSlVsYlQ3bXhYSnZST1FRQXdHRlZuQ0hJdEtaTVRR?oc=5",
       "timestamp": "2026-02-12T11:55:55.506Z"
-    },
-    {
-      "id": 1,
-      "text": "QATAR's UN Ambassador meets UN official on children in armed conflict - diplomatic engagement focused on child protection at UN headquarters (Qatar News Agency)",
-      "source": "Google Conflict",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQVlp5SkRyTlkyei0zUmVfOUxHdkY0SmFEQ1RzN3BHbkFFS2hZTVNkb1R0RFpMODBQZTNVMXhvSjBLY29ySE5KM0Rxby1neF94ellCTm5Fend3NERPQ0V0TVVXYUtUaTN4NlhMT1BJNnNLNERBTHJFR0NYMnpIUnh0aVZJYWp5aXVKU0xXOGo5ZE9WY2RKdlIwU0tyZGdVelVOeW1VdFpreE03ZVYtd3dJU0ZiNjhGakx2R2VIZHBXeUlNZXd0Mkg2Z3A0dG1FSzFPQjRtZDhHNl9peWJVTGxkbWJSQ1NFcVo0d2xjOXd4SjNWQWpZT2xtR0JYSl93UDByN2xKTTBsYWVERUxBakVzWFFWY1dRQQ?oc=5",
-      "timestamp": "2026-02-12T11:55:48.119Z"
-    },
-    {
-      "id": 0,
-      "text": "RUSSIA's KALASHNIKOV reports SKAT-KUB drone tandem generating significant export interest: multiple foreign contract negotiations in progress (TASS)",
-      "source": "TASS",
-      "sourceUrl": "https://tass.com/economy/2085849",
-      "timestamp": "2026-02-12T11:55:41.718Z"
     }
   ]
 }
