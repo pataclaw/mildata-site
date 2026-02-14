@@ -576,10 +576,11 @@ function drawGlobe(t) {
         if (s.z >= R * 0.1) {
           sx = s.x; sy = s.y;
           const ac_ = allianceColor(ac.al); borderColor = `rgba(${ac_[0]},${ac_[1]},${ac_[2]},0.5)`;
-          lines.push(ac.c || ac.i || 'UNKNOWN');
+          lines.push(ac.c || ac.h || 'UNKNOWN');
+          if (ac.t) lines.push(ac.t);
           lines.push(Math.abs(ac.la).toFixed(2) + (ac.la >= 0 ? '\u00B0N' : '\u00B0S') + '  ' + Math.abs(ac.lo).toFixed(2) + (ac.lo >= 0 ? '\u00B0E' : '\u00B0W'));
-          if (ac.alt != null) lines.push('ALT ' + Math.round(ac.alt) + 'm');
-          if (ac.v != null) lines.push('SPD ' + Math.round(ac.v) + 'kn');
+          if (ac.a != null) lines.push('ALT ' + Math.round(ac.a) + 'm');
+          if (ac.s != null) lines.push('SPD ' + Math.round(ac.s) + 'kn');
           if (ac.d != null) lines.push('HDG ' + Math.round(ac.d) + '\u00B0');
           if (ac.al) lines.push(ac.al.toUpperCase());
         }
