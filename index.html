@@ -21,6 +21,10 @@ html,body{height:100%;overflow:hidden}
 body{background:#0b1117;color:#c8d0d8;font-family:'JetBrains Mono','Courier New',monospace;display:flex;flex-direction:column}
 
 #hdr{display:flex;align-items:center;gap:14px;padding:7px 16px;font-size:11px;border-bottom:1px solid rgba(255,255,255,.06);flex-shrink:0;user-select:none;background:#0e151c}
+#hdr .spacer{flex:1}
+#hdr .follow{font-size:9px;font-weight:600;letter-spacing:.5px;color:rgba(255,255,255,.4);text-decoration:none;border:1px solid rgba(255,255,255,.1);padding:3px 10px;border-radius:2px;transition:all .15s;white-space:nowrap}
+#hdr .follow:hover{color:#1d9bf0;border-color:rgba(29,155,240,.4);background:rgba(29,155,240,.06)}
+#hdr .follow svg{width:11px;height:11px;vertical-align:-1px;margin-right:4px;fill:currentColor}
 #hdr .brand{font-weight:700;font-size:13px;letter-spacing:3px;color:#fff}
 #hdr .dot{width:6px;height:6px;border-radius:50%;background:#00ff41;box-shadow:0 0 6px rgba(0,255,65,.4);animation:pulse 2s infinite}
 #hdr .stat{color:rgba(255,255,255,.35);font-size:10px}
@@ -60,6 +64,8 @@ body{background:#0b1117;color:#c8d0d8;font-family:'JetBrains Mono','Courier New'
   <span class="stat"><b id="ship-count">-</b> vessels</span>
   <span class="stat"><b id="wire-count">-</b> wires</span>
   <span id="conn-status" class="stat">connecting...</span>
+  <span class="spacer"></span>
+  <a class="follow" href="https://x.com/milikidata" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>FOLLOW</a>
 </div>
 <div id="globe-wrap">
   <canvas id="globe"></canvas>
