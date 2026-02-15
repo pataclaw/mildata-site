@@ -46,12 +46,14 @@ body{background:#0b1117;color:#c8d0d8;font-family:'JetBrains Mono','Courier New'
 #feed::-webkit-scrollbar-track{background:transparent}
 #feed::-webkit-scrollbar-thumb{background:rgba(255,255,255,.08);border-radius:2px}
 
-.wire{padding:8px 16px;font-size:11px;line-height:1.5;border-bottom:1px solid rgba(255,255,255,.03);transition:background .15s}
-.wire:hover{background:rgba(255,255,255,.02)}
+.wire{padding:8px 16px;font-size:11px;line-height:1.5;border-bottom:1px solid rgba(255,255,255,.03);transition:background .15s;cursor:pointer}
+.wire:hover{background:rgba(255,255,255,.04)}
 .wire .text{color:rgba(255,255,255,.75)}
 .wire .src{color:rgba(255,255,255,.2);font-size:9px;margin-top:3px;display:flex;gap:8px}
 .wire .src .name{color:rgba(100,160,220,.5)}
 .wire .src .time{color:rgba(255,255,255,.15)}
+.wire .src .link{color:rgba(100,160,220,.3);margin-left:auto;transition:color .15s}
+.wire:hover .src .link{color:rgba(100,160,220,.6)}
 .wire.flash{animation:wireFlash .8s}
 @keyframes wireFlash{0%{background:rgba(0,255,65,.06)}100%{background:transparent}}
 </style>
@@ -391,7 +393,7 @@ function renderFeed(flash) {
   const feed = document.getElementById('feed');
   const filtered = activeRegion === 'all' ? wireItems : wireItems.filter(w => w.region === activeRegion);
   document.getElementById('wire-count').textContent = wireItems.length;
-  feed.innerHTML = filtered.map((w, i) => `<div class="wire${flash && i === 0 ? ' flash' : ''}"><span class="text">${esc(w.text || '')}</span><div class="src"><span class="name">${esc(w.source || '')}</span><span class="time">${timeAgo(w.timestamp)}</span></div></div>`).join('');
+  feed.innerHTML = filtered.map((w, i) => `<div class="wire${flash && i === 0 ? ' flash' : ''}"${w.url ? ` onclick="window.open('${esc(w.url)}','_blank')"` : ''}><span class="text">${esc(w.text || '')}</span><div class="src"><span class="name">${esc(w.source || '')}</span><span class="time">${timeAgo(w.timestamp)}</span>${w.url ? '<span class="link">SOURCE ↗</span>' : ''}</div></div>`).join('');
 }
 function esc(s) { return s.replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
 function timeAgo(ts) {
