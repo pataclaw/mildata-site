@@ -1,217 +1,217 @@
 {
   "feed": "mildata",
-  "updated": "2026-02-15T10:59:29.809Z",
+  "updated": "2026-02-15T11:04:29.824Z",
   "count": 30,
   "items": [
     {
       "id": 29,
+      "text": "ISRAEL strikes GAZA tent camp - 11 confirmed killed by Palestinian Red Crescent in northern sector; escalates ongoing conflict amid intense military operations (BBC)",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.com/news/articles/c8r15eyvk2do?at_medium=RSS&at_campaign=rss",
+      "timestamp": "2026-02-15T10:59:43.022Z"
+    },
+    {
+      "id": 28,
       "text": "RUSSIA claims capture of TSVETKOVOYE in UKRAINE's ZAPOROZHYE region - significant tactical advance suggests ongoing offensive operations. RUSSIAN MOD reports substantial UKRAINIAN losses in territorial engagement (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/defense/2086991",
       "timestamp": "2026-02-15T10:29:32.446Z"
     },
     {
-      "id": 28,
+      "id": 27,
       "text": "ISRAEL conducts airstrikes in GAZA - 9 Palestinians killed, including casualties at refugee tent camp; IDF confirms strike targeting HAMAS militants (Reuters)",
       "source": "Google Conflict",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS0RhcHZmeDNkTnZoR2FhN1RUUFpVSzdZaXpoSDJHd1M2c0R5eTNMWUEyYVE2YlVBY3VsZ3hvaVVveG5ZdlRBSUVVbHRwZ0JNRENGZ0ZxTnJxYVYyTTIxclpyekpweEJVY3dFdU0tak5OS2Z0TklHLUxUNDM3LTVJNXl2eURZNXhJT3NnTVVzMmM5OHdWU1p1OVNjenlzQVotZTNLZGFrZmJwY2xWZXFQLUIyTG1iMWcwd2tQenZ4aDVCQdIByAFBVV95cUxOVDhLaU5yZHp0ZnJjdlU5RmZSb3JFUjlrQWZocUpYdXA4WlY4aVJKUlVKNlcxRWVxaWFNSENSUy10TG9SeTlFc3VnenBVZi1DMHQxbWNqNDJHeHdybTFVWE1PQ21xQlVqTllwRGh4d0dfWWtIQjdZakRSWHJGdlMzVm50VmtPRnpkcDhOeW10RjBLQ01BbXFNNTkzX245UGtWUjIzTXBnNGFCazRvSl9IMkVWSGlFSi1YWWZUaDdiU0h4R2gzUzFwdQ?oc=5",
       "timestamp": "2026-02-15T10:17:57.981Z"
     },
     {
-      "id": 27,
+      "id": 26,
       "text": "ISRAEL confirms targeted strike against senior IRGC commanders in DAMASCUS - at least 2 Iranian generals killed, multiple research scientists neutralized in precision operation. Significant escalation in SYRIA shadow war (Time Magazine)",
       "source": "Google Urgent Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZWVWekJ3QTBpVFdEZTNCZlA0cTY0UmtvQ3NleDFlb1phdWxZMV9fenY3MXN3WDctR0tEbC0wVUowdXM3Uzlac3lVVmREc2lzV01rTHFWLXg1NThJQ1NKTHNTQWJ1elg1X1BTeVF4ckNFdjg2NHlMeXp3Z29IUTh2elFTcmx2MDFmTDZyb243RUg?oc=5",
       "timestamp": "2026-02-15T10:14:02.514Z"
     },
     {
-      "id": 26,
+      "id": 25,
       "text": "RUSSIA military chief GERASIMOV confirms BATTLEGROUP SOUTH advancing towards SLAVYANSK - active offensive operations in DONBAS region targeting Ukrainian defensive positions (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/defense/2086987",
       "timestamp": "2026-02-15T09:43:49.284Z"
     },
     {
-      "id": 25,
+      "id": 24,
       "text": "MYANMAR military conducts airstrikes in KARENNI state - targeting civilian resistance areas with significant escalation of regional conflict (The Diplomat)",
       "source": "Google Urgent Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSWRySWhObEhKck1vVlctVGUyZVEzNFdPdnRUUF9FUGwwTVBuYVF2V05LZV9ad2FXdmxGSnNiU3JRa2tBVUR4T0J6Wkotd0tkR1RSckgxUjNoc0R0U29hZ2loMW14R1h6M2U4c2pRMmpuMWpab3pqd2ZybzZOc2ZlSDhZaHRYQzExcGwtQ0tWenRCbWJrSnlCdTFGR0YxRG1JNEptS1JBNUVYbDhN?oc=5",
       "timestamp": "2026-02-15T09:17:29.469Z"
     },
     {
-      "id": 24,
+      "id": 23,
       "text": "NORTH KOREA providing tactical support to RUSSIA in UKRAINE conflict - military drones and electronic warfare capabilities confirmed by Ukrainian intelligence services (Ukrinform)",
       "source": "Ukrinform",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeXo5aEozTnFoZGhGd0xfZFdQY3kzUTRTRnoyeHpNWnc0YUp1TV80YUdtT1ZOaktDdnVWeWstZm4xTTZ4RDNyc0ROeGYxX191eEhxY1NkbmsxTXRqQl9FV3k2VFljUGRGalVTLWNzdnVkbDRvZmMyeG9XMTEtNWp4ajc2UUxkQ1FLREY5bGRPT0NpakkyWV9pTmJVS0VwNU05bzNXNEJGMkEwdnJSSGo0dE1SRHNwd29OT3FvbFFNQXFJbDNlTVR5bDRvVHNZQmMt0gHWAUFVX3lxTE56cTl0N1pCNTZwQVMtNXhwcFdPMHdwaGE4OGdQNlFwZ0hjNVk5UXp1TlZFUTh0RVBQN2JsZE9PYURKeEZuQk9HdFNTSkFpRGw1Q1p0WG5GNDRNNDF6a1NCQk80d3A3bDlPbXJaNW5ZcVFIZ05qMTh2REtwMHVDSUZwVWZmOTA1M2FHQUEtMmtkVGVneGtPeUdyRjZ1SHhJQzdFSmZwNVE4T1JxdDNIQTNUMWlraEwwRE5NUW5PaHhFU21GLU1ObFhpRDkwU00wUzc4eGtVYnc?oc=5",
       "timestamp": "2026-02-15T09:07:36.774Z"
     },
     {
-      "id": 23,
+      "id": 22,
       "text": "IDF conducts precision strike against HEZBOLLAH weapons facilities in LEBANON - multiple rocket launchers destroyed, targeting militant infrastructure near border region (JNS)",
       "source": "Google Middle East",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX0U1U0s4bUcxc2FRRE9ZZTY1RjVkQjFBOXl5TXlJNU1mT3VPRGxXWnFkblo1UUdnOTVVMmVxSktlR3VQTFdibGFyS2d2ekJTY01zcUpBMHFJSVZ1RENPMHQ3LXh5V0RoY0FQUTJVTzhvYXBDc3VvVmNLc0MzV0VyalJxUU1aZEJ2RDhF?oc=5",
       "timestamp": "2026-02-15T08:54:16.446Z"
     },
     {
-      "id": 22,
+      "id": 21,
       "text": "EUROPEAN nations formally accuse RUSSIA of using rare 'dart frog' neurotoxin in NAVALNY assassination — potential diplomatic escalation against KREMLIN over opposition leader's death (Al Jazeera)",
       "source": "Al Jazeera",
       "sourceUrl": "https://www.aljazeera.com/news/2026/2/15/what-is-the-dart-frog-toxin-said-to-be-linked-to-alexey-navalnys-death?traffic_source=rss",
       "timestamp": "2026-02-15T08:44:47.104Z"
     },
     {
-      "id": 21,
+      "id": 20,
       "text": "RUSSIA claims BATTLEGROUP WEST eliminates UKRAINIAN forces east of OSKOL RIVER in ongoing offensive operations — significant territorial advancement reported (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/defense/2086979",
       "timestamp": "2026-02-15T08:39:02.299Z"
     },
     {
-      "id": 20,
+      "id": 19,
       "text": "US transfers 5,700+ ISIL detainees from SYRIA to IRAQ — multi-national group includes fighters from 61 countries, major counterterrorism logistics operation (Al Jazeera)",
       "source": "Al Jazeera",
       "sourceUrl": "https://www.aljazeera.com/news/2026/2/15/us-says-over-5700-suspected-isil-detainees-relocated-from-syria-to-iraq?traffic_source=rss",
       "timestamp": "2026-02-15T08:29:32.298Z"
     },
     {
-      "id": 19,
+      "id": 18,
       "text": "CHINA expanding maritime militia operations in SOUTH CHINA SEA - coordinated civil-military maritime strategy targeting territorial claims, potential grey-zone conflict escalation (Bharat Shakti)",
       "source": "Google Indo-Pacific",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONjBMNy1oUjAySGFoaEkzTkR4NDByR0QzNlFreXh1Qm0xSXduTUN6MzF2ME8tVGFFMTlZQ1g5amVTSDNhc0lhbkkya21ySVpnNU40YmJOMC03aV91MmdiSm5tQXRxdWZkMG0xUVA1UWFfMk43MEFFQ2d4cnkwbkdNNXNMaXJSajh5cVNBSHBHQV80QVM1blBLWU9xMGZZbC1RQnc?oc=5",
       "timestamp": "2026-02-15T08:23:43.941Z"
     },
     {
-      "id": 18,
+      "id": 17,
       "text": "NATO NETHERLANDS PM RUTTE warns alliance members: RUSSIA potentially targeting multiple NATO states after UKRAINE conflict - direct escalation threat signals heightened geopolitical tensions (Reuters)",
       "source": "Google Urgent Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM1p6QlNjb09zQzR3YzktbUpXdmVOckttUEpQcnhJRmVHTGNRSV9SNFRCa0dWcTlhZzgtNTdHUjRGeTNya19IMnRKRFp5UGxiNUdxQ0dnR2RtWlRIekpEcmtPV0Yta21EdU9LQkJGN0I3ZE1xWE9fNXd2WGJZWGFWbDZFMzFldzczckRtTmhfbXBScGRDdkJZellfLV9ZR1NsQkFwRE1vek94WFdZSTM0U1NTd29Wc1U?oc=5",
       "timestamp": "2026-02-15T08:12:17.816Z"
     },
     {
-      "id": 17,
+      "id": 16,
       "text": "RUSSIA claims BATTLEGROUP EAST captures 4 settlements near SLAVYANSK: Staroukrainka, Pridorozhnoye, Zaliznichnoye, Tsvetkovoye — GERASIMOV confirms tactical advance in UKRAINE eastern front (TASS)",
       "source": "TASS",
       "sourceUrl": "https://tass.com/defense/2086973",
       "timestamp": "2026-02-15T08:12:09.318Z"
     },
     {
-      "id": 16,
+      "id": 15,
       "text": "NATO members discuss potential nuclear deterrence strategy after U.S. signals potential reduced security guarantees; European leaders exploring independent nuclear capabilities amid growing geopolitical uncertainty (Japan Times)",
       "source": "Google NATO",
       "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbnY3V2I2QTlFUUZ0OTlXaWhpUlJ0aVRYRjVKanBUMHBkT2puY1h5NllEQ0x1X2VOSE1IZlVRNHM5US10WlRNYlFUU3BUSlpLRnZxZm1SYkpMNW5Sd0loQ3ktYmR1TVNncW1sT1B3NC1VOEluU00zWWxFS1JQd1drVFREbktyRWRXREJrZlBB?oc=5",
       "timestamp": "2026-02-15T08:10:04.073Z"
     },
     {
-      "id": 15,
+      "id": 14,
       "text": "U.S. VETOES UN Security Council resolution demanding unrestricted humanitarian aid to GAZA - 13 members vote in favor, U.S. blocks passage, significant diplomatic escalation in ISRAEL-HAMAS conflict (UN)",
       "source": "UN Security Council",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQUstbmcydnEyOHc1c3R2OXlSV01MQ0tjazJCZTBXSVBscXNpXzBBa283VDVuX2ZpUm1wMmlGWWdSQ3hxY2djZlFCXzVYd1Z6c2tuM21iUEtDVjJlZWk2bWVWVW5UczVhYm9ERjFBY0FvajVmcEJMRHE1TGE0TDlSakd4VmhVcklYY0VIdFBodkFuSkdEWTBGVGUxMFhRXzVhZFJXNW5jV09SVHRP?oc=5",
       "timestamp": "2026-02-15T07:56:21.774Z"
     },
     {
-      "id": 14,
+      "id": 13,
       "text": "FRANCE cancels €3.2B RAFALE fighter jet export deal - unexpected government intervention halts major defense contract. Specific buyer/destination not confirmed (secom.es)",
       "source": "Google Arms Trade",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONVh4NDlDVklsZzZuMHpTaW5wZjctbk5iN1V0NlFLM3JtVzd6cWRwbnVvX055SGpkdnEyamJTc3Y2ZkVzNDktTjV3b1hseGpHTDU3OEtFU2VlSzVoSDhlT1BUQWZ3NXJreDdkdXN1SHA3VG05ZGhxRUpwQXlWeGVCY1FfNklBZklqX0FF?oc=5",
       "timestamp": "2026-02-15T07:50:31.989Z"
     },
     {
-      "id": 13,
+      "id": 12,
       "text": "SOUTH KOREA finalizes land swap agreement with LOTTE Group for THAAD missile defense system deployment in GYEONGBUK province, overcoming local resistance — strategic US-aligned military infrastructure expansion (Xinhua)",
       "source": "Xinhua Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LNTlhM1BJc3NJc3k0MVBtdURvbjNlaFBLOHhSR1QtT2l3SGtMTkI1SnJhUUdzTFh1NGQxNk1lUmFWamFTcEROWGdEYXhick1LUVktQ2VpQkNlM3ZPUzUtc09OVXdzbkJkUzJ6TA?oc=5",
       "timestamp": "2026-02-15T07:40:57.809Z"
     },
     {
-      "id": 12,
+      "id": 11,
       "text": "US depleted ~25% of advanced MISSILE INTERCEPTORS during ISRAEL-IRAN conflict — reveals critical DEFENSE supply vulnerability for potential future scenarios (CNN)",
       "source": "Google Urgent Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeWZDMlpDV3pKQ2RTZElmWGllblFOSmVSeUozUnU4UXM5czBZM3RqWU0tc3A5bVZHRHFCc29HLWpvakRvemlfR2ZTVklselo4SFl4VDNVTlhkZmN5VHBSeW9iZXJHYWdYRXNPR1Zoc0h2SlZLVC1aSE13dmpYMXNUTnlfUjF4VnJ2aUx0ZzVSVTBhWXM?oc=5",
       "timestamp": "2026-02-15T07:31:19.711Z"
     },
     {
-      "id": 11,
+      "id": 10,
       "text": "US MILITARY prepares potential operation against IRAN - massive force buildup in MIDDLE EAST ahead of GENEVA diplomatic talks; multiple carrier strike groups positioned near PERSIAN GULF (Google Middle East)",
       "source": "Google Middle East",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbTh5NFdLQUN3QXVpZUx2NmVBTFRPWllaY1JEWXA3NDdzX1R0SjVHaE9Xa1d1TVBURzJIQUo5WFBkQ1owT0xwa2FPWjU0dEdDRnVkZ0ExV3FudHJQeFBoYmdWOVd4TlNWUmpfSDNrWDV3clE4b3dSOWZGSGVudGlfSmVnMnBFNHdzeHYyckZSdzdoRlRZMjdUREVDTlNhdUxCcEpXcWZQX3ZOVXp1MUxENzRFRnZJSmVENFlFR18xV1FsbHZKdkxFUEUxRDhnMlFlNDl3dGJMWUx6dm9fdy04?oc=5",
       "timestamp": "2026-02-15T07:18:03.713Z"
     },
     {
-      "id": 10,
+      "id": 9,
       "text": "INDIA accelerates military space intelligence capabilities - new satellite reconnaissance program targeting CHINA, PAKISTAN border regions; DEFENSE MINISTRY confirms expanded ISRO/military collaboration (India Today)",
       "source": "Google Space Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY1gxUmw2MjBYOGNQdEZVY2dfN1JBV3VvTnF1MHRSSldySWk5dlFPTWExVFN1UUs0emNCbFBNSkN1dGNGYzlOdUFhSDh3Z1lndVZneDBKOUNmd2lyYTVPRjhaWHN2bWJwVHhYd0RtTk1VNWI5TlY0aVp1UFRTQjE4bHdVOG1SR0F0b25qOTdCRWtkaFIyaUZoclJ4M3VZSVI3ODAyUkdLVTRnMl9PSXN2dEdYZlh4LTA0a21Uemp4b25kLWQ0R05SM1I3eVp0MWtPcFJtbNIB2gFBVV95cUxQNVRVYlNubS1wWl9sM2lNcFVhWVQ5WmItMTZQODZaRGVVeHZjQzdkU1BJa3Z1WFFPbWdUcEpxVzBXdzRQeTBOeTktNUlfSTJ2RURXMmZ6OWdEV2F4YVZvOFlzUE5ZYThqb0lWNXNCRmtkNmFHRzVITW1XWGpOMjVwM2JRVXlBd2JEcENQeFRrMU1IQUFkOGI0R1k2N280TkZScUVnNEFrSVUtT0RtRnRaVkxmLUlGMktkTnJIUnhOWkFESHBabDYtY0VmSDRmdHR3amgyTk9SUjA1QQ?oc=5",
       "timestamp": "2026-02-15T07:08:25.709Z"
     },
     {
-      "id": 9,
+      "id": 8,
       "text": "IRAN signals potential nuclear negotiations flexibility - Foreign Minister tells BBC Tehran open to compromise on nuclear program talks, first substantive diplomatic overture in months (BBC)",
       "source": "Google Middle East",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wLUdFQ0VCR0Jpd0taSTN6NVVkSFAwUmlqclRQWFhTTDNzOUtCRlV4dlFSUjBMSU8xX3loWGdNVEQ5dUN1UHRxZ0VudlZtZFZPTjIzRGdzQTVldw?oc=5",
       "timestamp": "2026-02-15T06:56:48.155Z"
     },
     {
-      "id": 8,
+      "id": 7,
       "text": "RUSSIA warns GERMANY nuclear weapons debate now \"active\" - signals potential escalation in NATO strategic calculations amid ongoing UKRAINE conflict (Reuters)",
       "source": "Google NATO",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT004ZFg1SmhQd19fSm03MTFtRHdUZTlkaDAwTTBna1NjbzV0N2hLUFhzM29pQWRyaExtb1locFhILU93UlJxMzRyYmFiWmFVOW5LUGcxYktjbkRCZFFQOUJXRXc0cG9NTWotbGZsNWhkdkhqOEg5eVZQbV9LT2NRTmZnLThMTWdNMTRxaFIyM2VBNlJqWFJEcFZGbHh3dHY1d08ydm1NcVgtaGdxeTJINDZB?oc=5",
       "timestamp": "2026-02-15T06:56:34.700Z"
     },
     {
-      "id": 7,
+      "id": 6,
       "text": "U.S. NAVY, PHILIPPINES, JAPAN conduct joint maritime exercise in SOUTH CHINA SEA - coordinated naval operations amid regional tensions with CHINA (INDOPACOM)",
       "source": "INDOPACOM",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUGJTdEQzNUNHbjlGb0ZoUF9BMklmVWdsTnYzZXAtbk9Yd1UzZEtyM25aV1A3elh0a0N6LVhuQ3BQclBLbWdITHI1Z3hIc3N3TmlsbWtPRHJDZ0MtaUY0OFhHRElWeWZkX0oyaFNLekpXWE5yS2hSbEdYUXYwS0twTVdjWEI1MFNrMGpPdEM5MmVVNlNRZFpTLXNyLXBfd1ZrMk9rYTRmVk5ENHpRdmRXY3RleFJKQ3RqenFteHNuTF9aS09rdHN5ZlF5aHlQMEQyempfajRrV0xXWW5yUDhoaA?oc=5",
       "timestamp": "2026-02-15T06:39:23.856Z"
     },
     {
-      "id": 6,
+      "id": 5,
       "text": "ISRAEL conducts multiple strikes in GAZA — 9 Palestinians killed since dawn, bringing total post-'ceasefire' death toll to 591; ISRAEL accused of 1,600+ violations (Al Jazeera)",
       "source": "Al Jazeera",
       "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/2/15/live-israel-kills-at-least-nine-palestinians-in-gaza-since-dawn?traffic_source=rss",
       "timestamp": "2026-02-15T06:29:33.491Z"
     },
     {
-      "id": 5,
+      "id": 4,
       "text": "US PENTAGON preparing multi-week military contingency plans against IRAN — potential escalation in Middle East theater. TRUMP suggests regime change strategy, additional force deployments to region (Sunday Guardian)",
       "source": "Google Middle East",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcXZuZ3VOdUdyQzF1Ti1wWHFLUlBzQ180cC1qeDNxZF9vVk9RUzJEWjJMZDhRdTMya3JoeW42eENuOGI3RFBOQ0tralEwQXJPSDJHYTRTMHBzUFVHRUlYMkdNNFNoWnRsY2RqV1dyS3FjNDBQT0lCazE0TWpDNW1FdUxUQVRXQ1BYdkVFOGI5WTJRVUFRZklrWXQ4THZkeXduNGpwNHFaYVdXLXc0MkhoUTZqTVA3TWc1dVBqbHJmWVhCSWZoUTNEWmZZV0pyOHBCLUNmeGs1Nk5BdHg1bGZ5LXZ2S29jN3BXTGFfR3pnSFIzamRQ?oc=5",
       "timestamp": "2026-02-15T06:27:30.144Z"
     },
     {
-      "id": 4,
+      "id": 3,
       "text": "TRUMP calls for IRAN regime change in direct challenge to current U.S. foreign policy — significant geopolitical statement targeting ISLAMIC REPUBLIC leadership (USA Today)",
       "source": "Google Middle East",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWTlRRkVvT3ItUEpBTy1BaWh2LUFVS1N0eFhDbVRGQkdaempWc2pGWW9IVEk1NWIyNG5EaVBVMDA1QzFqcFFfQ05BWUtxVlRmbFgyd05YNjlhUEM0U0dsbmpHR1hlUU4wNnhxR2ZmNFFYTXhFakdpdkJma2N3REFSaVN4eFoweDFSek04UzhHT3NrNHp3bVhXdGJfUndCODRMU0l2RDl4alBkZw?oc=5",
       "timestamp": "2026-02-15T06:21:33.563Z"
     },
     {
-      "id": 3,
+      "id": 2,
       "text": "ISRAEL-IRAN ESCALATION: Potential for direct military confrontation increasing after IRAN's diplomatic/military signals following ISRAEL's Damascus strike. Heightened regional tensions, risk of broader conflict emerging (BBC)",
       "source": "Google Urgent Military",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUjN6T3NQREstT3RLSzExNjh5ZFU0OUsxM2xKQ0VfeENmdE05aVBSR240azRNcFRaUGhmUHZ0QnNrUG1GN1ZuNGEtZWxBUjlKZDZJV25Za1IzQ0JhUG9GeGlrTFAtQWFvYzhhTXVxb2t5QXJtMDgydExyOEJXNXpjYmZCNGJiN19ZOWU1Y2c3MmUxYUczOTNN?oc=5",
       "timestamp": "2026-02-15T06:10:03.743Z"
     },
     {
-      "id": 2,
+      "id": 1,
       "text": "RUSSIA suffers estimated 1.25M total military casualties in UKRAINE conflict by February 2026 — includes killed, wounded, captured, missing (Ukrainian Military Intelligence)",
       "source": "Google Ukraine",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1BxTlZSQm05QjFrd0RLOFctT0pHdzFtdDZtdGYwQ2hCRXpQd0Uzd1NSekNxTEI3Qy1wUFRLR3A0V3FoOS1UN1daTW1zdFpFbFF1dW85S0NWUEc1NzVmWDlRelpIMzJndTYwcXA4OTNHeWZ3OXRIQjVBUEw5SlZFai00Z2pVRjV1U3pGTHBQTDZDakx6dFo4QXpXNGhsQXUwR3pjZHFzekNudkt4dGZiQ9IBtgFBVV95cUxQMTZQRjhCbHhVbzNaMXhaQzZ4OFhRcTlldGtzd29PWnIxUVBfTC1OZ3pncVhQbU1MRTF4VWVQRzZrNDNBTnp4TkNQYkhUZGVjYV9seVNnalhKZXV0czZMQjl6eFE5Y1pUN0JYeE8tSE5rc3E0MWZhNFBWdU4xN0NscXRmSTkwQjJDMXNTRXFsVFRaekF5Vmo3cmVwZFFZaGwyWEdCSUltSGUtZUw1VGZEOVAwMnVvQQ?oc=5",
       "timestamp": "2026-02-15T06:09:55.283Z"
     },
     {
-      "id": 1,
+      "id": 0,
       "text": "TAIWAN directly challenges CHINA at Munich Security Conference - calls BEIJING primary regional security threat, rejects diplomatic softening amid ongoing military pressure (Reuters)",
       "source": "Reuters",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNVRJOTVoRGdjM2NFN0lleElRUGgtZGJCd2dSb200SFVIYjdjcHl1aWZMeUdjejExb0NOWjViYU8weHhJQnRuUVhtckZzaE10bWZVQy05ZUozUHg3aVZfaFZiVmZkcmh0dGFuYk1JZHZvSEU3d1ZpTEFIQ0ViRjdBMHZoZkY1dTh0STRUWWM2dkJWeC1fTzVpMXdYdE1WY0hITW1J?oc=5",
       "timestamp": "2026-02-15T05:56:16.224Z"
-    },
-    {
-      "id": 0,
-      "text": "VENEZUELA President MADURO considers state of emergency amid escalating U.S. military positioning in Caribbean region - potential significant geopolitical tension developing (Miami Herald)",
-      "source": "Google Urgent Military",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOGlERVgtY3hNVXZJYXdUbnJWdi03SDBYRzE1YlZRdWlFeG9ZVXpteUJNTUtnR2dScmNKQ2RPUEhnQWl1TlRycnlVcU1wNGZNVGZ1QTN2OThReXF2dkI5bVZacUtQZ2IyQ0JOZGo1a3lqY2tfZ1NLV2ttZm1NZk5NeEFuZkRjUXJMcHhoRkZpLTZDZjBGN0Z30gGXAUFVX3lxTE8xMXNHSlhINDBSazZLai1VMUh4dzk5N1hIQjRXTng2RXV5MnBrbTQzSk9scTdDU0lVNWU1aWxKMk1hUEVpNkw0SDZWQmVBbXVwMWMzYUhWUzRxVUZfSlFMQUZNQ3JrcVpkU1E5M0JrTjY4VTczNVBzckYxRXp3bTg1S2k3Unk2emVuLXNpME9FUVpVeHBia2M?oc=5",
-      "timestamp": "2026-02-15T05:54:13.322Z"
     }
   ]
 }
